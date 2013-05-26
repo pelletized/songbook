@@ -1,0 +1,96 @@
+body {
+background-color:#ececec;
+font-family: 'Alef', sans-serif;
+color:#555;
+margin:0;
+padding:0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+font-weight:700;
+margin:0;
+padding:0;
+}
+
+ul, li {
+list-style-type:none;
+margin:0;
+padding:0;
+}
+
+/* - - - *top nav - - - */
+nav {
+background-color:#555;
+height:40px;
+line-height:40px;
+}
+
+nav ul {
+margin:0 1%;
+}
+
+nav a {
+display:inline-block;
+color:#FFF;
+text-decoration:none;
+}
+
+.wrap {
+margin-top:10px;
+}
+/* - - - *TOC - - - */
+ul#toc {
+display:table;
+width:98%;
+max-width:768px;
+}
+
+#toc li {
+display:inline-block;
+background-color:#FFF;
+width:5%;
+min-width:40px;
+margin:1%;
+text-align:center;
+cursor:pointer;
+
+}
+
+#toc li:active {
+background-color:#000;
+color:#FFF;
+}
+
+/* - - - *BODY - - - */
+.song {
+display:none;
+background-color:#FFF;
+width:98%;
+max-width:768px;
+margin:0 1%;
+border-bottom:1px solid #ccc;
+border-right:1px solid #ccc;
+border-radius:1px;
+}
+
+.song {
+position:relative;
+padding:0 1%;
+}
+
+.song-number {
+background-color:#555;
+color:#FFF;
+padding:0 1%;
+}
+
+.chorus {
+background-color:#ddd;
+padding:1%;
+}
+
+.song-footer {
+border-top:1px dashed #ddd;
+font-size:80%;
+padding:1% 0 0;
+}
