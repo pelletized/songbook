@@ -63,7 +63,7 @@ color:#FFF;
 
 /* - - - *BODY - - - */
 .song {
-display:none;
+/* display:none; */
 background-color:#FFF;
 width:98%;
 max-width:768px;

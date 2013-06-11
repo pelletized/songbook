@@ -27,20 +27,18 @@
 
 	<ul id="toc"></ul>
 	
+	<div id="result" class="song"></div>
+	
 	<script>		
-	var verse1 = songdata[0].verse[0];
-	document.write(verse1);
-		console.log(verse1);
-		console.log(songdata[0].footer);
+
 	
 	
-		function createList(){
-		  var iter = 135;
+		function createList(){		  
 		  var toc = document.getElementById("toc");
 		  var tocButton = "";
 		  var innerHTML = "";
 		  toc.innerHTML = "";
-		  for(var i = 1; i <= iter; i++){
+		  for(var i = 1; i <= 135; i++){
 			tocButton = "<li id='toc-" + i + "'>" + i + "</li>";
 			
 			innerHTML += tocButton;			
@@ -62,17 +60,57 @@
 				$("song1").slideDown('slow');
 				$(toc).hide();
 				*/
-			}, false);
+			}, false);		
+		}
 		
-		
-		
+		function buildSong() {
+			//var verse1 = songdata[0].verse[0];
+			//document.write(verse1);
+			//console.log(verse1);
+			//console.log(songdata[0].footer);		
+			
+			var songContent, songNumber, songTitle, scripture, verse1, chorus, footer;
+			for (var i = 0; i < songdata.length; i++) {
+				console.log(i);
+				songNumber = songdata[i].number;
+				songTitle = songdata[i].title;
+				verse1 = songdata[i].verse[0]; //only show first verse, then chorus, then other verses
+				verseOthers = songdata[i].verse.slice(1); //get all other verses
+				chorus = songdata[i].chorus;
+				footer = songdata[i].footer;
+				
+				songContent = '<div id="song' + songNumber + '" class="song">\n';
+				songContent += '<h1><span class="song-number">' + songNumber + '</span> ' + songTitle + '</h1>\n';
+				songContent += '<p class="verse">' + verse1 + '</p>\n';
+				//chorus
+				if (chorus) {
+					songContent += '<p class="chorus">' + chorus + '</p>\n';
+				}
+				if (verseOthers) {
+					songContent += '<p class="verse">' + verseOthers + '</p>\n';
+				}
+				
+				songContent += '<p class="song-footer">' + footer + '</p>';
+				songContent += '</div>';
+				
+				
+				console.log(songContent);
+				
+				document.getElementById("result").innerHTML += songContent;
+			}
+			
+			
+			
 		}
 		
 		createList();
 		clicks();
+		buildSong();
 	
 	</script>
-
+	
+	
+<!--
 	<div id="song1" class="song">
 		<h1><span class="song-number">1</span> Song title</h1>
 		<p class="verse1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
@@ -83,7 +121,8 @@
 		
 		<p class="song-footer">This is the song footer.</p>
 	</div>
-	
+-->
+
 </div>
 </body>
 </html>
