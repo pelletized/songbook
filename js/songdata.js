@@ -205,82 +205,80 @@ var songdata = [
 		//"chorus" : "",
 		"footer" : "(See also Ps. 12:6; 89:7; 144:3; Rom. 1:20.)"	
 	},
+	{
+		"number" : "16",
+		"title" : "Flee to God's Kingdom!",
+		"scripture" : "(Zephaniah 2:3)",
+		"verse" : [			
+				"1. Oh, seek Jehovah, you meek ones and lowly; Seek what is right, and seek meekness today. Thus it may be in the day of his anger That you may be hidden away.",
+
+				"2. Come, you who hunger for truth and for justice; Why longer sorrow and cry out in pain? Seek now God's way to escape the oppressor, Submitting yourself to Christ's reign.",
+
+				"3. Look up, yes, lift up your heads with rejoicing; See all the proof that the Kingdom is here! Welcome the light that Jehovah is sending, And let him alone be your fear!"
+		],
+		"chorus" : "Flee to God's Kingdom, the hope of mankind; Firm for his rule take your stand. There you will find God's protection and blessing; Hasten to heed his command. ",
+		"footer" : "(See also Ps. 59:16; Prov. 18:10; 1 Cor. 16:13.)"	
+	},
+	{
+		"number" : "17",
+		"title" : "Forward, You Witnesses!",
+		"scripture" : "(Luke 16:16)",
+		"verse" : [			
+				"1. Firm and determined in this time of the end, Prepared are God's servants the good news to defend. Though Satan against us has vaunted, In our God's strength we move ahead undaunted.",
+
+				"2. Soldiers of Jah do not seek a life of ease; The world and its rulers we do not try to please. Unspotted at all times remaining, Our integrity we shall keep maintaining.",
+
+				"3. God's Kingdom hope has been mocked and pushed aside; His great name is slandered, its holiness denied. Let's share in its sanctification, And proclaim it to ev'ry tribe and nation."
+		],
+		"chorus" : "Then forward, you Witnesses, ever strong of heart! Rejoice that in God's work, you too may have a part! Go tell far and wide that the paradise is near And that soon all its blessings will be here. ",
+		"footer" : "(See also Phil. 1:7; 2 Tim. 2:3, 4; Jas. 1:27.)"	
+	},
+	{
+		"number" : "18",
+		"title" : "God's Loyal Love",
+		"scripture" : "(Isaiah 55:1-3)",
+		"verse" : [			
+				"1. Loyal love! God is love. This truth cheers us from above. Love caused God to send his Son, Who for us the ransom won, That we might gain righteousness, Life eternal, happiness.",
+
+				"2. Loyal love! God is love. All his works give proof thereof. Love for us he's further shown, Giving Christ the kingly throne To fulfill his cov'nant sworn. See! His Kingdom has been born.",
+
+				"3. Loyal love! God is love. May his love move us to love. Loyally we'll help the meek, As God's righteous way they seek. May we preach with godly fear, Comfort spread for all to hear."
+		],
+		"chorus" : "Hey there, all you thirsty ones, Come and drink life's water free. Yes, come drink, you thirsty ones; God's loving-kindness see. ",
+		"footer" : "(See also Ps. 33:5; 57:10; Eph. 1:7.)"	
+	},
+	{
+		"number" : "19",
+		"title" : "God's Promise of Paradise",
+		"scripture" : "(Luke 23:43)",
+		"verse" : [			
+				"1. A paradise our God has promised, By means of Christ's Millennial Reign, When he'll blot out all sin and error, Removing death and tears and pain. ",
+
+				"2. Soon here on earth, as God has purposed, His Son will cause the dead to rise. Thus it will be as Jesus promised: ‘You'll be with me in Paradise.'",
+
+				"3. Yes, Paradise, our Lord did promise. And he is now earth's rightful King. We daily thank our loving Father, And from our hearts, his praises sing."
+		],
+		"chorus" : "A paradise, the earth will be. With eyes of faith, this we can see. This promise Christ shall soon fulfill, For he delights to do God's will.",
+		"footer" : "(See also Matt. 5:5; 6:10; John 5:28, 29.)"	
+	},
+	{
+		"number" : "20",
+		"title" : "Bless Our Meeting Together",
+		"scripture" : "(Hebrews 10:24, 25)",
+		"verse" : [			
+				"1. Bless us as we meet together, Great Jehovah, we now pray. For our meetings we do thank you; May your spirit with us stay. ",
+
+				"2. Help us, Lord, refine our worship; With your Word, oh, do us fill. Train our minds and tongues to witness; Love within our hearts instill. ",
+
+				"3. So, dear Father, bless our meetings; Grant us peace and unity. May our words and may our actions Magnify your Sov'reignty."
+		],
+		//"chorus" : "",
+		"footer" : "(See also Ps. 22:22; 34:3; Isa. 50:4.)"	
+	},
 ];
 
 /*
 TODO: start with 31
-16
-
-Flee to God's Kingdom!
-(Zephaniah 2:3)
-
-1. Oh, seek Jehovah, you meek ones and lowly; Seek what is right, and seek meekness today. Thus it may be in the day of his anger That you may be hidden away.
-(CHORUS)
-
-Flee to God's Kingdom, the hope of mankind; Firm for his rule take your stand. There you will find God's protection and blessing; Hasten to heed his command. 2. Come, you who hunger for truth and for justice; Why longer sorrow and cry out in pain? Seek now God's way to escape the oppressor, Submitting yourself to Christ's reign.
-(Chorus)
-
-3. Look up, yes, lift up your heads with rejoicing; See all the proof that the Kingdom is here! Welcome the light that Jehovah is sending, And let him alone be your fear!
-(Chorus)
-
-(See also Ps. 59:16; Prov. 18:10; 1 Cor. 16:13.)
-
-17
-
-Forward, You Witnesses!
-(Luke 16:16)
-
-1. Firm and determined in this time of the end, Prepared are God's servants the good news to defend. Though Satan against us has vaunted, In our God's strength we move ahead undaunted.
-(CHORUS)
-
-Then forward, you Witnesses, ever strong of heart! Rejoice that in God's work, you too may have a part! Go tell far and wide that the paradise is near And that soon all its blessings will be here. 2. Soldiers of Jah do not seek a life of ease; The world and its rulers we do not try to please. Unspotted at all times remaining, Our integrity we shall keep maintaining.
-(Chorus)
-
-3. God's Kingdom hope has been mocked and pushed aside; His great name is slandered, its holiness denied. Let's share in its sanctification, And proclaim it to ev'ry tribe and nation.
-(Chorus)
-
-(See also Phil. 1:7; 2 Tim. 2:3, 4; Jas. 1:27.)
-
-18
-
-God's Loyal Love
-(Isaiah 55:1-3)
-
-1. Loyal love! God is love. This truth cheers us from above. Love caused God to send his Son, Who for us the ransom won, That we might gain righteousness, Life eternal, happiness.
-(CHORUS)
-
-Hey there, all you thirsty ones, Come and drink life's water free. Yes, come drink, you thirsty ones; God's loving-kindness see. 2. Loyal love! God is love. All his works give proof thereof. Love for us he's further shown, Giving Christ the kingly throne To fulfill his cov'nant sworn. See! His Kingdom has been born.
-(Chorus)
-
-3. Loyal love! God is love. May his love move us to love. Loyally we'll help the meek, As God's righteous way they seek. May we preach with godly fear, Comfort spread for all to hear.
-(Chorus)
-(See also Ps. 33:5; 57:10; Eph. 1:7.)
-
-19
-
-God's Promise of Paradise
-(Luke 23:43)
-
-1. A paradise our God has promised, By means of Christ's Millennial Reign, When he'll blot out all sin and error, Removing death and tears and pain.
-(CHORUS)
-
-A paradise, the earth will be. With eyes of faith, this we can see. This promise Christ shall soon fulfill, For he delights to do God's will. 2. Soon here on earth, as God has purposed, His Son will cause the dead to rise. Thus it will be as Jesus promised: ‘You'll be with me in Paradise.'
-(Chorus)
-
-3. Yes, Paradise, our Lord did promise. And he is now earth's rightful King. We daily thank our loving Father, And from our hearts, his praises sing.
-(Chorus)
-
-(See also Matt. 5:5; 6:10; John 5:28, 29.)
-
-20
-
-Bless Our Meeting Together
-(Hebrews 10:24, 25)
-
-1. Bless us as we meet together, Great Jehovah, we now pray. For our meetings we do thank you; May your spirit with us stay. 2. Help us, Lord, refine our worship; With your Word, oh, do us fill. Train our minds and tongues to witness; Love within our hearts instill. 3. So, dear Father, bless our meetings; Grant us peace and unity. May our words and may our actions Magnify your Sov'reignty.
-
-(See also Ps. 22:22; 34:3; Isa. 50:4.)
-
 21
 
 Happy, the Merciful!
