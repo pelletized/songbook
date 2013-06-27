@@ -48,17 +48,20 @@
 			//var tocButton = "toc-" + i;
 			//var tocButton = "#toc-" + i;
 			//console.log(tocButton);			
+			
+			
 		  }
 		  toc.innerHTML = innerHTML;
   
 		  for(var j = 1; j <= max; j++) {
 			//var tocText = $("#toc" + j).text();
 			var button = document.getElementById("toc" + j);
+			//var button = document.getElementById(tocButton.innerHTML);
+			//console.log(j);
 			
-			//console.log(button);
 			button.addEventListener("click", function() {
-				console.log(this.innerHTML);
-				console.log(button);
+				//console.log(this.innerHTML);
+				//console.log(button);
 				var buttonText = this.innerHTML;
 				clicks(buttonText);			
 			}, false);		
@@ -68,16 +71,18 @@
 		};
 		
 		function clicks(buttonText) {
-			console.log(buttonText);			
+			//console.log(buttonText);			
 			//TODO: hide toc
 			//$("#toc").hide();
 			var toc = document.getElementById("toc");
 			toc.style.display = "none";
-			buildSong(buttonText);			
+			buildSong(buttonText);
 		}		
 		
 		function buildSong(buttonText) {			
 			var songContent, songNumber, songTitle, scripture, verse1, chorus, footer;			
+			
+			buttonText = buttonText - 1; // added for demo purposes, THIS NEEDS TO BE FIXED
 			
 			songNumber = songdata[buttonText].number;
 			songTitle = songdata[buttonText].title;
