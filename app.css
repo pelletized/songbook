@@ -1,7 +1,7 @@
 body {
 background-color:#ececec;
 font-family: 'Alef', sans-serif;
-font-size:1.5rem;
+font-size:1.2rem;
 color:#555;
 margin:0;
 padding:0;
@@ -50,8 +50,8 @@ margin:0 auto;
 #toc li {
 display:inline-block;
 background-color:#FFF;
-width:5%;
-min-width:100px;
+width:25%;
+max-width:100px;
 margin:1%;
 padding:30px 0;
 text-align:center;
