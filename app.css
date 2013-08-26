@@ -2,6 +2,7 @@ body {
 background-color:#ececec;
 font-family: 'Alef', sans-serif;
 font-size:1.2rem;
+line-height:1.6em;
 color:#555;
 margin:0;
 padding:0;
@@ -11,6 +12,7 @@ h1, h2, h3, h4, h5, h6 {
 font-weight:700;
 margin:0;
 padding:0;
+line-height:1em;
 }
 
 ul, li {
@@ -21,7 +23,11 @@ padding:0;
 
 /* - - - *top nav - - - */
 nav {
+display:block;
+position:fixed;
+bottom:0;
 background-color:#555;
+width:100%;
 height:40px;
 line-height:40px;
 }
@@ -37,14 +43,17 @@ text-decoration:none;
 }
 
 .wrap {
-margin-top:10px;
+margin:0 auto;
+width:100%;
+max-width:960px;
+
 }
 /* - - - *TOC - - - */
 ul#toc {
 display:table;
 width:98%;
 max-width:768px;
-margin:0 auto;
+margin:0 auto 20px auto;
 }
 
 #toc li {
@@ -65,21 +74,22 @@ color:#FFF;
 }
 
 /* - - - *BODY - - - */
+#result {
+padding-top:20px;
+}
+
 .song {
 background-color:#FFF;
 width:98%;
 max-width:768px;
-margin:0 1%;
-border-bottom:1px solid #ccc;
-border-right:1px solid #ccc;
-border-radius:1px;
-}
-
-.song {
-position:relative;
-width:90%;
 margin:0 auto;
 padding:0 1%;
+border:1px solid #ccc;
+border-radius:3px;
+}
+
+.song h1 {
+margin-top:5px;
 }
 
 .song-number {

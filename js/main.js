@@ -5,8 +5,9 @@
 		  var tocButton = "";
 		  var innerHTML = "";
 		  toc.innerHTML = "";
-		  var max = 135;		  
-		  for(var i = 1; i <= max; i++){
+		  var max = 135;
+		  var i = 1;	
+		  for(i; i <= max; i++){
 			tocButton = "<li id='toc" + i + "'>" + i + "</li>";
 			//console.log(i);
 			
@@ -27,8 +28,6 @@
 			//console.log(j);
 			
 			button.addEventListener("click", function() {
-				//console.log(this.innerHTML);
-				//console.log(button);
 				var buttonText = this.innerHTML;
 				clicks(buttonText);			
 			}, false);		
@@ -37,10 +36,7 @@
 	  
 		};
 		
-		function clicks(buttonText) {
-			//console.log(buttonText);			
-			//TODO: hide toc
-			//$("#toc").hide();
+		function clicks(buttonText) {			
 			var toc = document.getElementById("toc");
 			toc.style.display = "none";
 			buildSong(buttonText);
@@ -55,7 +51,11 @@
 			songTitle = songdata[buttonText].title;
 			verse1 = songdata[buttonText].verse[0]; //only show first verse, then chorus, then other verses
 			verseOthers = songdata[buttonText].verse.slice(1); //get all other verses
+			console.log(verseOthers);
+			
 			chorus = songdata[buttonText].chorus;
+			
+			scripture = songdata[buttonText].scripture;
 			footer = songdata[buttonText].footer;
 			
 			songContent = '<div id="song' + songNumber + '" class="song">\n';
@@ -66,10 +66,14 @@
 				songContent += '<p class="chorus">CHORUS:<br />' + chorus + '</p>\n';
 			}
 			if (verseOthers) {
-				songContent += '<p class="verse">' + verseOthers + '</p>\n';
+				songContent += '<p class="verse">' + verseOthers[0] + '</p>\n';
+				
+				if (verseOthers[1]) {
+					songContent += '<p class="verse">' + verseOthers[1] + '</p>\n';
+				}
 			}
 			
-			songContent += '<p class="song-footer">' + footer + '</p>';
+			songContent += '<p class="song-footer">Taken from: ' + scripture + ' ' + footer + '</p>';
 			songContent += '</div>';
 						
 			document.getElementById("result").innerHTML += songContent;
