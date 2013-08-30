@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, h6 {
 font-weight:700;
 margin:0;
 padding:0;
-line-height:1em;
+line-height:1.2em;
 }
 
 ul, li {
@@ -44,7 +44,7 @@ text-decoration:none;
 
 .wrap {
 margin:0 auto;
-width:100%;
+width:96%;
 max-width:960px;
 
 }
@@ -53,7 +53,7 @@ ul#toc {
 display:table;
 width:98%;
 max-width:768px;
-margin:0 auto 20px auto;
+margin:50px auto;
 }
 
 #toc li {
@@ -75,15 +75,16 @@ color:#FFF;
 
 /* - - - *BODY - - - */
 #result {
-padding-top:20px;
+padding:20px 0 50px;
 }
 
 .song {
+display: table-cell;
 background-color:#FFF;
 width:98%;
 max-width:768px;
 margin:0 auto;
-padding:0 1%;
+padding:0 3%;
 border:1px solid #ccc;
 border-radius:3px;
 }
@@ -95,7 +96,7 @@ margin-top:5px;
 .song-number {
 background-color:#555;
 color:#FFF;
-padding:0 1%;
+padding:0 3%;
 }
 
 .chorus {
