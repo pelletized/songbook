@@ -32,7 +32,6 @@
 				}, false);
 
 			}
-			
 		}
 
 		function buildSong(buttonText) {
@@ -83,4 +82,20 @@
 			toc.style.display = "block";			
 		}
 
+
 		createList();		
+		
+		function swipe() {
+			window.addEventListener('load', function() { 
+				//var result = document.getElementById("result");
+				//console.log(result);				
+				var hammer = new Hammer(document.getElementById("body"));
+				hammer.ondoubletap = function(e){
+				  console.log("CAN touch this!");
+				};			
+				
+			}, false);			
+		}
+		
+		//swipe();
+
