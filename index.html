@@ -11,18 +11,34 @@
 
 <nav>
     <ul class="wrap">
+		<!--<li>&laquo;</li>-->
         <li style="text-align:center"><a href="index.html" style="display:block" onclick="homeButton();">Table of Contents</a></li>
+		<!--<li>&raquo;</li>-->
     </ul>
 </nav>
 <div class="wrap">
-
+	
     <ul id="toc"></ul>
     <div id="result"></div>
-
+	<form onsubmit="songSearch();">
+		<input type="number" min="1" max="135" name="song-search" id="song-search" placeholder="Enter a song number" pattern="\d*" />
+		<button>Search</button>	
+	</form>
 </div>
 <script src="js/hammer.min.js"></script>
 <script src="js/main.js"></script>
 <script src="js/songdata.js"></script>
+
+<script>
+function songSearch() {
+var songNumber = document.getElementById("song-search").value;
+
+console.log(songNumber);
+//return songNumber;
+buildSong(songNumber);
+}
+
+</script>
 </body>
 </html>
 
