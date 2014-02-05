@@ -20,7 +20,7 @@
 	
     <ul id="toc"></ul>
     <div id="result"></div>
-	<form onsubmit="songSearch();">
+	<form method="POST" onsubmit="songSearch();">
 		<input type="number" min="1" max="135" name="song-search" id="song-search" placeholder="Enter a song number" pattern="\d*" />
 		<button>Search</button>	
 	</form>
@@ -32,10 +32,16 @@
 <script>
 function songSearch() {
 var songNumber = document.getElementById("song-search").value;
-
 console.log(songNumber);
 //return songNumber;
-buildSong(songNumber);
+//search(songNumber);
+
+var toc = document.getElementById("toc");
+toc.style.display = "none";
+
+//buildSong(songNumber);								
+//window.scrollTo(0, 0);	
+
 }
 
 </script>

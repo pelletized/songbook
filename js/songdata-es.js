@@ -1,139 +1,139 @@
 var songdata = [
 	{
 		"number" : "1",
-		"title" : "Jehovah's Attributes",
-		"scripture" : "(Revelation 4:11)",
+		"title" : "Los atributos de Jehová",
+		"scripture" : "(Revelación 4:11)",
 		"verse" : [			
-				"1. Jehovah God, exalted in might, Source of all life and Provider of light.<br /> Creation speaks of your power so great; More your great day will still relate.",
+				"1. Inmensa es tu fuerza, Jehová, de vida y luz eres el Manantial. La creación canta tu gran poder. ¡Nadie jamás te va a vencer!",
 				
-				"2. Your lofty throne, on justice it stands. Thus you make known all your righteous commands. And as we turn to your Word, we can see Your wisdom shine so brilliantly.", 
+				"2. Justicia fiel, derecho veraz, las bases son de tu trono real. Tu gran saber resplandece en tu ley, a diario yo la seguiré.", 
 				
-				"3. Greatest of all is your perfect love. None can repay all your gifts from above. Your attributes and your glorious name, Exultingly we will proclaim."	
+				"3. Nadie en amor te superará. ¿Cómo podré tus favores pagar? Mis labios, Dios, gloria te cantarán, con devoción te alabarán."	
 		],
 		
-		"footer" : "(See also Ps. 36:9; 145:6-13; Jas. 1:17.)"	
+		"footer" : "(Véanse también Sal. 36:9; 145:6-13; Sant. 1:17.)"	
 	}, 	
 	{
 		"number" : "2",
-		"title" : "We Thank You, Jehovah",
+		"title" : "Gracias, Jehová",
 		"scripture" : "(1 Thessalonians 5:18)",
 		"verse" : [			
-				"1. We thank you, Jehovah, each day and each night, That you shed upon us your precious light. We thank you that we have the priv'lege of prayer, That we can approach you with ev'ry care.",
+				"1. Te damos las gracias a diario, Jehová, por tu luz preciosa y tu verdad. Las gracias te damos por la oración y por socorrernos en la aflicción.",
 				
-				"2. We thank you, Jehovah, for your loving Son, Who conquered the world; By his faith he won. We thank you for guidance in doing your will, For thus you do help us our vows fulfill. ", 
+				"2. Te damos las gracias por Cristo Jesús, que al mundo venció por su fe y virtud. Las gracias te damos por guiarnos, Señor, en tus rectas sendas de paz y amor.", 
 				
-				"3. We thank you, our God, for the honor to preach About your great name and the truth to teach. We thank you that soon all earth's woes will be past, While your Kingdom blessings forever last."
+				"3. Te damos las gracias por el gran honor de dar testimonio de tu amor. Las gracias te damos por tu Reino leal, por tantos favores, oh gran Jehová."
 		],
 		
-		"footer" : "(See also Ps. 50:14; 95:2; 147:7; Col. 3:15.)"	
+		"footer" : "(Véanse también Sal. 50:14; 95:2; 147:7; Col. 3:15.)"	
 	},
 	{
 		"number" : "3",
-		"title" : "God Is Love",
-		"scripture" : "(1 John 4:7, 8)",
+		"title" : "\"Dios es amor\"",
+		"scripture" : "(1 Juan 4:7, 8)",
 		"verse" : [			
-				"1. God is love, and he invites us, 'Walk with me and love my way.' When we love both God and neighbor, Gracious deeds will fill each day. Therein lies the key to living; Therein lies the life we seek. Christlike love will never fail us. Christlike love through us will speak.",
+				"1. La creación y la Escritura muestran que Dios es amor, y por eso quien no ama no conoce al Creador. El amor es una senda, un camino sin igual, que Jehová nos ha trazado y que no tendrá final.",
 
-				"2. Love of truth moves us to action; Love of God moves us to love. When we fail he seeks to help us; By his strength we rise above. Love is pure and never jealous; Love is kind and bears all things. May we grow to love our brother. May we taste what true love brings. ",
+				"2. Aunque entregue cuanto tengo o la vida ofrezca yo, no me servirá de nada si no lo hago por amor. El amor no siente envidia ni procura su interés, es amable, bondadoso, servicial y muy cortés.",
 
-				"3. Never let resentment lead you; May it never take your hand. Look to God, and he will guide you; He will teach you these commands: Love of God and love of neighbor, Ev'rything that love should be. May we always show to others Godlike love, yes, tenderly."
+				"3. Nunca dejes que en tu pecho crezca el odio ni el rencor; el ejemplo de Dios sigue y ama como él nos amó. Si a Dios amas con el alma, y a tu prójimo también, un caudal de bendiciones sobre ti verás caer."
 		],
 		
-		"footer" : "(See also Mark 12:30, 31; 1 Cor. 12:31–13:8; 1 John 3:23.)"	
+		"footer" : "(Véanse también Mar. 12:30, 31; 1 Cor. 12:31–13:8; 1 Juan 3:23.)"	
 	},
 	{
 		"number" : "4",
-		"title" : "Making a Good Name With God",
-		"scripture" : "(Ecclesiastes 7:1)",
+		"title" : "Un buen nombre ante Dios",
+		"scripture" : "(Eclesiastés 7:1)",
 		"verse" : [			
-				"1. Throughout our lifetime, We want to use each day To make a good name And all God's laws obey. If in Jehovah's sight We strive to do what's right, Then to his own heart We'll bring delight.",
+				"1. Si un buen nombre te labras ante Dios, serás dichoso, disfrutarás su amor. Viviendo para él, de acuerdo con su ley, darás a su alma un gran placer.",
 
-				"2. To seek in this world A celebrated name, To want its favor, To bask in its acclaim Is simply vanity. For if its friend we'd be, Jehovah's favor We would not see.",
+				"2. Ir tras la fama, el oro y el poder, la gloria vana que en este mundo ves, es simple necedad, correr tras lo irreal; tan solo deja calamidad.",
 
-				"3. In God's remembrance We want our name to be Inscribed in his book For all eternity. On him we can depend, So we his truth defend And keep our good name Down to the end."
+				"3. En tu memoria, te ruego, oh Jehová, mantén mi nombre por la eternidad. En ti yo confiaré, tu amor proclamaré, y mientras viva, fiel te seré."
 		],
 		
-		"footer" : "(See also Gen. 11:4; Prov. 22:1; Mal. 3:16; Rev. 20:15.)"	
+		"footer" : "(Véanse también Gén. 11:4; Pro. 22:1; Mal. 3:16; Rev. 20:15.)"	
 	},
 	{
 		"number" : "5",
-		"title" : "Christ, Our Exemplar",
+		"title" : "Cristo, nuestro modelo",
 		"scripture" : "(Romans 5:8)",
 		"verse" : [			
-				"1. What love Jehovah showed, What blessings from him flowed, When for all mankind he gave his dear Son. Christ then became our bread, That we might all be fed, And life eternal in peace might be won.",
+				"1. Al hombre pecador, Jehová mostró su amor: envió a su Hijo, quien nos redimió. Él es pan celestial que vida al mundo da; por él tenemos paz y salvación.",
 
-				"2. Christ taught us ev'ry day For God's great name to pray, The name Jehovah to be sanctified. Pray that his Kingdom come And that his will be done. Pray that he daily our bread will provide. ",
+				"2. Jesús nos enseñó a orar así a Dios: “Oh, santifica tu nombre, Jehová. Tu Reino venga ya, sí, haz tu voluntad y, por favor, danos hoy nuestro pan”.",
 
-				"3. God's truth Christ Jesus taught And tender comfort brought To those who followed as his faithful sheep. May seeds of Kingdom praise Be sown through all our days. Then satisfaction and joy we will reap."
+				"3. Jesús fortaleció a todo el que le oyó, le dio consuelo, su fe renovó. Sembremos, como él, semillas por doquier; cosecharemos gran satisfacción."
 		],
 		
-		"footer" : "(See also Matt. 6:9-11; John 3:16; 6:31-51; Eph. 5:2.)"	
+		"footer" : "(Véanse también Mat. 6:9-11; Juan 3:16; 6:31-51; Efe. 5:2.)"	
 	},
 	{
 		"number" : "6",
-		"title" : "The Prayer of God's Servant",
-		"scripture" : "(Ephesians 6:18)",
+		"title" : "La oración del siervo de Dios",
+		"scripture" : "(Efesios 6:18)",
 		"verse" : [			
-				"1. Heavenly Father, Sovereign Lord, May your great name forever be adored. Your tender mercies long will endure, Ever so faithful, ever so sure. Ever faithful, ever sure, All your mercies will endure.",
+				"1. Padre, Jehová, altísimo Dios, digno es tu nombre de veneración. Eres tan tierno, tan justo y fiel, en ti yo pongo toda mi fe. En ti pongo yo mi fe, Padre tierno, justo y fiel.",
 
-				"2. Love for the truth within us instill. Help us, O God, to carry out your will. All your commandments we want to keep, Finding and feeding your precious sheep. Finding, feeding your dear sheep, Your commands we want to keep. ",
+				"2. Tu voluntad enséñame a hacer, a amar tus leyes con mi entero ser. A los humildes quiero buscar y consolarlos con tu verdad. Tu consuelo quiero dar al humilde, oh Jehová.",
 
-				"3. Wisdom we seek from heaven above. Please grant this gift, and fill our hearts with love. Help us our love and mercy to show, Helping all men our great God to know. Helping all our God to know, May our love and mercy show."
+				"3. Lléname, Dios, de tu paz y amor, dame también un sabio corazón. Tu compasión deseo mostrar y salvación a todos llevar. Salvación voy a llevar y tu compasión mostrar."
 		],
 		
-		"footer" : "(See also Ps. 143:10; John 21:15-17; Jas. 1:5.)"	
+		"footer" : "(Véanse también Sal. 143:10; Juan 21:15-17; Sant. 1:5.)"	
 	},
 	{
 		"number" : "7",
-		"title" : "Christian Dedication",
-		"scripture" : "(Hebrews 10:7, 9)",
+		"title" : "Dedicación cristiana",
+		"scripture" : "(Hebreos 10:7, 9)",
 		"verse" : [			
-				"1. Because Jehovah created The universe so grand, To him belong the earth and sky, The works of his own hand. The breath of life he has given And to his creatures shown That worthy is he to have the praise, The worship of all his own.",
+				"1. El infinito universo lo hiciste tú, Jehová. Son tuyos cielos, tierra y mar, y cuanto en ellos hay. Nos diste vida y aliento, tu mano nos formó, por eso mereces recibir servicio y adoración.",
 
-				"2. In water Jesus was baptized To righteousness fulfill. In solemn prayer he said to God: 'I've come to do your will.' When he came up from the Jordan As God's anointed Son, Obedient and loyal he would serve As God's dedicated One.",
+				"2. El día de su bautismo, Jesús así te oró: \"Aquí me tienes para hacer tu voluntad, oh Dios\". Después salió de las aguas ungido como Rey, resuelto a cumplir la comisión de dar a saber tu ley.",
 
-				"3. We come before you, Jehovah, To praise your name so great. Disowning self, with humble hearts Our lives we dedicate. You gave your only begotten, Who paid the price so high. No longer as living for ourselves, For you we shall live or die."
+				"3. Te entrego mi vida entera, te pertenece a ti. Servirte es mi mayor placer, no vivo para mí. La sangre de tu Hijo, Cristo, compró mi salvación. Si vivo o si muero, es para ti, mi Gran Dueño y Señor."
 		],
 		
-		"footer" : "(See also Matt. 16:24; Mark 8:34; Luke 9:23.)"	
+		"footer" : "(Véanse también Mat. 16:24; Mar. 8:34; Luc. 9:23.)"	
 	},
 	{
 		"number" : "8",
-		"title" : "The Lord's Evening Meal",
-		"scripture" : "(Matthew 26:26-30)",
+		"title" : "La Cena del Señor",
+		"scripture" : "(Mateo 26:26-30)",
 		"verse" : [			
-				"1. Jehovah, our Father in heaven, Oh, this is a most sacred night! It was Nisan fourteen when your glory was seen, Your love, justice, wisdom, and might. The Passover lamb was then eaten, And Israel's tribes went forth free. Cent'ries later our Lord his own lifeblood outpoured To fulfill this divine prophecy. ",
+				"1. Jehová, Padre omnipotente, es esta una fecha especial. En el día catorce del mes de nisán, tu gloria Israel vio brillar. Comieron cordero de Pascua, marcharon a la libertad. Cristo siglos más tarde su sangre vertió como manso cordero pascual.",
 
-				"2. We're gathered together before you. As sheep of your pasture, we came To give praise for your love that brought Christ from above, To honor your most holy name. We keep this Memorial occasion Fixed firmly in heart and in mind. Thus we'll walk ev'ry day as Christ showed us the way, And then life everlasting we'll find."
+				"2. Señor, ante ti nos hallamos, ovejas de tu gran redil, llenos de gratitud, pues a tu Hijo, Jesús, enviaste a la Tierra a morir. ¡Qué muestra de amor tan sublime! No la olvidaremos jamás. Seguiremos las huellas que Cristo dejó, y la vida sin fin nos darás."
 		],
 		
-		"footer" : "(See also Luke 22:14-20; 1 Cor. 11:23-26.)"	
+		"footer" : "(Véanse también Luc. 22:14-20; 1 Cor. 11:23-26.)"	
 	},
 	{
 		"number" : "9",
-		"title" : "Praise Jehovah, Our God!",
-		"scripture" : "(Psalm 145:12)",
+		"title" : "¡Gloria a nuestro Dios, Jehová!",
+		"scripture" : "(Salmo 145:12)",
 		"verse" : [			
-				"1. Praise our God! Praise Jehovah God! Make his glorious name known to all! Sound alarm! For his day is near, And all men must heed his warning call. Our God has decreed that now is the time For his Firstborn to rule as King. Reach out to all men, and tell them the news, Tell what blessings our God will bring!",
+				"1. ¡Gloria a Dios! ¡Gloria al gran Jehová! ¡Celebremos su santidad! Cerca ya su gran día está, y la alarma tiene que sonar. A los cuatro vientos hay que anunciar que su Hijo reinando está y que bendiciones derramará sobre toda la humanidad.",
 
-				"2. Praise our God! Sing it loud and clear! With a joyful song, laud his name! From the heart, From a grateful heart, All his glory boldly we proclaim. Though grand is our God and great are his works, He is humble and good to all. He shows loving-kindness, mercy, and love And will hear when to him we call."
+				"2. ¡Gloria a Dios! ¡Gloria al gran Jehová, Soberano fiel y leal! Con valor vamos a cantar su grandeza y su majestad. Si bien su poder no tiene rival, se complace en mostrar bondad. Al arrepentido perdonará y en sus brazos lo estrechará."
 		],
-		"chorus" : "Praise our God! Praise Jehovah God! Make his greatness known in all the earth! ",
-		"footer" : "(See also Ps. 89:27; 105:1; Jer. 33:11.)"	
+		"chorus" : "¡Gloria a Dios! ¡Gloria al gran Jehová! ¡A su nombre alabanza da!",
+		"footer" : "(Véanse también Sal. 89:27; 105:1; Jer. 33:11.)"	
 	},
 	{
 		"number" : "10",
-		"title" : "\"Here I Am! Send Me\"",
-		"scripture" : "(Isaiah 6:8)",
+		"title" : "\"¡Aquí estoy yo! Envíame a mí\"",
+		"scripture" : "(Isaías 6:8)",
 		"verse" : [			
-				"1. Today men heap reproach and shame, In many ways on God's fair name. Some show God weak; some paint him cruel. \"There is no God!\" so shouts the fool. Who'll go the name of God to clear? Who'll sing his praise for all to hear? \"Lord, here I am! Send me, send me. I'll sing your praises faithfully.",
+				"1. Deshonra hoy la humanidad el santo nombre de Jehová; lo pintan como un Dios muy cruel o en él se niegan a creer. \"¿En mi defensa, quién saldrá y mi justicia exaltará?\" \"¡Aquí estoy yo! Envíame. Tu nombre yo defenderé..",
 
-				"2. Men make the taunt that God is slow; The fear of God they do not know. Some worship idols made of stone; Some would put Caesar on God's throne. Who'll tell the wicked what's in store? Who'll warn of God's great final war? \"Lord, here I am! Send me, send me. I'll sound the warning fearlessly.",
+				"2. Los necios dicen del Señor que es lento, que no tiene amor; adoran vanos ídolos o al César dan lo que es de Dios. \"¿Al malo, quién advertirá del juicio que se acerca ya?\" \"¡Aquí stoy yo! Envíame. Sin miedo yo le advertiré.",
 
-				"3. Today the meek ones mourn and sigh Because the evils multiply. With honest hearts they seek to find The truth that gives real peace of mind. Who'll go with comfort to the meek? Who'll help them righteousness to seek? \"Lord, here I am! Send me, send me. I'll teach such meek ones patiently."
+				"3. Los mansos gimen de dolor y al cielo elevan su clamor; ansiosos buscan la verdad que les dará la libertad. \"¿Al manso, quién enseñará las buenas nuevas de la paz?\" \"¡Aquí estoy yo! Envíame. Paciente yo le enseñaré."
 		],
-		"chorus" : "No greater honor could there be, Lord. Here I am! Send me, send me.\" ",
-		"footer" : "(See also Ps. 10:4; Ezek. 9:4.)"	
+		"chorus" : "\"Mayor honor no puede haber, no. Yo iré, envíame.\" ",
+		"footer" : "(Véanse también Sal. 10:4; Eze. 9:4.)"	
 	},
 	{
 		"number" : "11",

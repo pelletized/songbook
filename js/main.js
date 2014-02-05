@@ -33,6 +33,13 @@
 
 			}
 		}
+		
+		function search(songNumber) {
+			var toc = document.getElementById("toc");
+			toc.style.display = "none";
+			buildSong(songNumber);								
+			window.scrollTo(0, 0);					
+		}
 
 		function buildSong(buttonText) {
 			//console.log("button " + buttonText);
