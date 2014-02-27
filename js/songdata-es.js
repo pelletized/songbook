@@ -430,522 +430,522 @@ var songdata = [
 	},
 	{
 		"number" : "32",
-		"title" : "Be Steadfast, Unmovable!",
-		"scripture" : "(1 Corinthians 15:58)",
+		"title" : "¡Firmes y constantes!",
+		"scripture" : "((1 Corintios 15:58)",
 		"verse" : [			
-				"1. Nations are troubled as never before. People are fearful of what lies in store. Firm and unmovable we need to be, Serving our God faithfully.",
+				"1. El mundo vive en continuo temor,<br />sin vislumbrar un futuro mejor.<br />Nuestra confianza está puesta en Jehová,<br />el Dios de la libertad.",
 
-				"2. Snares of this world and temptations abound. We can resist if our thinking is sound. If we hold fast to what God says is true, Safely he'll carry us through.",
+				"2. Mil tentaciones nos pone Satán;<br />nunca la guardia debemos bajar.<br />Si procuramos vivir la verdad,<br />Dios protección nos dará.",
 
-				"3. Give to God worship that comes from the heart. In the Lord's service may we have a part. Preach the good news, always holding it fast. Soon the last days will have passed."
+				"3. A Dios adora con el corazón,<br />cumple su encargo con celo y amor.<br />Pronto el malvado ya no existirá,<br />el bien al fin triunfará."
 		],
-		"chorus" : "Steadfast we all need to be; Far from this world we keep free, As we feed on God's truth and keep integrity. ",
-		"footer" : "(See also Luke 21:9; 1 Pet. 4:7.)"	
+		"chorus" : "Firmes tenemos que estar,<br />libres de toda maldad,<br />manteniendo hasta el fin la fe y la integridad.",
+		"footer" : "(Véanse también Luc. 21:9; 1 Ped. 4:7.)"	
 	},
 	{
 		"number" : "33",
-		"title" : "Fear Them Not!",
-		"scripture" : "(Matthew 10:28)",
+		"title" : "¡No los temas!",
+		"scripture" : "(Mateo 10:28)",
 		"verse" : [			
-				"1. Ever onward, O my people, Let the Kingdom tidings go. Tremble not before our foe. Let all lovers of truth know That my reigning Son, Christ Jesus, To the earth has cast the foe, Soon to bind the Devil, Satan, Letting all his victims go.",
+				"¡Adelante, mis guerreros!,<br />hora es de combatir;<br />con arrojo hay que decir<br />que mi Reino ya está aquí.<br />Ya mi Hijo ha lanzado<br />a la Tierra a Satanás<br />y muy pronto por mil años<br />al abismo lo echará.",
 
-				"2. Even though your foes are many, Though they threaten and revile, Though they flatter and they smile, To mislead and to beguile. Fear them not, my faithful warriors, Nor their persecution's heat, For I will preserve the faithful Till the vict'ry is complete.",
+				"2. Aunque usen amenazas<br />para hacerte tropezar<br />o te quieran engañar<br />con su dulce palabrear,<br />no permitas que te entrampen<br />o te hagan vacilar;<br />con mi espíritu y mi fuerza<br />la victoria lograrás.",
 
-				"3. Never fear you are forgotten; I am still your strength and shield. Though you die upon the field, Even death to me will yield. Fear them not who kill the body But cannot destroy the soul. To the end may you be faithful; I will bring you to your goal!"
+				"3. Nunca temas que te olvide,<br />en tu ayuda yo saldré;<br />aun si mueres por tu fe,<br />yo te resucitaré.<br />Quienes matan solo el cuerpo<br />no merecen tu temor;<br />sigue fiel, no desfallezcas,<br />yo seré tu protector."
 		],
-		"chorus" : "Fear them not, O my beloved, Though their boasting threats may fly. I will keep my faithful servant As the apple of my eye. ",
-		"footer" : "(See also Deut. 32:10; Neh. 4:14; Ps. 59:1; 83:2, 3.)"	
+		"chorus" : "No te asustes, pueblo mío,<br />nadie te podrá vencer,<br />pues la niña de mis ojos<br />eres tú, mi siervo fiel.",
+		"footer" : "(Véanse también Deu. 32:10; Neh. 4:14; Sal. 59:1; 83:2, 3.)"	
 	},
 	{
 		"number" : "34",
-		"title" : "Living Up to Our Name",
-		"scripture" : "(Isaiah 43:10-12)",
+		"title" : "Hagamos honor a nuestro nombre",
+		"scripture" : "(Isaías 43:10-12)",
 		"verse" : [			
-				"1. Glorious Jehovah, almighty, eternal, Perfect in justice, in power, in love. Source of all truth and of infinite wisdom, You rule as Sov'reign in heaven above. We as your people delight in your service; Your Kingdom truth we delight to proclaim.",
+				"1. Padre glorioso y omnipotente,<br />incomparable en justicia y amor,<br />fuente infinita de sabiduría,<br />todo en los cielos te ensalza, Señor.<br />Es un deleite poder alabarte,<br />al mundo entero tu Reino anunciar.",
 
-				"2. Working together in your sacred service Binds us as brothers in love and in peace. Teaching the truth and re?ecting your glory Fill us with joy as your praises increase. Known by your name, O Jehovah, our Father, We have the honor to add to your fame."
+				"2. Colaborar en tu santo servicio<br />nos une en lazos de amor fraternal,<br />y reflejar cual espejos tu gloria<br />nos llena el alma de felicidad.<br />Todos tus siervos ansiamos honrarte,<br />dar esplendor a tu nombre sin par."
 		],
-		"chorus" : "Being your Witnesses, great is our priv'lege. Oh, may we ever live up to our name!",
-		"footer" : "(See also Deut. 32:4; Ps. 43:3; Dan. 2:20, 21.)"	
+		"chorus" : "Ser tus testigos es un privilegio,<br />el más preciado tesoro, Jehová.",
+		"footer" : "(Véanse también Deu. 32:4; Sal. 43:3; Dan. 2:20, 21.)"	
 	},
 	{
 		"number" : "35",
-		"title" : "Gratitude for Divine Patience",
-		"scripture" : "(2 Peter 3:15)",
+		"title" : "Gratitud por la paciencia divina",
+		"scripture" : "(2 Pedro 3:15)",
 		"verse" : [			
-				"1. Great God, Jehovah, boundless in might, You have made known your love of right. Wickedness rules on earth below, Causing you pain, as we well know. You are not slow, as men may contend; Your time is near for badness to end. We look to you in hope and trust, Grateful that you are patient and just. ",
+				"1. Rey Soberano, mi Gran Señor,<br />de la justicia defensor,<br />¡cuánto pesar has de sentir<br />cuando a tus hijos ves sufrir!<br />Si has contenido tu gran furor,<br />no es por tardanza, es por amor.<br />Gracias te damos, oh Jehová,<br />por tu paciencia y tu bondad.",
 
-				"2. One thousand years, from your point of view, Are like a day when they are through. Time now proceeds to your great day; It will arrive without delay. Though all transgression you do resent, Your heart is glad when sinners repent. We look ahead with hope renewed, Praising your name in deep gratitude."
+				"2. Mil años son a tu parecer<br />tan solo un día, un ayer;<br />pronto tu juicio llegará,<br />la hora ya fijada está.<br />Tú le das tiempo al pecador<br />para que ablande su corazón;<br />por eso, Dios de rectitud,<br />a ti cantamos con gratitud."
 		],
 		
-		"footer" : "(See also Luke 15:7; 2 Pet. 3:8, 9.)"	
+		"footer" : "(Véanse también Luc. 15:7; 2 Ped. 3:8, 9.)"	
 	},
 	{
 		"number" : "36",
-		"title" : "\"What God Has Yoked Together\"",
-		"scripture" : "(Matthew 19:5, 6)",
+		"title" : "\"Lo que Dios ha unido\"",
+		"scripture" : "(Mateo 19:5, 6)",
 		"verse" : [			
-				"1. With dignity and joy, A threefold cord is bound. With God and men to witness, These sacred vows resound. He vowed before Jehovah To love her from the heart.",
+				"1. Con gozo y dignidad,<br />dos seres se unen ya,<br />sus vidas entrelazan<br />delante de Jehová.<br />El novio jura amarla<br />con alma y corazón.",
 
-				"2. They both have searched God's Word To learn to do his will, And now they seek his blessing, Their promise to fulfill. She vowed before Jehovah To love him from the heart."
+				"2. Las Escrituras son<br />su faro orientador;<br />la cuerda de tres hilos<br />completa está con Dios.<br />La novia jura amarlo<br />con alma y corazón."
 		],
-		"chorus" : "\"What God has yoked together Let no man put apart.\" ",
-		"footer" : "(See also Gen. 2:24; Eccl. 4:12; Eph. 5:22-33.)"	
+		"chorus" : "Jamás separe el hombre<br />lo que ha unido Dios. ",
+		"footer" : "(Véanse también Gén. 2:24; Ecl. 4:12; Efe. 5:22-33.)"	
 	},
 	{
 		"number" : "37",
-		"title" : "The Scriptures—Inspired of God",
-		"scripture" : "(2 Timothy 3:16, 17)",
+		"title" : "La Palabra inspirada de Dios",
+		"scripture" : "(2 Timoteo 3:16, 17)",
 		"verse" : [			
-				"1. God's Word is a shining light, Guides our feet through earth's dark night. If we follow it faithfully, Surely its truth will set us free. ",
-
-				"2. That divine Word is inspired, Teaches us what is required. Help it gives, setting all things straight, And for God's discipline to wait. 3. By these Scriptures from above, We have come to know God's love. Reading daily will make us wise, Showing us how to gain life's prize."
+				"1. Tu Palabra Santa es<br />luz que alumbra nuestros pies;<br />quien tu ley ame de verdad<br />la libertad encontrará.",
+				
+				"2. Inspirada por ti fue<br />para guiarnos en el bien;<br />útil es para corregir,<br />para enseñarnos a vivir.",
+				
+				"3. Descubrimos tu amor<br />en sus páginas, Señor;<br />diariamente la aplicaré<br />y así la vida alcanzaré."
 		],
 		
-		"footer" : "(See also Ps. 119:105; Prov. 4:13.)"	
+		"footer" : "(Véanse también Sal. 119:105; Pro. 4:13.)"	
 	},
 	{
 		"number" : "38",
-		"title" : "Throw Your Burden on Jehovah",
-		"scripture" : "(Psalm 55)",
+		"title" : "Echa tu carga sobre Jehová",
+		"scripture" : "(Salmo 55)",
 		"verse" : [			
-				"1. Please give ear, O Lord, Jehovah, Let yourself be found by me. Hear my prayer, and may you answer; Help me unafraid to be.",
+				"1. A mi ruego presta oído,<br />no te escondas, oh Jehová;<br />date prisa en responderme,<br />líbrame de la ansiedad.",
 
-				"2. Had I wings just as a dove has, Far from danger I would ?y, Safe from those who seek to hurt me, Sheltered from their hateful cry.",
+				"2. Si pudiera cual paloma<br />alto el vuelo remontar,<br />volaría yo muy lejos<br />de quien busca hacerme mal.",
 
-				"3. I will call upon Jehovah, His protection I will seek. He gives peace midst opposition; Strength he gives to all the meek."
+				"3. Hacia ti mis ojos vuelvo<br />en la angustia y el dolor,<br />porque al justo que te invoca<br />lo socorres con amor."
 		],
-		"chorus" : "Throw your burden on Jehovah; He himself will you sustain. He will never let you totter But will help you firm remain. ",
-		"footer" : "(See also Ps. 22:5; 31:1-24.)"	
+		"chorus" : "Echa sobre Dios tu carga,<br />firme él te mantendrá;<br />no permitirá que caigas,<br />siempre te sustentará.",
+		"footer" : "(Véanse también Sal. 22:5; 31:1-24.)"	
 	},
 	{
 		"number" : "39",
-		"title" : "Our Possession of Peace",
-		"scripture" : "(John 14:27)",
+		"title" : "La paz del pueblo de Dios",
+		"scripture" : "(Juan 14:27)",
 		"verse" : [			
-				"1. Praise Jehovah, God of peace, God of unity. He will make all wars to cease, Bring in harmony. Prince of Peace is Christ his Son, Tender, calm, and kind. When the fight for right he's won, Perfect peace we'll find. ",
+				"1. Vamos juntos a alabar<br />al Dios de la paz;<br />en la Tierra hará cesar<br />todo batallar.<br />Su Hijo, el Príncipe de Paz,<br />tierno, manso, leal,<br />borrará la iniquidad,<br />y armonía habrá.",
 
-				"2. We have left off angry words, Making quarrels cease. We have made from spears and swords, Implements of peace. If this peace we want to keep, Then we must forgive. Peacefully as Jesus' sheep, May we learn and live.",
+				"2. La discordia y el temor<br />han quedado atrás,<br />lanzas y espadas son<br />rejas para arar.<br />Quienes aman al Señor<br />saben perdonar,<br />las cadenas del rencor<br />no los atan más.",
 
-				"3. As a fruit of righteousness, Peace we all must bear, Proof of wisdom from above, Gained through heartfelt prayer. We would recommend our way, Show our peaceful care Till the Kingdom's perfect day Brings peace ev'rywhere."
+				"3. Cristo nos dejó su paz<br />antes de partir,<br />es un fruto espiritual<br />que hay que producir.<br />Entre el pueblo de Jehová<br />ya florece hoy;<br />pronto de ella gozará<br />toda la creación."
 		],
 		
-		"footer" : "(See also Ps. 46:9; Isa. 2:4; Jas. 3:17, 18.)"	
+		"footer" : "(Véanse también Sal. 46:9; Isa. 2:4; Sant. 3:17, 18.)"	
 	},
 	{
 		"number" : "40",
-		"title" : " Keep On Seeking First the Kingdom",
-		"scripture" : "(Matthew 6:33)",
+		"title" : " Busca primero el Reino",
+		"scripture" : "(Mateo 6:33)",
 		"verse" : [			
-				"1. Something precious to Jehovah, Bringing him such keen delight, Is his Kingdom by Christ Jesus, Which will set all matters right.",
+				"1. ¡Qué preciado es para el Padre!<br />¡Qué placer a él le da!<br />Es el Reino de su Hijo,<br />que traerá felicidad.",
 
-				"2. Why be anxious for tomorrow Lest we hunger, lest we thirst? For our God will make provision If we seek his Kingdom first.",
+				"2. No te inquietes por la ropa<br />ni por lo que has de comer;<br />te dará Dios estas cosas<br />si en el Reino pones fe.",
 
-				"3. So proclaim the Kingdom good news; Help deserving ones to see That their hope is in Jehovah And in his Theocracy."
+				"3. Ve y proclama las noticias<br />del gobierno celestial,<br />que es la única esperanza<br />para la humanidad."
 		],
-		"chorus" : "Keep on seeking first the Kingdom And Jehovah's righteousness. Sing his praise among the nations, Serving him in faithfulness.",
-		"footer" : "(See also Ps. 27:14; Matt. 6:34; 10:11, 13; 1 Pet. 1:21.)"	
+		"chorus" : "Busca el Reino y Su justicia,<br />dales el primer lugar.<br />A Jehová, tu Dios, alaba,<br />sírvele con lealtad.",
+		"footer" : "(Véanse también Sal. 27:14; Mat. 6:34; 10:11, 13; 1 Ped. 1:21.)"	
 	},
 
 	{
 		"number" : "41",
-		"title" : "Worship Jehovah During Youth",
-		"scripture" : "(Ecclesiastes 12:1)",
+		"title" : "Adora a Dios en tu juventud",
+		"scripture" : "(Eclesiastés 12:1)",
 		"verse" : [			
-				"1. Precious to God are you daughters and sons; Great his affection for you, our dear ones. Loving attention to you he extends Through us, your parents, your fam'ly, and friends.",
+				"1. Joven, tú eres de inmenso valor,<br />un gran tesoro a los ojos de Dios.<br />Padres, familia, y amigos también,<br />son prueba de cuánto te quiere Él.",
 
-				"2. Honor your parents who care for your life, Giving no cause for contention or strife. If you gain favor with God and with men, Days of your youth will be happiest then.",
+				"2. Honra a tus padres, que cuidan de ti;<br />trátalos bien, no los hagas sufrir.<br />Oye la voz de tu sabio Creador,<br />te librarás de pesar y dolor.",
 
-				"3. Always remember your God in your youth; Grow ever stronger in love of the truth. By your devotion to God you will bring Joy to the heart of Jehovah, our King."
+				"3. De Dios acuérdate en tu juventud,<br />sigue creciendo en amor y virtud.<br />Tu devoción a Jehová alegrará,<br />y él bendiciones sin fin te dará."
 		],
 		
-		"footer" : "(See also Ps. 71:17; Lam. 3:27; Eph. 6:1-3.)"	
+		"footer" : "(Véanse también Sal. 71:17; Lam. 3:27; Efe. 6:1-3.)"	
 	},
 	{
 		"number" : "42",
-		"title" : "\"Assist Those Who Are Weak\"",
-		"scripture" : "(Acts 20:35)",
+		"title" : "Ayudemos a los débiles",
+		"scripture" : "(Hechos 20:35)",
 		"verse" : [			
-				"1. Many are the weaknesses That we all possess. Still Jehovah cares for us, Loves us nonetheless. He is so merciful; His love, so powerful. May we too display such love, Help those in distress. ",
+				"1. Todo hombre es pecador:<br />nadie es la excepción;<br />aun así, Jehová nos ve<br />con gran compasión.<br />Muy rico es en bondad,<br />grande en fidelidad.<br />Como él queremos ser<br />demostrando amor.",
 
-				"2. 'Who is weak, and I'm not weak?' Paul did empathize. With Christ's blood we all were bought, Life to realize. Weak ones to God belong, Hence he can make them strong. May we feel their pain and cares, Help them dry their eyes. ",
-
-				"3. Rather than condemn the weak, We should bear in mind How much we can strengthen them By our being kind. May we be diligent, Give them encouragement; As we lend our kind support, Comfort they will find."
+				"2. \"Si mi hermano débil es,<br />yo lo soy también\",<br />dijo Pablo al compartir<br />el dolor del fiel.<br />Su sangre Cristo dio,<br />a todos nos compró;<br />débiles o fuertes son<br />propiedad de él.",
+				
+				"3. A las almas débiles<br />has de socorrer,<br />en lugar de condenar<br />o ver con desdén.<br />Su llanto enjugarás,<br />consuelo les darás.<br />A Jesús imitarás,<br />cumplirás su ley."
 		],
 		
-		"footer" : "(See also 2 Cor. 11:29; Isa. 35:3, 4; Gal. 6:2.)"	
+		"footer" : "(Véanse también 2 Cor. 11:29; Isa. 35:3, 4; Gál. 6:2.)"	
 	},
 	{
 		"number" : "43",
-		"title" : "Stay Awake, Stand Firm, Grow Mighty",
-		"scripture" : "(1 Corinthians 16:13)",
+		"title" : "¡Firme, alerta y valiente!",
+		"scripture" : "(1 Corintios 16:13)",
 		"verse" : [			
-				"1. Stay awake, stand firm, grow mighty, Be determined to endure. Carry on as men of courage, For the victory is sure. We obey Christ Jesus' clear command, Under him we firmly take our stand.",
+				"1. Siempre firme, siempre alerta,<br />sé valiente hasta el fin;<br />si resistes en la lucha,<br />victorioso has de salir.<br />Cumple el mandamiento del Señor<br />aferrándote a tu comisión.",
 
-				"2. Stay awake, and keep your senses, Always ready to obey. Stay alert to Christ's direction Through his faithful slave today. Heed the counsel of the older men, Who protect his sheep and truth defend.",
+				"2. Siempre firme, siempre alerta,<br />muestra a diario sensatez,<br />sigue la enseñanza sana<br />que te da el esclavo fiel.<br />Oye los consejos que te dé<br />quien te ama y vela por tu bien.",
 
-				"3. Stay awake, remain united As the good news we defend. Though our enemies will fight it, We will preach until the end. Join the shout of praise throughout the land. Look! Jehovah's day is soon at hand!"
+				"3. Siempre firme, siempre alerta,<br />defendiendo la verdad;<br />y si el enemigo ataca,<br />tu labor redoblarás.<br />Ve y anuncia que muy cerca está<br />el glorioso día de Jehová."
 		],
-		"chorus" : "Stay awake, stand firm, and grow mighty! Carry on right to the end! ",
-		"footer" : "(See also Matt. 24:13; Heb. 13:7, 17; 1 Pet. 5:8.)"	
+		"chorus" : "Sigue siempre firme y alerta,<br />sé valiente hasta el fin.",
+		"footer" : "(Véanse también Mat. 24:13; Heb. 13:7, 17; 1 Ped. 5:8.)"	
 	},
 	{
 		"number" : "44",
-		"title" : "Sharing Joyfully in the Harvest",
-		"scripture" : "(Matthew 13:1-23)",
+		"title" : "El gozo de la cosecha",
+		"scripture" : "(Mateo 13:1-23)",
 		"verse" : [			
-				"1. We live in the time of the harvest, A priv'lege beyond all compare. God's glorious angels are reapers; In this work we too have a share. Christ Jesus has set the example By taking the lead in the field. So great is the honor bestowed on us To joyfully share in his yield.",
-
-				"2. True love for our God and our neighbor Now moves us to speed up our pace. Both harvest and preaching are urgent, For shortly the end we will face. The joy we receive is surpassing; As God's fellow workers, we share. So may we endure in his Kingdom work And know that his blessing is there."
+				"1. Hay que recoger la cosecha,<br />los campos están blancos ya.<br />Los ángeles son segadores,<br />¡qué gozo poder ayudar!<br />Jesús laboró con gran celo<br />en toda ocasión y lugar.<br />Su ejemplo nos sirve de inspiración:<br />¡vayamos al campo a segar!",
+				
+				"2. Amor a Dios y al semejante<br />es lo que nos debe impulsar.<br />Tenemos que actuar con urgencia:<br />el fin a las puertas está.<br />Obreros de Dios todos somos,<br />mayor privilegio no hay.<br />Aquel que hasta el fin se mantenga fiel<br />su premio sin falta tendrá."
 		],
 		
-		"footer" : "(See also Matt. 24:13; 1 Cor. 3:9; 2 Tim. 4:2.)"	
+		"footer" : "(Véanse también Mat. 24:13; 1 Cor. 3:9; 2 Tim. 4:2.)"	
 	},
 	{
 		"number" : "45",
-		"title" : "Move Ahead!",
-		"scripture" : "(Hebrews 6:1)",
+		"title" : "¡Adelante!",
+		"scripture" : "(Hebreos 6:1)",
 		"verse" : [			
-				"1. Move ahead, move ahead to maturity! It's the will of our God that we gain ability. Try your best to improve in your ministry, Then our God your work will bless. There's a place in the service for all. It's the work Jesus did, you'll recall. Look to God that you thus at no time may fall, Standing firm for righteousness. ",
-
-				"2. Move ahead, move ahead, boldly witnessing! Everlasting good news to all sorts of people bring. Join in praise to Jehovah, our God and King, As we preach from door to door. Wicked foes try to cause us to fear. Don't shrink back, but let ev'ryone hear Joyful news that the Kingdom of God is here. Teach the truth yet more and more. ",
-
-				"3. Move ahead, move ahead, always follow through, And improve in your skills for there's so much work to do. Let God's spirit keep on motivating you. Find the joy that is divine. Love the people you work hard to find. Keep returning to reach heart and mind. And assist all good progress each day to make, So the light of truth will shine."
+				"1. ¡Adelante, adelante a la madurez!<br />Crece cada vez más en conocimiento y fe.<br />Trata de mejorar siempre tu quehacer,<br />y Dios te bendecirá.<br />El mandato que nos dio el Señor,<br />cumplirás con gran dedicación.<br />Pide a Dios que te dé fuerzas y valor,<br />él no te abandonará.",
+				
+				"2. ¡Adelante, adelante, sin desmayar!<br />Buenas nuevas eternas anuncia en todo hogar.<br />A Jehová, nuestro Rey, debes alabar,<br />su mensaje difundir.<br />No sucumbas jamás al temor,<br />nunca aflojes en tu comisión.<br />Deja oír la verdad con potente voz,<br />fiel mantente hasta el fin.",
+				
+				"3. ¡Adelante, adelante! ¡Ni un paso atrás!<br />La labor grande es, hazte hábil y capaz.<br />Busca dar lo mejor de ti a Jehová,<br />solo así serás feliz.<br />Por amor ve a buscar con afán<br />al que quiera escuchar la verdad.<br />Con tu ayuda podrá madurez lograr<br />y la vida conseguir."
 		],
 		
-		"footer" : "(See also Phil. 1:27; 3:16; Heb. 10:39.)"	
+		"footer" : "(Véanse también Fili. 1:27; 3:16; Heb. 10:39.)"	
 	},
 	{
 		"number" : "46",
-		"title" : "Jehovah Is Our King!",
-		"scripture" : "(Psalm 97:1)",
+		"title" : "¡Jehová es nuestro Rey!",
+		"scripture" : "(Salmo 97:1)",
 		"verse" : [			
-				"1. Rejoice, give glory to Jehovah, For the heavens have told forth his righteousness. Let us sing to our God joyful songs to his praise And concern ourselves with his great acts.",
+				"1. Jehová, tu nombre celebramos;<br />eres Rey de justicia y rectitud.<br />Con alegre canción te ensalzamos, Señor;<br />tus proezas admirables son.",
 
-				"2. His glory tell among the nations; Of his great saving acts tell from day to day. For Jehovah is King; He deserves all the praise. We bow down before his mighty throne.",
+				"2. Sabrán los pueblos de la Tierra<br />de tu gloria y tus actos de salvación.<br />La rodilla doblamos delante de ti,<br />nuestro Dios y Soberano Rey.",
 
-				"3. His righteous rule is now established. On his throne, he has placed his anointed Son. Let the gods of this world suffer shame and bow down, For the praise belongs to God alone."
+				"3. Tu amado Hijo, Jesucristo,<br />en tu santa montaña gobierna ya.<br />A los dioses del mundo los humillarás;<br />ante ti, postrados quedarán."
 		],
-		"chorus" : "Let the heavens rejoice, Let the earth joyful be, For Jehovah has become our King! Let the heavens rejoice, Let the earth joyful be, For Jehovah has become our King! ",
-		"footer" : "(See also 1 Chron. 16:9; Ps. 68:20; 97:6, 7.)"	
+		"chorus" : "Canten hoy a Jehová, tierra, cielo y mar,<br />pues ha comenzado ya a reinar.<br />Canten hoy a Jehová, tierra, cielo y mar,<br />pues ha comenzado ya a reinar. ",
+		"footer" : "(Véanse también 1 Cró. 16:9; Sal. 68:20; 97:6, 7.)"	
 	},
 	{
 		"number" : "47",
-		"title" : "Declare the Good News",
-		"scripture" : "(Revelation 14:6, 7)",
+		"title" : "Anunciemos las buenas nuevas",
+		"scripture" : "(Revelación 14:6, 7)",
 		"verse" : [			
-				"1. The fullness of the Kingdom truth was long concealed. The truth about the promised Seed is now revealed. Jehovah in his mercy and his love of right Considered man's condition in his sinful plight. He formed his purpose that his Son should rule the earth; In God's due time the Kingdom rule would be brought to birth. And that he might arrange to bring his Son a bride, A little flock of chosen ones is glorified.",
+				"1. Por mucho tiempo, el Reino un secreto fue,<br />mas a nosotros Dios lo ha dado a conocer.<br />¡Qué gran misericordia demostró Jehová<br />saliendo en auxilio de la humanidad!<br />Él se propuso designar a su Hijo Rey,<br />que su reinado fuera fuente de todo bien.<br />Y una esposa pura y casta le eligió,<br />compuesta de cristianos que él glorificó.",
 
-				"2. The good news that we now declare was long foreknown. Jehovah wills that in this time it shall be shown. Along with us, his angels take delight to share, To aid us as the Kingdom truth we now declare. We have the duty and the honor in these days To sanctify his name and give him his rightful praise. We're honored as his Witnesses that name to bear With everlasting good news that we now declare."
+				"2. Dios quiere que anunciemos buenas nuevas hoy<br />a todo pueblo, tribu, lengua y nación.<br />Los ángeles del cielo a nuestro lado van,<br />llevándonos a quienes buscan la verdad.<br />Santificar el nombre del Señor Jehová<br />es un deber y un honor que no tiene igual.<br />Eternas buenas nuevas proclamemos, pues.<br />Es muy urgente: no hay tiempo que perder."
 		],
 		
-		"footer" : "(See also Mark 4:11; Acts 5:31; 1 Cor. 2:1, 7.)"	
+		"footer" : "(Véanse también Mar. 4:11; Hech. 5:31; 1 Cor. 2:1, 7.)"	
 	},
 	{
 		"number" : "48",
-		"title" : "Daily Walking With Jehovah",
-		"scripture" : "(Micah 6:8)",
+		"title" : "Caminemos diariamente con Jehová",
+		"scripture" : "(Miqueas 6:8)",
 		"verse" : [			
-				"1. Hand in hand with our dear Father, We would humbly walk with him each day. Oh, how undeserved his kindness That he grants to those who seek his way! God for us has made provision That we thus can take his hand. So we make our dedication; With Jehovah we take our stand.",
-
-				"2. In this day of mankind's judgment, As the system's end is drawing near, We are faced with opposition That could make us turn away in fear. But Jehovah gives protection; Close to him we want to stay That we might forever serve him. Love him loyally, never stray.",
-
-				"3. Help for us God has provided Through his spirit and his written Word, Through the Christian congregation, Through assurance that our prayer is heard. As we're walking with Jehovah, He will help us do what's right, Help us imitate his kindness And walk modestly in his sight."
+				"1. Caminemos diariamente<br />de la mano del Señor Jehová.<br />A quien marcha por sus sendas,<br />él lo colma de felicidad.<br />Nuestras vidas dedicamos<br />a servir a nuestro Dios,<br />a cumplir sus mandamientos<br />con el alma y el corazón.",
+				
+				"2. Puesto que ya está a las puertas<br />el fin de este mundo malo y cruel,<br />Satanás está empeñado<br />en lograr que muera nuestra fe.<br />Pero Dios es firme roca<br />que nos da seguridad.<br />Si en él nos cobijamos,<br />con su sombra nos cubrirá.",
+				
+				"3. Dios nos da preciosos dones:<br />su Palabra, su congregación,<br />su espíritu divino<br />y el poder que brinda la oración.<br />Caminemos de su mano<br />con modestia y humildad,<br />practiquemos la justicia<br />y mostremos amor leal."
 		],
 		
-		"footer" : "(See also Gen. 5:24; 6:9; 1 Ki. 2:3, 4.)"	
+		"footer" : "(Véanse también Gén. 5:24; 6:9; 1 Rey. 2:3, 4.)"	
 	},
 	{
 		"number" : "49",
-		"title" : "Jehovah Is Our Refuge",
-		"scripture" : "(Psalm 91)",
+		"title" : "Jehová es tu refugio",
+		"scripture" : "(Salmo 91)",
 		"verse" : [			
-				"1. Jehovah is our refuge, Our God in whom we trust. His shadow is our shelter; Abide in it we must. For he himself will us defend, Upon his might we can depend. Jehovah is a stronghold, Giving shelter to all the just.",
-
-				"2. Though thousands will be falling Along your very side, Among those who are loyal, In safety you'll reside. You will not need to quake with fear, As though great harm to you were near. Your eyes will merely see it, Underneath God's wings you'll abide. ",
-
-				"3. Protection God will give you From snares along your way, And never will you falter In fear or in dismay. The maned young lion, you'll not dread; Upon the cobra you will tread. Jehovah is our refuge, Ever guarding us on our way."
+				"1. Jehová es tu refugio,<br />él te protegerá;<br />si moras a su sombra,<br />tendrás seguridad.<br />Él es tu Rey, tu Defensor,<br />la fuente de tu salvación.<br />Jehová es torre fuerte<br />donde el mal no te alcanzará.",
+				
+				"2. Si ves que miles caen<br />a tu alrededor,<br />no temas ni te inquietes:<br />a ti te cuida Dios.<br />El fuego de la destrucción<br />consumirá al malhechor,<br />mas tú serás librado<br />por confiar en tu Salvador.",
+				
+				"3. En todos tus caminos,<br />Jehová te guardará;<br />de trampas y terrores,<br />tu Dios te librará.<br />Leones tú pisotearás<br />y víboras aplastarás.<br />Jehová es tu refugio,<br />siempre atento a ti estará."
 		],
 		
-		"footer" : "(See also Ps. 97:10; 121:3, 5; Isa. 52:12.)"	
+		"footer" : "(Véanse también Sal. 97:10; 121:3, 5; Isa. 52:12.)"	
 	},
 	{
 		"number" : "50",
-		"title" : "The Divine Pattern of Love",
-		"scripture" : "(1 John 4:19)",
+		"title" : "Dios nos enseña a amar",
+		"scripture" : "(1 Juan 4:19)",
 		"verse" : [			
-				"1. Jehovah our God has wisely provided For us all, One and all, A pattern of love, that we may be guided, Lest we should fall, Lest we should fall. Come follow God's way, so warm and inviting; The way that is right, to fine works inciting; The roadway to peace, God's people uniting. God's way is love. Yes, God's way is love. ",
-
-				"2. When we walk God's way, our love for our brother Will be true, Warm and true; Will make us alert to help one another In all we do, In all we do; Will help us forgive each small imperfection, Will help us to have true tender affection, Will help us to be our Father's reflection, Showing our love, Our brotherly love.",
-
-				"3. Our love for our God impels us to serve him All our days, All our days. We gladly obey with heartfelt devotion, Singing his praise, Singing his praise. So may we proclaim his name to each hearer; May they come to see the truth ever clearer. May his service grow still dearer and dearer, For that is love. Yes, that is true love."
+				"1. Jehová, nuestro Dios, nos puso el modelo<br />del amor,<br />del amor.<br />Es nuestro deber tratar de imitarlo<br />con atención,<br />con atención.<br />La senda de Dios sigamos a diario,<br />gran paz y unidad tendremos a cambio;<br />Jehová nos dará un justo salario.<br />Él es amor,<br />la fuente de amor.",
+				
+				"2. Andando con Dios, serás un amigo<br />servicial<br />y leal.<br />La mano darás al necesitado<br />sin vacilar,<br />sin vacilar.<br />Sabrás perdonar a quienes te ofendan,<br />sin alimentar jamás la contienda;<br />así cumplirás con la ley perfecta<br />que Dios nos dio:<br />la ley del amor.",
+				
+				"3. Servimos a Dios con alma sincera,<br />con fervor,<br />con ardor.<br />Nos causa placer seguir sus mandatos<br />de corazón,<br />de corazón.<br />A todo lugar las nuevas llevemos,<br />el nombre de Dios al mundo enseñemos,<br />que sepan quién es el Dios verdadero:<br />eso es amor,<br />auténtico amor."
 		],
 		
-		"footer" : "(See also Rom. 12:10; Eph. 4:3; 2 Pet. 1:7.)"	
+		"footer" : "(Véanse también Rom. 12:10; Efe. 4:3; 2 Ped. 1:7.)"	
 	},
 	{
 		"number" : "51",
-		"title" : "We Cleave to Jehovah",
-		"scripture" : "( Joshua 23:8)",
+		"title" : "A ti somos fieles, Jehová",
+		"scripture" : "(Josué 23:8)",
 		"verse" : [			
-				"1. Our Sov'reign, Jehovah, has shown himself deserving. In all of his dealings, his justice is unswerving. No word he has spoken will prove to be in vain. We cleave to Jehovah and close to him remain; Embracing his rule is the way of lasting gain. ",
-
-				"2. On truth and on justice his throne is firmly founded. The place of his dwelling with glory is surrounded. At his invitation, to him the meek now stream. We cleave to Jehovah, the God who is supreme; Deserving is he of our worshipful esteem. ",
-
-				"3. The heaven of heavens itself cannot contain him. No foe can resist him, no enemy restrain him. All things he has promised, we trust him to fulfill. We cleave to Jehovah; We want to do his will, And may our devotion to him grow deeper still."
+				"1. Jehová, Dios eterno, Gran Rey del universo,<br />tus sendas son rectas, no hay nada en ti perverso.<br />Tus bellas promesas las cumplirás, Señor.<br />A ti somos fieles, pues eres el Creador;<br />a tu Reino justo mostramos adhesión.",
+				
+				"2. Justicia y derecho son bases de tu trono;<br />amor y verdad van delante de tu rostro.<br />Los mansos aceptan tu invitación con fe.<br />A ti somos fieles, supremo y justo Juez,<br />pues todas tus obras son para nuestro bien.",
+				
+				"3. Aunque eres más alto que el cielo de los cielos,<br />a ti acudimos sin miedo ni recelos.<br />Son tus enemigos los que han de temblar.<br />A ti somos fieles por ser el Dios leal.<br />A ti, Padre amado, a ti y a nadie más."
 		],
 		
-		"footer" : "(See also Deut. 4:4; 30:20; 2 Ki. 18:6; Ps. 89:14.)"	
+		"footer" : "(Véanse también Deu. 4:4; 30:20; 2 Rey. 18:6; Sal. 89:14.)"	
 	},
 	{
 		"number" : "52",
-		"title" : "Guard Your Heart",
-		"scripture" : "(Proverbs 4:23)",
+		"title" : "Protege tu corazón",
+		"scripture" : "(Proverbios 4:23)",
 		"verse" : [			
-				"1. Oh, guard your heart, it means your life; Avoid the path of sin. God reads the heart, and there he finds The person deep within. Sometimes the heart is desperate And could begin to stray. So use your mind to guide your heart, And keep Jehovah's way. ",
-
-				"2. Prepare your heart to search for God By means of earnest prayer. With constancy, give praise and thanks; Confide each need and care. The things Jehovah teaches us Are things we should obey. So cultivate a loyal heart, And please him ev'ry day. ",
-
-				"3. Protect your heart from harmful thoughts; Consider what is true. Allow God's Word to reach your heart, To strengthen and renew. Jehovah loves his loyal ones; On this we can depend. So worship him wholeheartedly Forever as his friend."
+				"1. Protege siempre el corazón,<br />aléjate del mal.<br />Jehová examina tu interior,<br />a él no engañarás.<br />Muy retorcido y traidor<br />es nuestro corazón.<br />Buen juicio debes demostrar<br />y oír la voz de Dios.",
+				
+				"2. Prepara bien el corazón,<br />y a Dios podrás hallar.<br />Las gracias dale y cuéntale<br />tus ansias y penar.<br />Estudia su Palabra fiel<br />y en sus caminos ve.<br />Cultiva un recto corazón<br />que sepa obedecer.",
+				
+				"3. Los malos pensamientos son<br />veneno destructor;<br />los dichos puros de Jehová<br />son vida y protección.<br />A los leales, Dios dará<br />su tierna amistad.<br />Adóralo con devoción<br />por la eternidad."
 		],
 		
-		"footer" : "(See also Ps. 34:1; Phil. 4:8; 1 Pet. 3:4.)"	
+		"footer" : "(Véanse también Sal. 34:1; Fili. 4:8; 1 Ped. 3:4.)"	
 	},
 	{
 		"number" : "53",
-		"title" : "Working Together in Unity",
-		"scripture" : "(Ephesians 4:3)",
+		"title" : "Sirvamos a Dios en unidad",
+		"scripture" : "(Efesios 4:3)",
 		"verse" : [			
-				"1. God has brought us into his fold. We enjoy the things he foretold. Unity and peace we possess, Bringing such happiness. Unity we cherish; Harmony is sweet. In God's work there's much to be done. He directs us now through his Son. May we serve obediently, Working in harmony.",
-
-				"2. As we pray for oneness of mind And we all take care to be kind, Love will grow and praise will increase, Giving us joy and peace. Peace is so refreshing, Bringing such delight. As we show true brotherly love, God will grant us peace from above. With his help, united we'll be, Serving him endlessly."
+				"1. Como ovejas en el redil<br />nos congrega el Dios feliz,<br />y nos une en lazos de paz,<br />de afecto y amistad.<br />De un remanso grato<br />disfrutamos ya.<br />En la obra de nuestro Rey<br />aún nos queda mucho que hacer.<br />Con Jesús, sirvamos a Dios<br />en armoniosa unión.",
+				
+				"2. Te rogamos, Padre Jehová,<br />que nos una el mismo pensar,<br />que en nosotros reine el amor<br />y no haya disensión.<br />Paz y armonía<br />nos regalas tú.<br />Al mostrar amor fraternal,<br />la concordia florecerá.<br />Con tu ayuda perdurará<br />por siempre la unidad."
 		],
 		
-		"footer" : "(See also Mic. 2:12; Zeph. 3:9; 1 Cor. 1:10.)"	
+		"footer" : "(Véanse también Miq. 2:12; Sof. 3:9; 1 Cor. 1:10.)"	
 	},
 	{
 		"number" : "54",
-		"title" : "We Must Have the Faith",
-		"scripture" : "(Hebrews 10:38, 39)",
+		"title" : "La fe que necesitamos",
+		"scripture" : "(Hebreos 10:38, 39)",
 		"verse" : [			
-				"1. On many occasions God spoke to men By means of his prophets of old. Today he has said, 'Let all men repent,' By God's own Son we are told.",
+				"1. En la antigüedad, Jehová utilizóc<br />profetas que hablaron por él.<br />Hoy habla por Cristo, nuestro Señor,<br />quien perfecciona la fe.",
 
-				"2. We gladly obey Christ Jesus' command To share Kingdom truth far and wide. We carefully guard our freeness of speech; This truth we never will hide.",
+				"2. Jesús nos mandó ir a predicar<br />las nuevas a toda nación.<br />Con intrepidez, sin desfallecer,<br />cumplimos nuestra misión.",
 
-				"3. Our faith is an anchor firm and secure; We never will shrink back in fear. Though enemies will against us arise, We know salvation is near."
+				"3. Un ancla segura y firme es la fe<br />en medio de la tempestad.<br />No temas al Diablo ni al mundo hostil<br />y sigue fiel a Jehová."
 		],
-		"chorus" : "Do we have the faith that is sure? We must build such faith to survive. Is our faith proved true by our works? This kind of faith preserves our souls alive. ",
-		"footer" : "(See also Rom. 10:10; Eph. 3:12; Heb. 11:6; 1 John 5:4.)"	
+		"chorus" : "¿Es tu fe vibrante y real?<br />Solo así podrás resistir.<br />¿Se traduce en obras de amor?<br />Con esa fe podrás sobrevivir.",
+		"footer" : "(Véanse también Rom. 10:10; Efe. 3:12; Heb. 11:6; 1 Juan 5:4.)"	
 	},
 	{
 		"number" : "55",
-		"title" : "Life Without End—At Last!",
-		"scripture" : "( John 3:16)",
+		"title" : "¡Al fin, vida sin fin!",
+		"scripture" : "(Juan 3:16)",
 		"verse" : [			
-				"1. Can you see with your mind's eye, Peoples dwelling together? Sorrow has passed. Peace at last! Life without tears or pain.",
+				"1. ¿Puedes ver el día en que<br />vivan juntos los pueblos?<br />No más luchar ni guerrear,<br />lo malo ya pasó.",
 
-				"2. In those days old will grow young, Flesh revived as in childhood. Troubles are gone, from now on, No need to weep or fear.",
+				"2. Gozarás de juventud,<br />fuerzas y lozanía;<br />no más dolor ni clamor,<br />solo felicidad.",
 
-				"3. Paradise all will enjoy As we sing of God's glory. Long as we live, we will give To God, our Maker, thanks."
+				"3. ¡Qué placer! Todo será<br />un feliz paraíso.<br />Exclamarás sin cesar:<br />“¡Gracias, Señor Jehová!”."
 		],
-		"chorus" : "Sing out with joy of heart! You too can have a part. Live for the day when you'll say, \"Life without end, at last!\" ",
-		"footer" : "(See also Job 33:25; Ps. 72:7; Rev. 21:4.)"	
+		"chorus" : "Canta con emoción,<br />con todo el corazón.<br />Pronto será realidad:<br />¡vida sin fin, al fin! ",
+		"footer" : "(Véanse también Job 33:25; Sal. 72:7; Rev. 21:4.)"	
 	},
 	{
 		"number" : "56",
-		"title" : "Please Hear My Prayer",
-		"scripture" : "(Psalm 54)",
+		"title" : "Oye mi oración",
+		"scripture" : "(Salmo 54)",
 		"verse" : [			
-				"1. Heavenly Father, please hear my song. You are my God; to you I belong. Great is your name, beyond all compare.",
+				"1. Oye mi voz, te ruego, Jehová;<br />tuyo es mi ser, soy tu propiedad.<br />Eres mi Dios, mi Rey salvador.",
 
-				"2. Thank you, Dear God, for granting this day, Giving me life, and showing the way. How I delight in your tender care.",
+				"2. Gracias te doy por un día más,<br />por tu bondad y guía al andar.<br />Para aguantar, te pido valor.",
 
-				"3. O how I long to do what is right! Help me, O Lord, to walk in the light. Give me the strength all burdens to bear."
+				"3. Con rectitud deseo vivir,<br />tu ley está muy dentro de mí.<br />Dame, Señor, por siempre tu amor."
 		],
-		"chorus" : "Gracious Jehovah, please hear my prayer.",
-		"footer" : "(See also Ex. 22:27; Ps. 106:4; Jas. 5:11.)"	
+		"chorus" : "Llegue a tu trono mi oración.",
+		"footer" : "(Véanse también Éxo. 22:27; Sal. 106:4; Sant. 5:11.)"	
 	},
 	{
 		"number" : "57",
-		"title" : "The Meditation of My Heart",
-		"scripture" : "(Psalm 19:14)",
+		"title" : "\"La meditación de mi corazón\"",
+		"scripture" : "(Salmo 19:14)",
 		"verse" : [			
-				"1. The meditation of my heart, The thoughts I ponder through the day— May they be pleasing to you, Lord, And keep me steadfast in your way. When worries weigh upon my mind And make me restless in the night, Then may I meditate on you And things I know to be upright. ",
-
-				"2. Whatever things are chaste and true, Whatever virtue there may be, Whatever things well-spoken of— May thoughts of these bring peace to me. How precious are your thoughts, O God! Beyond all counting is their sum. So may I ponder your own words, Absorbed in them may I become."
+				"1. Las puertas de mi corazón<br />te abro, Dios, de par en par.<br />Deseo que mi reflexión<br />te sea grata, oh Jehová.<br />A veces veo amanecer<br />tras largas horas sin dormir,<br />mas calma logro mantener<br />al meditar con fe en ti.",
+				
+				"2. Mi mente quiero concentrar<br />en la bondad y la virtud,<br />en la justicia y la verdad;<br />así podré hallar quietud.<br />Tus pensamientos, mi Señor,<br />¡qué bellos y valiosos son!<br />En tu Palabra de amor<br />meditará mi corazón."
 		],
 		
-		"footer" : "(See also Ps. 49:3; 63:6; 139:17, 23; Phil. 4:7, 8; 1 Tim. 4:15.)"	
+		"footer" : "(Véanse también Sal. 49:3; 63:6; 139:17, 23; Fili. 4:7, 8; 1 Tim. 4:15.)"	
 	},
 	{
 		"number" : "58",
-		"title" : "My Prayer of Dedication",
-		"scripture" : "(Matthew 22:37)",
+		"title" : "Mi oración de dedicación",
+		"scripture" : "(Mateo 22:37)",
 		"verse" : [			
-				"1. Take my heart and may it love Truth and wisdom from above. Take my mind, that I may serve Fully, Lord, without reserve. ",
-
-				"2. Take my feet and take my hands; Let them serve your wise commands. Take my voice and let it sing Praises always to my King.",
-
-				"3. Take my life and bring it, Lord, With your will, in full accord. Take myself, may all I do Be well-pleasing, Lord, to you."
+				"1. Ten mi corazón, Jehová,<br />cólmalo con tu verdad.<br />Ten mi mente, hazla ver<br />con los ojos de la fe.",
+				
+				"2. Ten mis manos y mis pies<br />al servicio de tu ley.<br />Ten mis labios y mi voz,<br />que te ensalcen, oh Señor.",
+				
+				"3. Ten mi vida y lo que soy,<br />todo a ti yo te lo doy.<br />Ten mi ser, divino Rey,<br />sin reservas tuyo es."
 		],
 		
-		"footer" : "(See also Ps. 40:8; John 8:29; 2 Cor. 10:5.)"	
+		"footer" : "(Véanse también Sal. 40:8; Juan 8:29; 2 Cor. 10:5.)"	
 	},
 	{
 		"number" : "59",
-		"title" : "To God We Are Dedicated!",
-		"scripture" : "(Matthew 16:24)",
+		"title" : "Dedicados a Dios",
+		"scripture" : "(Mateo 16:24)",
 		"verse" : [			
-				"1. To Christ, by our God, Jehovah, we have been drawn To be his disciples from now on. From Jehovah's lofty throne, Light of truth has brightly shone. In our hearts, our faith has grown; Ourselves we agree to disown.",
+				"1. Jehová nos atrajo a Cristo, nuestro Señor,<br />a él seguiremos desde hoy.<br />Al ver la verdad brillar<br />desde el trono celestial,<br />decidimos renunciar<br />a gustos y comodidad.",
 
-				"2. In prayer we have come before Jehovah to say We'll serve him forever and obey. It's a joy beyond compare, One that we most gladly share, As Jehovah's name we bear, And news of his Kingdom declare."
+				"2. En voto solemne prometimos hacer<br />lo que Dios dispone en su ley.<br />No hay mayor felicidad<br />que ser siervos de Jehová,<br />su reinado proclamar<br />y su santo nombre portar."
 		],
-		"chorus" : "To God we are dedicated; This is our choice. In him and in Jesus we now rejoice.",
-		"footer" : "(See also Ps. 43:3; 107:22; John 6:44.)"	
+		"chorus" : "Con gran fe y amor le dedicamos a Dios<br />el alma, la mente y el corazón.",
+		"footer" : "(Véanse también Sal. 43:3; 107:22; Juan 6:44.)"	
 	},
 	{
 		"number" : "60",
-		"title" : "He Will Make You Strong",
-		"scripture" : "(1 Peter 5:10)",
+		"title" : "Jehová te dará fuerzas",
+		"scripture" : "(1 Pedro 5:10)",
 		"verse" : [			
-				"1. There was a reason why God brought the truth to you And called you from the darkness to the light. Within your heart, he saw the yearning you then had To search for him and practice what is right. You promised him in prayer to do his will; He helped you then, and he will help you still.",
+				"1. ¡Con cuánto amor Jehová te atrajo a la verdad!<br />Libró tu mente de la oscuridad.<br />En tu interior, él vio tu gran sinceridad,<br />tu anhelo por cumplir su voluntad.<br />Juraste dedicar tu vida a Dios,<br />y él siempre te dará su protección.",
 
-				"2. God gave his own beloved Son in your behalf; On this account, He wants you to succeed. If He did not withhold the gift of His dear Son, Then never doubt He'll give the strength you need. He won't forget the faith and love you've shown; He will not fail to care for all His own."
+				"2. Por ti murió Jesús aunque eras pecador.<br />¡Qué clara prueba del amor de Dios!<br />Si tu Creador cedió a su Hijo en tu favor,<br />¿acaso no te infundirá valor?<br />Él no es injusto y nunca olvidará<br />tus años de completa lealtad."
 		],
-		"chorus" : "With Jesus' blood He bought you, to God you now belong. So he will make you fir m, and he will make you strong. He'll guide you and protect you, as he has all along. Yes, he will make you firm, and he will make you strong.",
-		"footer" : "(See also Rom. 8:32; 14:8, 9; Heb. 6:10; 1 Pet. 2:9.)"	
+		"chorus" : "Por ti pagó un gran precio tu Padre celestial,<br />él fuerzas te dará; Jehová te cuidará.<br />Dios nunca te ha dejado: ¡eres su propiedad!<br />Él fuerzas te dará... Jehová te cuidará.",
+		"footer" : "(Véanse también Rom. 8:32; 14:8, 9; Heb. 6:10; 1 Ped. 2:9.)"	
 	},	
 	{
 		"number" : "61",
-		"title" : "What Sort of Person I Should Be",
-		"scripture" : "(2 Peter 3:11)",
+		"title" : "Qué clase de persona debo ser",
+		"scripture" : "(2 Pedro 3:11)",
 		"verse" : [			
-				"1. How can I repay you, what gift can I give To thank you, Jehovah, for the life that I live? I look in my heart with your Word as my mirror; The person I see, may you help me see clearer. My life I have promised in service to you, But not from mere duty will I do what I do. Whole-souled and wholehearted I serve you by choice; May I be one more who makes you rejoice. ",
-
-				"2. Help me to examine, and help me to see Just what sort of person you desire me to be. Those loyal to you, you will loyally treasure; May I be among those who bring your heart pleasure."
+				"1. ¿Qué podría darte, bendito Jehová?<br />¿Quién puede pagarte tu infinita bondad?<br />Me miro en tu ley, tu Palabra es mi espejo,<br />con gusto me esfuerzo por ser tu reflejo.<br />Mi vida dedico a tu adoración;<br />es lo que más quiero, la mejor decisión.<br />Ser un siervo tuyo y hacerte feliz:<br />no hay un mayor honor para mí.<br />Quiero examinarme, lograr descubrir<br />si estoy alcanzando lo que esperas de mí.<br />Si te soy leal, estaré en tu memoria<br />el día que obtengas, Jehová, la victoria."
 		],
 		
-		"footer" : "(See also Ps. 18:25; 116:12; 119:37; Prov. 11:20.)"	
+		"footer" : "(Véanse también Sal. 18:25; 116:12; 119:37; Pro. 11:20.)"	
 	},
 	{
 		"number" : "62",
-		"title" : "To Whom Do We Belong?",
-		"scripture" : "(Romans 14:8)",
+		"title" : "¿A quién servirás?",
+		"scripture" : "(Romanos 14:8)",
 		"verse" : [			
-				"1. To whom do you belong? Which god do you now obey? Your master is he to whom you bow. He is your god; you serve him now. You cannot serve two gods; Both masters can never share The love of your heart in its ev'ry part. To neither you would be fair. ",
-
-				"2. To whom do you belong? Which god will you now obey? For one god is false and one is true, So make your choice; it's up to you. Shall Caesar of this world Possess your allegiance still? Or will you obey the true God today By always doing his will?",
-
-				"3. To whom do I belong? Jehovah I will obey. My Father in heaven I shall serve; I'll pay my vows without reserve. He bought me at great cost; Devoted to him I'll stay. The death of his Son my ransom has won; His name I'll honor each day."
+				"1. ¿A qué dios servirás?<br />¿A quién vas a obedecer?<br />Aquel a quien rindas devoción<br />será tu amo y señor.<br />Jamás podrás servir<br />a dos amos a la vez:<br />a uno odiarás y al otro amarás;<br />no caigas, pues, en la red.",
+				
+				"2. ¿A qué dios servirás?<br />¿A quién quieres tú ser fiel?<br />¿Al dios que no lo es, o al Dios veraz?<br />Elige hoy, no esperes más.<br />¿Al César servirás<br />con ciega fidelidad,<br />o al Dios de verdad obedecerás<br />y le darás tu lealtad?",
+				
+				"3. ¿A qué dios sirvo yo?<br />¡Al único Dios, Jehová!<br />Él es dueño de mi entero ser,<br />a él mis votos pagaré.<br />A Cristo dio por mí,<br />que solo soy un mortal.<br />Es mi decisión dar gloria y honor<br />al nombre del Dios Jehová."
 		],
 		
-		"footer" : "(See also Josh. 24:15; Ps. 116:14, 18; 2 Tim. 2:19.)"	
+		"footer" : "(Véanse también Jos. 24:15; Sal. 116:14, 18; 2 Tim. 2:19.)"	
 	},
 	{
 		"number" : "63",
-		"title" : "Ever Loyal",
-		"scripture" : "(Psalm 18:25)",
+		"title" : "Siempre fieles",
+		"scripture" : "(Salmo 18:25)",
 		"verse" : [			
-				"1. Ever loyal to Jehovah, Loyal love we wish to show. As a people, dedicated, His commands we want to know. His advice will never fail us, And his counsel we obey. He is loyal; we can trust him. From his side we'll never stray. ",
-
-				"2. Ever loyal to our brothers, Sticking close in times of need. Ever caring, always trusting, Ever kind in word and deed. We show honor to our brothers And respect them from the heart. Let the Bible draw us closer; From their side we'll never part.",
-
-				"3. Ever loyal to their guidance When our brothers take the lead. When they give us clear direction, May our mind and heart give heed. Then the blessing from Jehovah Will be ours to make us strong. When we're loyal, ever faithful, To Jehovah we'll belong."
+				"1. Siempre fieles a Jehová Dios,<br />quien merece nuestro amor,<br />cumpliremos sus mandatos<br />con lealtad y devoción.<br />Dios es fiel y verdadero,<br />es escudo, gloria y sol;<br />él nos guía, nos alumbra<br />y nos da su protección.",
+				
+				"2. Siempre fieles al hermano<br />que necesitado está,<br />correremos en su ayuda<br />al instante, sin dudar.<br />Con bondad y con respeto<br />hemos siempre de tratar<br />a los grandes, a los chicos,<br />a la entera hermandad.",
+				
+				"3. Siempre fieles a los hombres<br />que ha nombrado el Gran Pastor,<br />seguiremos obedientes<br />su amorosa dirección.<br />Dios concede mil favores<br />a quien muestra lealtad,<br />a quien sirve con Su pueblo<br />en completa unidad."
 		],
 		
-		"footer" : "(See also Ps. 149:1; 1 Tim. 2:8; Heb. 13:17.)"	
+		"footer" : "(Véanse también Sal. 149:1; 1 Tim. 2:8; Heb. 13:17.)"	
 	},
 	{
 		"number" : "64",
-		"title" : "Make the Truth Your Own",
-		"scripture" : "(Proverbs 3:1, 2)",
+		"title" : "Vive la verdad",
+		"scripture" : "(Proverbios 3:1, 2)",
 		"verse" : [			
-				"1. The way of the truth is the best way of living, But no one can live your life for you. So heed the advice that Jehovah is giving; Believe what he tells you is true.",
+				"1. Si quieres hallar tu camino en la vida,<br />escucha lo que Dios te dice.<br />Cultiva por él un amor sin medida<br />y sigue su guía con fe.",
 
-				"2. The efforts you make and the time you are spending In service to God and his Kingdom Will yield rich results and a life that's unending, A life full of good things to come.",
+				"2. Jehová premiará todo el tiempo que inviertas<br />al darle a su Reino tus fuerzas.<br />Un gran porvenir tienes hoy a las puertas;<br />verás años de dicha y paz.",
 
-				"3. Compared with our God, we are all little children And need his direction and counsel. So walk ev'ry day with our Father in heaven; Receive his rich blessing in full."
+				"3. Al lado de Dios somos tan solo niños;<br />permite que él te dirija.<br />Si cumples su ley, te dará su cariño,<br />por siempre te bendecirá."
 		],
-		"chorus" : "Make the truth your own. Make it live, yes, make it real. And then feel the joy Jehovah gives you When you make the truth your own. ",
-		"footer" : "(See also Ps. 26:3; Prov. 8:35; 15:31; John 8:31, 32.)"	
+		"chorus" : "Vive la verdad,<br />tenla en el corazón.<br />Haz de Dios<br />el centro de tu vida;<br />solo así serás feliz.",
+		"footer" : "(Véanse también Sal. 26:3; Pro. 8:35; 15:31; Juan 8:31, 32.)"	
 	},
 	{
 		"number" : "65",
-		"title" : "\"This Is the Way\"",
-		"scripture" : "(Isaiah 30:20, 21)",
+		"title" : "\"Este es el camino\"",
+		"scripture" : "(Isaías 30:20, 21)",
 		"verse" : [			
-				"1. There is a way of peace, The way you've come to know. It is the way you learned, The way of long ago, The way that Jesus taught you When his voice you heard. This is the way of peace, Found in Jehovah's Word.",
+				"1. Hay un camino que conduce a la paz;<br />te lo enseñó el propio Hijo de Jehová.<br />Brilló la luz, la oscuridad se disipó;<br />pudiste ver a tu divino Instructor.",
 
-				"2. There is a way of love, No need to look around. God's voice has shown the way He lets himself be found. His love is full and good; His love is warm and true. This is the way of love; It touches all we do.",
+				"2. Hay un camino que conduce al amor;<br />estás en él, no mires a tu alrededor.<br />Detrás de ti, la voz de Dios escucharás<br />diciéndote que no te vayas a desviar.",
 
-				"3. There is a way of life, No need to look behind. Our God has promised us: No better way we'll find, No higher way to peace, No finer way to love. This is the way to life, Thanks to our God above."
+				"3. Hay un camino que conduce a salvación,<br />no encontrarás ninguna senda superior.<br />Si eres fiel y sigues la ley del Señor,<br />podrás tener eterna vida, paz y amor."
 		],
-		"chorus" : "This is the Way to life; This is the Way. Don't look aside; Not for a moment stray! God's voice is calling: 'This is the Way; Do not look back, for yes, This is the Way.'",
-		"footer" : "(See also Ps. 32:8; 139:24; Prov. 6:23.)"	
+		"chorus" : "¡Es la verdad! ¡Sin duda, es la verdad!<br />La senda sigue sin mirar atrás;<br />contigo marcha tu Dios, Jehová.<br />No busques más, pues esta es la verdad.",
+		"footer" : "(Véanse también Sal. 32:8; 139:24; Pro. 6:23.)"	
 	},
 	{
 		"number" : "66",
-		"title" : "Serving Jehovah Whole-Souled",
-		"scripture" : "(Matthew 22:37)",
+		"title" : "Serviré a Jehová de todo corazón",
+		"scripture" : "(Mateo 22:37)",
 		"verse" : [			
-				"1. O Jehovah, Sov'reign Ruler, You are the one I love and obey. You deserve my full devotion; Your trust in me I shall not betray. Your commands I loyally follow; All you wish I gladly will do.",
+				"1. Oh Jehová, Gran Soberano,<br />eres el Dios a quien honraré.<br />Te prometo mi obediencia;<br />de tu confianza digno seré.<br />Tus mandatos son un deleite.<br />Tuya es mi fiel devoción.",
 
-				"2. Father, all your works exalt you. Earth, moon, and stars your glory proclaim. I do give my life to serve you; With all my strength I'll make known your name. To my pledge of full dedication, I will ever strive to be true."
+				"2. Sol y Luna, tierra y cielo,<br />a coro cantan tu gran poder.<br />Mi garganta uno a ellos;<br />tu nombre yo daré a conocer.<br />Nunca dejaré de adorarte;<br />cumpliré mi dedicación."
 		],
-		"chorus" : "O Jehovah, you are worthy; Whole-souled devotion I give to you.",
-		"footer" : "(See also Deut. 6:15; Ps. 40:8; 113:1-3; Eccl. 5:4; John 4:34.)"	
+		"chorus" : "Dios glorioso, Rey Supremo,<br />te amo con todo mi corazón.",
+		"footer" : "(Véanse también Deu. 6:15; Sal. 40:8; 113:1-3; Ecl. 5:4; Juan 4:34.)"	
 	},
 	{
 		"number" : "67",
-		"title" : "Pray to Jehovah Each Day",
-		"scripture" : "(1 Thessalonians 5:17)",
+		"title" : "Ora a Jehová sin cesar",
+		"scripture" : "(1 Tesalonicenses 5:17)",
 		"verse" : [			
-				"1. Pray to Jehovah, the Hearer of prayer. This is our priv'lege, for his name we bear. Open your heart as you would to a friend, Trust that on Him you can always depend. Pray to Jehovah each day. ",
-
-				"2. Pray to Jehovah, give thanks that we live, Asking forgiveness as we do forgive. May we confess to our God whom we trust. He is our Maker and knows we are dust. Pray to Jehovah each day. ",
-
-				"3. Pray to Jehovah when troubles appear. He is our Father and ever so near. Seek his protection, and look for his aid; Always be trusting and never afraid. Pray to Jehovah each day."
+				"1. Ora a Jehová con total humildad,<br />a tus clamores atento estará.<br />Ábrele tu corazón sin temor,<br />cuéntale tus penas y desazón.<br />Ora a Jehová sin cesar.",
+				
+				"2. Ora a Jehová, quien la vida te dio,<br />ruégale que te conceda el perdón.<br />Te mirará con inmensa piedad,<br />recordará que eres polvo no más.<br />Ora a Jehová sin cesar.",
+				
+				"3. Ora a Jehová sin cansarte jamás,<br />dale las gracias por su gran bondad.<br />Pídele ayuda en la tribulación<br />y que te libre de la tentación.<br />Ora a Jehová sin cesar."
 		],
 		
-		"footer" : "(See also Matt. 6:9-13; 26:41; Luke 18:1.)"	
+		"footer" : "(Véanse también Mat. 6:9-13; 26:41; Luc. 18:1.)"	
 	},
 	{
 		"number" : "68",
-		"title" : "A Prayer of the Lowly One",
-		"scripture" : "(Psalm 4:1)",
+		"title" : "Oración del abatido",
+		"scripture" : "(Salmo 4:1)",
 		"verse" : [			
-				"1. Jehovah God, I call to you and ask you: \"Hear my prayer.\" My wounds are deep and slow to heal; my load is hard to bear. Despondent thoughts and disappointed hopes have left me weak. O God of comfort, care for me; your favor I do seek.",
+				"1. Jehová, te lo suplico,<br />no rechaces mi oración.<br />Mis cargas pesan tanto,<br />me consumo de dolor.<br />Angustias y gemidos<br />han plagado mi existir,<br />por eso humilde vierto<br />mis lamentos ante ti.",
 
-				"2. Your Word has been my comfort and a refuge when I'm weak, Expressing feelings dear to me in words I cannot speak. Please build in me the faith and trust that your Word does impart. And help me always know your love is greater than my heart."
+				"2. Ha sido tu Palabra<br />mi consuelo y mi luz,<br />mis propios sentimientos<br />plasma con exactitud.<br />La fe que infunden tus promesas,<br />dámela, Señor;<br />enséñame que tu amor<br />supera al corazón."
 		],
-		"chorus" : "Do raise me up; help me endure. When I'm in doubt, make my hope sure. From deep despair, I turn to you. Jehovah God, my strength renew. ",
-		"footer" : "(See also Ps. 42:6; 119:28; 2 Cor. 4:16; 1 John 3:20.)"	
+		"chorus" : "Susténtame en mi penar.<br />Ayúdame a ser leal.<br />Acudo a ti en mi aflicción.<br />Confírmame tu aprobación.",
+		"footer" : "(Véanse también Sal. 42:6; 119:28; 2 Cor. 4:16; 1 Juan 3:20.)"	
 	},
 	{
 		"number" : "69",
-		"title" : "Make Me Know Your Ways",
-		"scripture" : "(Psalm 25:4)",
+		"title" : "Hazme conocer tus caminos",
+		"scripture" : "(Salmo 25:4)",
 		"verse" : [			
-				"1. We're gathered together Jehovah, our God, Accepting your warm invitation. Your Word is a lamp that lights up our roadway, The source of divine education.",
+				"1. Nos has invitado a tu casa, Señor;<br />venimos a oír tu enseñanza.<br />Tu ley es el sol que nos ilumina,<br />nos llena de fe y esperanza.",
 
-				"2. Unreachably high is your wisdom, O God; Your judgments we find reassuring. Your Word is a source of unending wonder; Your sayings of truth are enduring."
+				"2. Beber de tu sabiduría, Jehová,<br />es un verdadero deleite.<br />Gozar de tu luz es nuestro consuelo,<br />es un exquisito banquete."
 		],
-		"chorus" : "Teach me your ways, and make me understand; Incline my ear to hear your wise command. Cause me to walk in ways of truth and right, And make your law my principal delight.",
-		"footer" : "(See also Ex. 33:13; Ps. 1:2; 119:27, 35, 73, 105.)"	
+		"chorus" : "Hazme saber tus sendas, oh Jehová;<br />enséñame a hacer tu voluntad.<br />Tu hermosa voz atento escucharé;<br />de tus caminos nunca me saldré.",
+		"footer" : "(Véanse también Éxo. 33:13; Sal. 1:2; 119:27, 35, 73, 105.)"	
 	},
 	{
 		"number" : "70",
-		"title" : "\"Make Sure of the More Important Things\"",
-		"scripture" : "(Philippians 1:10)",
+		"title" : "Asegúrate de lo más importante",
+		"scripture" : "(Filipenses 1:10)",
 		"verse" : [			
-				"1. How great our need today for discernment, To know the things that are true, To know which things have greater importance, To know which things we must do! Love what is good; Hate what is bad. Make God's heart glad; Find all the joy that it brings. Always pray; Study each day. Yes, may we do these important things. ",
-
-				"2. And what could be of greater importance Than sharing Kingdom good news, To find our Father's lost little sheep, And to help them his way to choose? They need to hear; They need to know. Oh, may we show Love for our neighbors and help them to see, Help them get free! Preaching is such an important thing.",
-
-				"3. If we take care to do what's important, Our faith will make us secure. We'll know the peace beyond human thinking And keep our hope ever sure. True friends we'll find; True love we'll know. This love will grow. Oh, what rich blessings it brings when we learn, When we discern, And when we do the important things!"
+				"1. Hoy es vital saber distinguir<br />la verdad de la falsedad,<br />saber también a qué cosas quiere Jehová<br />que des prioridad:<br />que odies el mal y ames el bien,<br />que seas fiel<br />y no descuides jamás la oración,<br />que oigas su voz<br />y a diario leas su justa ley.",
+				
+				"2. ¿Qué puede ser de más importancia<br />que hablar del Reino de Dios<br />y hallar a las ovejas perdidas<br />llevándoles salvación?<br />Deben oír y conocer<br />qué han de hacer<br />para obtener libertad de Satán<br />y disfrutar<br />de la amistad del Señor Jehová.",
+				
+				"3. Si prestas atención a lo que es primordial,<br />tu fe crecerá,<br />la paz de Dios, que el mundo no alcanza a entender,<br />te protegerá.<br />Líbrate ya de la inquietud,<br />sigue a Jesús,<br />miles de amigos y hermanos tendrás.<br />Y en su bondad,<br />tu Dios, Jehová, velará por ti."
 		],
 		
-		"footer" : "(See also Ps. 97:10; Matt. 22:37; John 21:15-17; Acts 10:42.)"	
+		"footer" : "(Véanse también Sal. 97:10; Mat. 22:37; Juan 21:15-17; Hech. 10:42.)"	
 	},
 	{
 		"number" : "71",
