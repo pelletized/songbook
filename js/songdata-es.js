@@ -1530,258 +1530,258 @@ var songdata = [
 	},
 	{
 		"number" : "116",
-		"title" : "The Light Gets Brighter",
-		"scripture" : "(Proverbs 4:18)",
+		"title" : "La luz va en aumento",
+		"scripture" : "(Proverbios 4:18)",
 		"verse" : [			
-				"1. The prophets of old sought to learn of the Christ, The hope of all groaning creation. God's spirit revealed that Messiah would come, Providing the means of salvation. The time has arrived, the Messiah now reigns, The proof of his presence is clear. How great is the favor of learning such things; Into these even angels would peer!",
+				"1. Los fieles profetas querían saber<br />quién al hombre redimiría.<br />Mediante su espíritu, Dios reveló<br />que un día vendría el Mesías.<br />El día llegó, el Mesías es Rey,<br />las pruebas ya se pueden ver.<br />Son cosas que hasta los ángeles<br />han contemplado con gran interés.",
 
-				"2. Our Lord has appointed a trustworthy slave, Through whom He gives food in due season. The light of the truth has grown brighter with time, Appealing to heart and to reason. Our path ever clearer, our steps ever firm, We walk in the brightness of day. All thanks to Jehovah, the Source of all truth, We most gratefully walk in his way."
+				"2. Jehová designó a un esclavo leal<br />que nos alimenta a su tiempo.<br />La luz llega hoy con total claridad,<br />radiante ilumina a su pueblo.<br />Ahora avanzamos sin dificultad<br />con rumbo a la salvación.<br />A Dios ensalzamos por ser fuente<br />de la verdad y de iluminación."
 		],
-		"chorus" : "Our path now becomes ever brighter; We walk in the full light of day. Behold what our God is revealing; He guides us each step of the way. ",
-		"footer" : "(See also Rom. 8:22; 1 Cor. 2:10; 1 Pet. 1:12.)"	
+		"chorus" : "Tal como la luz de la aurora,<br />que va aumentando en fulgor,<br />así es la senda del justo:<br />la va esclareciendo el Señor.",
+		"footer" : "(Véanse también Rom. 8:22; 1 Cor. 2:10; 1 Ped. 1:12.)"	
 	},
 	{
 		"number" : "117",
-		"title" : "We Must Be Taught",
-		"scripture" : "(Isaiah 50:4; 54:13)",
+		"title" : "Necesitamos la instrucción divina",
+		"scripture" : "(Isaías 50:4; 54:13)",
 		"verse" : [			
-				"1. Come with rejoicing, and learn about Jehovah. \"Come drink life's water,\" the spirit has said. Healthful instruction, God has provided. All those who hunger for truth will be fed. ",
-
-				"2. Never forsaking our gathering together, We must be taught; we must learn what is right. Here with God's spirit, here with our brothers, Here we are strengthened to walk in the light. ",
-
-				"3. Lips that sing praise, how encouraging to hear them! Tongues of the taught ones, how sweet is their sound! Oh, may we always meet with God's people! Oh, may we always among them be found!"
+				"1. Si tienes sed de que reine la justicia,<br />si quieres ver un mañana mejor,<br />busca a tu Padre, sacia tu anhelo,<br />bebe del agua de la salvación.",
+				
+				"2. Nuestras reuniones jamás abandonemos:<br />en ellas, Dios nos da sabia instrucción,<br />y unos a otros nos animamos<br />a obrar el bien y a tener más amor.",
+				
+				"3. Las dulces voces del coro de los mansos<br />cantan un himno en honor de su Dios;<br />ruegan humildes que los eduque,<br />que nunca deje de ser su Instructor."
 		],
 		
-		"footer" : "(See also Heb. 10:24, 25; Rev. 22:17.)"	
+		"footer" : "(Véanse también Heb. 10:24, 25; Rev. 22:17.)"	
 	},
 	{
 		"number" : "118",
-		"title" : "Welcome One Another",
-		"scripture" : "(Romans 15:7)",
+		"title" : "\"Recíbanse con gusto\"",
+		"scripture" : "(Romanos 15:7)",
 		"verse" : [			
-				"1. Welcome to all who gather here this day To hear God's Word and to learn his way. Life-giving truth he offers to us all; With thankfulness of heart, we respond to his call. ",
-
-				"2. Thanks to our God for brothers such as these, Who welcome us and who seek to please. May we keep holding men of that sort dear, And now we welcome others who meet with us here. ",
-
-				"3. God's invitation reaches all mankind, That all sincere ones the truth may find. God by his Son has drawn us to His side. So welcome one another with hearts opened wide."
+				"1. Abro mis brazos y mi corazón<br />a los que escuchan la voz de Dios.<br />Todos tenemos el honor sin par<br />de conocer su ley que nos da vida y paz.",
+				
+				"2. ¡Cuánto agradezco al Señor Jehová<br />que nos uniera en fraternidad!<br />Son mis hermanos una bendición;<br />a todos les daré mi lealtad y mi amor.",
+				
+				"3. Dios te ha brindado, en su gran bondad,<br />las aguas vivas de la verdad.<br />Mediante Cristo te invitó Jehová;<br />si a ti te atrajo él, mi hermano serás."
 		],
 		
-		"footer" : "(See also John 6:44; Phil. 2:29; Rev. 22:17.)"	
+		"footer" : "(Véanse también Juan 6:44; Fili. 2:29; Rev. 22:17.)"	
 	},
 	{
 		"number" : "119",
-		"title" : "Come! Be Refreshed",
-		"scripture" : "(Hebrews 10:24, 25)",
+		"title" : "Ven a recibir ánimo",
+		"scripture" : "(Hebreos 10:24, 25)",
 		"verse" : [			
-				"1. We live in a world that is wayward and lost; The way of our God is not known. We need sure direction to safeguard our steps; We cannot succeed on our own. Our meetings refresh us and brighten our hope; They help us build faith in our God. They move us with words that incite to fine deeds, They give us the strength to go on. We'll never forsake what Jehovah commands; His will is what we want to do. Our meetings instruct us in ways that are right; Our love for the truth they renew.",
-
-				"2. Jehovah is keenly aware of our needs; His counsel by us should be heard. To buy out the time for occasions to meet Shows wisdom and trust in his Word. By wholesome instruction from God-fearing men, We learn how our faith can be shown. With loving support from our fam'ly of faith, We know that we're never alone. So as we look forward to much better times, We'll meet with the ones whom we love. And here at these meetings we'll learn how to live With wisdom that comes from above."
+				"1. La gente del mundo anda en oscuridad,<br />vagando en total confusión;<br />mas hoy a nosotros nos guía Jehová,<br />nos brinda su iluminación.<br />En nuestras reuniones nutrimos la fe<br />con una esperanza real;<br />cobramos valor para hacer siempre el bien<br />y ánimo para aguantar.<br />Por nada en la vida queremos dejar<br />de estar en la congregación,<br />y menos ahora que tan cerca está<br />el día de la salvación.",
+				
+				"2. Si estás abatido, ven a recibir<br />el ánimo que nos da Dios.<br />Recuerda que debes el tiempo adquirir<br />a fin de escuchar su instrucción.<br />Los buenos pastores de ti cuidarán<br />y bien te sabrán orientar.<br />No olvides que siempre a tu lado estará<br />la fiel y amorosa hermandad.<br />Si somos leales, podremos vivir<br />en un paraíso de amor;<br />por eso, vayamos gozosos a oír<br />la sabiduría de Dios."
 		],
 		
-		"footer" : "(See also Ps. 37:18; 140:1; Prov. 18:1; Eph. 5:16; Jas. 3:17.)"	
+		"footer" : "(Véanse también Sal. 37:18; 140:1; Pro. 18:1; Efe. 5:16; Sant. 3:17.)"	
 	},
 	{
 		"number" : "120",
-		"title" : "Listen, Obey, and Be Blessed",
-		"scripture" : "(Luke 11:28)",
+		"title" : "Jehová bendice al que escucha y obedece",
+		"scripture" : "(Lucas 11:28)",
 		"verse" : [			
-				"1. If we have listened to Christ, will we show it? His teaching shines as it shows us the way. It makes us happy to hear and to know it, But we'll be blessed if we know and obey.",
+				"1. Las enseñanzas de Cristo nos guían<br />por el camino de la salvación.<br />Quien las escuche tendrá alegría;<br />mas quien las viva tendrá bendición.",
 
-				"2. Our way of life, like a house, gives protection When it is built on the rock, not on sand. If we apply Jesus' loving direction, We'll build a life which on bedrock will stand.",
+				"2. El fiel es como la sólida casa<br />que sobre la roca se construyó:<br />las tempestades del mundo aguanta;<br />por su obediencia tendrá bendición.",
 
-				"3. Just as a tree rooted deep by the waters Gives of its fruit when each season arrives, If we obey as God's own sons and daughters, We'll all be blessed and enjoy endless lives."
+				"3. Tal como árboles junto a riachuelos,<br />que dan el fruto en su estación,<br />los que obedecen al Dios de los cielos<br />eternamente tendrán bendición."
 		],
-		"chorus" : "Listen, obey, and be blessed When you hear God's will expressed. If you'd be happy and enter his rest, Listen, obey, and be blessed. ",
-		"footer" : "(See also Deut. 28:2; Ps. 1:3; Prov. 10:22; Matt. 7:24-27.)"	
+		"chorus" : "Oye la voz de Jehová,<br />cumple con su voluntad.<br />Cosecharás paz y felicidad<br />por toda la eternidad.",
+		"footer" : "(Véanse también Deu. 28:2; Sal. 1:3; Pro. 10:22; Mat. 7:24-27.)"	
 	},
 	{
 		"number" : "121",
-		"title" : "Encourage One Another",
-		"scripture" : "(Hebrews 10:24, 25)",
+		"title" : "Animémonos unos a otros",
+		"scripture" : "(Hebreos 10:24, 25)",
 		"verse" : [			
-				"1. As we encourage one another To serve Jehovah faithfully, We find the bonds of love are strengthened; Fine works bring peace and unity. The love we find among God's people Gives each the courage to endure. Our congregation is a refuge, A place where we can feel secure. ",
-
-				"2. A word when spoken at the right time Is, oh, how comforting to hear! We hear these words of consolation From friends so faithful and so dear. How good it is to work together With those whose hopes and goals we share! We seek to strengthen one another And help each one his burden bear. ",
-
-				"3. As we with eyes of faith are seeing The nearness of Jehovah's day, We need our gathering together To keep us walking in the way. United with Jehovah's people, We hope to serve eternally. So we encourage one another To hold to our integrity."
+				"1. Al animarnos mutuamente<br />a ser leales a Jehová,<br />se fortalecen nuestros lazos<br />de amor, fraternidad y paz.<br />Por el cariño que nos une,<br />cobramos fuerzas y valor.<br />Remanso donde refugiarnos<br />es la congregación de Dios.",
+				
+				"2. Es la palabra dicha a tiempo<br />un bálsamo consolador<br />que amigos fieles y queridos<br />le aplican a tu corazón.<br />¡Qué bueno trabajar unidos<br />con quienes aman a Jehová!<br />Comparte sus pesadas cargas,<br />confórtalos con tu amistad.",
+				
+				"3. Las pruebas claro lo demuestran:<br />se acerca el día de Jehová.<br />Hoy más que nunca es importante<br />reunirse con asiduidad.<br />Servir a Dios es nuestro anhelo,<br />honrarlo por la eternidad.<br />Por eso, junto a tus hermanos,<br />mantén la fe y la integridad."
 		],
 		
-		"footer" : "(See also Luke 22:32; Acts 14:21, 22; Gal. 6:2; 1 Thess. 5:14.)"	
+		"footer" : "(Véanse también Luc. 22:32; Hech. 14:21, 22; Gál. 6:2; 1 Tes. 5:14.)"	
 	},
 	{
 		"number" : "122",
-		"title" : "Myriads of Brothers",
-		"scripture" : "(Revelation 7:9, 10)",
+		"title" : "Miles y miles de hermanos",
+		"scripture" : "(Revelación 7:9, 10)",
 		"verse" : [			
-				"1. Myriads on myriads of brothers, Millions for all to see, Each one a faithful witness, Firm in integrity. Myriads we are on myriads, Growing, a mighty crowd, From ev'ry nation and tribe and tongue, We praise our God aloud. ",
-
-				"2. Myriads on myriads of brothers, We preach both far and near \"Good news of something better,\" Which millions long to hear. And as we keep on preaching, Though we at times are stressed, Jesus refreshes the weary souls; He gives us peace and rest. ",
-
-				"3. Myriads on myriads of brothers, God keeps us in his sight, Safe in his earthly courtyards, Serving him day and night. Myriads we are on myriads, With Kingdom news we go, God's fellow workers we have become, Serving him here below."
+				"1. Miles y miles de hermanos,<br />¿quién los podrá contar?<br />Es la gran muchedumbre,<br />que crece sin cesar.<br />Vienen de todas partes<br />con gozo y devoción<br />para alabar a Jehová y Jesús<br />por darles salvación.",
+				
+				"2. Miles y miles de hermanos,<br />fieles a la verdad,<br />buenas noticias tienen<br />para la humanidad.<br />Cristo los acompaña<br />en su feliz labor;<br />él les ofrece descanso y paz<br />y un yugo de amor.",
+				
+				"3. Miles y miles de hermanos<br />día y noche están<br />sirviendo en los patios<br />del templo de Jehová.<br />Son colaboradores<br />del Dios universal;<br />nunca se cansan de proclamar<br />el Reino celestial."
 		],
 		
-		"footer" : "(See also Isa. 52:7; Matt. 11:29; Rev. 7:15.)"	
+		"footer" : "(Véanse también Isa. 52:7; Mat. 11:29; Rev. 7:15.)"	
 	},
 	{
 		"number" : "123",
-		"title" : "Shepherds—Gifts in Men",
-		"scripture" : "(Ephesians 4:8)",
+		"title" : "Nuestros pastores son un regalo de Dios",
+		"scripture" : "(Efesios 4:8)",
 		"verse" : [			
-				"1. Help in our lives, Jehovah provides, Shepherds to tend his flock. By their example they serve as guides, Showing us how to walk.",
+				"1. Fieles pastores ha dado Dios<br />para velar por ti.<br />Sigue su ejemplo con atención<br />si quieres ser feliz.",
 
-				"2. Shepherds who love us care how we feel; Gently they guide the way. When we are hurt, they help us to heal, Kind in the words they say.",
+				"2. Te guían con acierto y amor,<br />quieren tu bienestar.<br />Si está dolido tu corazón,<br />te curan con bondad.",
 
-				"3. Godly advice and counsel they give, That we may never stray. Thus they assist us, God's way to live, Serving him ev'ry day."
+				"3. Con la Escritura te mostrarán<br />cómo servir a Dios.<br />Te ayudarán a no abandonar<br />la recta adoración."
 		],
-		"chorus" : "God gives us men who have earned our trust, Men who are loyal and true. They show concern for his precious flock; Love them for all that they do. ",
-		"footer" : "(See also Isa. 32:1, 2; Jer. 3:15; John 21:15-17; Acts 20:28.)"	
+		"chorus" : "Hombres leales de ardiente fe,<br />que cuidan bien del redil.<br />Tenlos por dignos de doble honor,<br />pues se desvelan por ti.",
+		"footer" : "(Véanse también Isa. 32:1, 2; Jer. 3:15; Juan 21:15-17; Hech. 20:28.)"	
 	},
 	{
 		"number" : "124",
-		"title" : "Receive Them With Hospitality",
-		"scripture" : "(Acts 17:7)",
+		"title" : "Sigue la senda de la hospitalidad",
+		"scripture" : "(Hechos 17:7)",
 		"verse" : [			
-				"1. Jehovah shows sincere hospitality. He cares for all without partiality. He gives both rain and sun, withholding these from none; He fills our hearts with food and good cheer. Whenever we show favor to lowly ones, We imitate our God as beloved sons. Our Father will repay the goodness we display, Our kindness that is truly sincere. ",
-
-				"2. We never know the good that may come about When we see those in need and we help them out. Though strangers they may be, in hospitality, We lend a hand to care for their needs. Like Lydia of old, we say: 'Be my guest.' When they come to our home, they find peace and rest. Our Father is aware of all those ev'rywhere, Who imitate his merciful deeds."
+				"1. Hospitalario es nuestro Dios, Jehová,<br />a todos muestra amor sin parcialidad.<br />Él brinda lluvia y sol<br />a justo y pecador,<br />de gozo llena su corazón.<br />Servir al débil en su necesidad<br />es imitar a Dios en su gran bondad.<br />Tu Padre celestial, que en lo secreto está,<br />te premiará con su bendición.",
+				
+				"2. Jamás podrás saber cuánto logrará<br />un simple acto de generosidad.<br />Procura hacer el bien<br />sin importar a quién,<br />sin esperar a cambio un favor.<br />Tal como Lidia, di: \"A mi casa ven;<br />albergue te daré y te atenderé\".<br />Tu Padre celestial tus obras mirará<br />y no se olvidará de tu amor."
 		],
 		
-		"footer" : "(See also Acts 16:14, 15; Rom. 12:13; 1 Tim. 3:2; Heb. 13:2; 1 Pet. 4:9.)"	
+		"footer" : "(Véanse también Hech. 16:14, 15; Rom. 12:13; 1 Tim. 3:2; Heb. 13:2; 1 Ped. 4:9.)"	
 	},
 	{
 		"number" : "125",
-		"title" : "Loyally Submitting to Theocratic Order",
-		"scripture" : "(1 Corinthians 14:33)",
+		"title" : "Sujeción leal al orden divino",
+		"scripture" : "(1 Corintios 14:33)",
 		"verse" : [			
-				"1. As Jehovah's people sound throughout the earth Truths about the Kingdom and its priceless worth, Theocratic order they must all obey And remain united, loyalty display.",
+				"1. Los felices siervos del Señor Jehová<br />vamos proclamando: \"¡Cristo reina ya!\".<br />Dios nos fija el orden que hemos de acatar<br />como pueblo unido, con lealtad total.",
 
-				"2. God provides his steward and his active force. These will ever guide us in our Christian course. So may we be steadfast, seeking God to please, Loyally proclaiming all his wise decrees!"
+				"2. Para que podamos dar a conocer<br />el mensaje a todos sin desfallecer,<br />Dios nos brinda ayuda con su gran poder<br />y la clara guía del esclavo fiel."
 		],
-		"chorus" : "Loyal submission in recognition, This to our God we owe. He gives protection, tender affection, Loyalty to him we show. ",
-		"footer" : "(See also Luke 12:42; Heb. 13:7, 17.)"	
+		"chorus" : "Sé fiel y humilde, siempre a Dios sirve,<br />dale tu corazón.<br />En él confía, sigue su guía<br />con sincera devoción.",
+		"footer" : "(Véanse también Luc. 12:42; Heb. 13:7, 17.)"	
 	},
 	{
 		"number" : "126",
-		"title" : "Our Labor of Love",
-		"scripture" : "(Psalm 127:1)",
+		"title" : "Una obra de amor",
+		"scripture" : "(Salmo 127:1)",
 		"verse" : [			
-				"1. Jehovah, this is the day; Now from our hearts, we want to pray. How you have honored us, favored us, More than words can say! Upon our labor of love, We've seen your blessing from above. And now a building stands, by our hands, As the proof thereof.",
+				"1. ¡Qué día tan especial,<br />amado Padre celestial!<br />Escucha, por favor, nuestra voz,<br />Rey universal.<br />Pusiste tu bendición<br />sobre esta humilde construcción.<br />La hicimos con amor, con fervor,<br />llenos de ilusión.",
 
-				"2. What happy faces we see, And what good friends we've come to be! And how we'll cherish these memories For eternity! We saw your spirit, O Lord, In how we worked with one accord. And how we've added fame to your name; What a grand reward!"
+				"2. No olvidaremos jamás<br />los nuevos lazos de amistad,<br />las caras de emoción, el amor,<br />la felicidad.<br />Tu santo espíritu, Dios,<br />nos dio energías, nos unió.<br />¡La gloria vaya a ti, solo a ti,<br />nuestro Gran Creador!"
 		],
-		"chorus" : "Jehovah God, it was a priv'lege For us to build this place for you. May we continue in your service throughout our days And bring you praise in all we do. ",
-		"footer" : "(See also Ps. 116:1; 147:1; Rom. 15:6.)"	
+		"chorus" : "Hacerte esta hermosa casa<br />fue un honor muy singular.<br />Es un placer, Señor, servirte y proclamar<br />tu majestad, gran Dios, Jehová.",
+		"footer" : "(Véanse también Sal. 116:1; 147:1; Rom. 15:6.)"	
 	},
 	{
 		"number" : "127",
-		"title" : "A Place Bearing Your Name",
-		"scripture" : "(1 Chronicles 29:16)",
+		"title" : "Un lugar en honor de tu nombre",
+		"scripture" : "(1 Crónicas 29:16)",
 		"verse" : [			
-				"1. How great is the honor, Jehovah, To build you a place for your name! We offer it now with rejoicing To add to your glory and fame. Whatever the things we may give you, They rightly were yours from the start. Our labor, our skill, our possessions, We joyfully give from the heart.",
+				"1. Nos llena, Jehová, de alegría<br />brindarte este lindo lugar,<br />construido en honor de tu nombre,<br />reflejo de tu santidad.<br />De ti vino lo necesario:<br />recursos, destreza y vigor;<br />tu espíritu lo hizo posible;<br />el mérito es tuyo, Señor.",
 
-				"2. And By May Of now may we honor you, Father, filling this place with your praise. glory ascend with the increase those who are learning your ways. Committing this place to your worship, We give it our generous care. And long may it stand as a witness, Supporting the message we bear."
+				"2. A este lugar tan sagrado,<br />los mansos querrán acudir.<br />Tus siervos vendrán jubilosos<br />a fin de aprender más de ti.<br />Jehová, te rogamos que aceptes<br />el fruto de nuestra labor;<br />sin labios dará testimonio<br />de tu dignidad y esplendor."
 		],
-		"chorus" : "May we present this place to you, And here may your name be known. We dedicate this place to you; Please accept it as your own. ",
-		"footer" : "(See also 1 Ki. 8:18, 27; 1 Chron. 29:11-14; Acts 20:24.)"	
+		"chorus" : "Será tu casa, eterno Dios,<br />tu nombre enaltecerá.<br />La dedicamos en tu honor,<br />Soberano Rey, Jehová. ",
+		"footer" : "(Véanse también 1 Rey. 8:18, 27; 1 Cró. 29:11-14; Hech. 20:24.)"	
 	},
 	{
 		"number" : "128",
-		"title" : "The Scene of This World Is Changing",
-		"scripture" : "(1 Corinthians 7:31)",
+		"title" : "\"La escena de este mundo está cambiando\"",
+		"scripture" : "(1 Corintios 7:31)",
 		"verse" : [			
-				"1. To give us hope and to save us From sin and death that enslave us, His only Son our God gave us— No gift could have greater worth.",
+				"1. La muerte, el mal y el pecado<br />al hombre han esclavizado,<br />mas Dios su amor ha mostrado<br />al darnos al Redentor.",
 
-				"2. The world around us is ailing. The wicked system is failing. But God's rule we are now hailing; The Kingdom has come to birth."
+				"2. El mundo está agonizante,<br />su fin se avista adelante.<br />El Reino de Dios triunfante<br />nos traerá bendición."
 		],
-		"chorus" : "Though the scene of this world is now changing, God has been wisely arranging Blessings for heaven and earth.",
-		"footer" : "(See also Ps. 115:15, 16; Rom. 5:15-17; 7:25; Rev. 12:5.)"	
+		"chorus" : "La escena del mundo<br />ya cambia,<br />Dios colmará nuestras ansias<br />de una vida mejor.",
+		"footer" : "(Véanse también Sal. 115:15, 16; Rom. 5:15-17; 7:25; Rev. 12:5.)"	
 	},
 	{
 		"number" : "129",
-		"title" : "Holding Fast to Our Hope",
-		"scripture" : "(Hebrews 6:18, 19)",
+		"title" : "Aferrémonos a nuestra esperanza",
+		"scripture" : "(Hebreos 6:18, 19)",
 		"verse" : [			
-				"1. Men have been groping for centuries in darkness. Vain is their quest as they try to catch the wind. Man's tragic flaw is revealed in its starkness: None can they save, for they all have sinned.",
+				"1. Los hombres son prisioneros del pecado,<br />a los problemas no encuentran solución.<br />Todos sus planes han sido un fracaso;<br />lejos están de la salvación.",
 
-				"2. \"God's day is near!\" rings the Kingdom proclamation; Men will no longer cry out to God: \"How long?\" Soon he will free all his groaning creation. Praise God Almighty, and join our song."
+				"2. En la tormenta no has de perder la calma:<br />el nuevo mundo ya puedes divisar.<br />Esta esperanza es el ancla del alma,<br />que te protege de naufragar."
 		],
-		"chorus" : "Sing with good cheer, for God's Kingdom is here! His Son's mighty reign brings us freedom from fear. Through him, at last, evil soon will be past; This hope, like an anchor, is holding us fast. ",
-		"footer" : "(See also Hab. 1:2, 3; Ps. 27:14; Joel 2:1; Rom. 8:22.)"	
+		"chorus" : "¡Canta feliz, pues el Reino está aquí<br />y Cristo nos brinda un gran porvenir!<br />Ya no verás más dolor ni maldad;<br />sé fuerte y aférrate siempre a Jehová.",
+		"footer" : "(Véanse también Sal. 27:14; Joel 2:1; Hab. 1:2, 3; Rom. 8:22.)"	
 	},
 	{
 		"number" : "130",
-		"title" : "The Miracle of Life",
-		"scripture" : "(Psalm 36:9)",
+		"title" : "El milagro de la vida",
+		"scripture" : "(Salmo 36:9)",
 		"verse" : [			
-				"1. Ev'ry newborn child, Ev'ry drop of rain, Ev'ry golden ray of sun, Each head of grain— All are gifts from God; They reveal his way. Miracles performed by him sustain us each day.",
+				"1. Nace un bebé; brota una flor;<br />cae la lluvia; sale el Sol: ¡qué bendición!<br />El Creador nos da aire, tierra y mar;<br />cada día es un hermoso don de Jehová.",
 
-				"2. Others may give up, Lose their will to try, Echoing the wife of Job: \"Curse God and die.\" We are not that way. Praise to God we give, Thanking him for ev'ry precious moment we live."
+				"2. En la vida habrá quien se cansará,<br />quien dirá: \"Maldice a Dios y muere ya\".<br />Como Job seré; no me rendiré<br />y las gracias por la vida siempre daré."
 		],
-		"chorus" : "So, what are we to do with a gift so rare But to love the One who gave it and show him we care. No matter what we do, We never can earn it. This gift is still a gift—The miracle of life. ",
-		"footer" : "(See also Job 2:9; Ps. 34:12; Eccl. 8:15; Matt. 22:37-40; Rom. 6:23.)"	
+		"chorus" : "Y ¿cómo pagaré la bondad de Dios?<br />Amaré al semejante con el corazón.<br />Vivir es un placer, es un privilegio,<br />regalo del Señor, milagro de Jehová.",
+		"footer" : "(Véanse también Job 2:9; Sal. 34:12; Ecl. 8:15; Mat. 22:37-40; Rom. 6:23.)"	
 	},
 	{
 		"number" : "131",
-		"title" : "Jehovah Provides Escape",
+		"title" : "Jehová es mi Roca de salvación",
 		"scripture" : "(2 Samuel 22:1-8)",
 		"verse" : [			
-				"1. The living God, Jehovah, you have proved to be; Your mighty works abound in  earth and sky and sea. No rival god can equal what you have done —there is none. Our foes will be consumed.",
+				"1. Señor, tú siempre has sido mi Libertador,<br />mi fuente de poder, mi escudo protector.<br />En todo el universo no hay ni habrá, oh Jehová,<br />quien pueda ser tu igual.",
 
-				"2. Though ropes of death encircle me, I call to you, \"Jehovah, give me strength, and give me courage too.\" From your own temple dwelling, you hear my plea, \"Shelter me; Rescue me, O my God.\"",
+				"2. La sombra de la muerte viene tras de mí;<br />Altísimo Señor, a ti voy a acudir,<br />y desde tu gran templo me escucharás y vendrás;<br />no temeré jamás.",
 
-				"3. From heaven you will thunder and give forth your voice. Your enemies will quake; your servants will rejoice. You prove to be whatever you need to be; all will see How you provide escape."
+				"3. Tu voz divina desde el cielo tronará;<br />podremos presenciar el fin de la maldad.<br />Tus crueles enemigos se aterrarán, morirán;<br />tú nos traerás la paz."
 		],
-		"chorus" : "Jehovah provides escape for the loyal. His servants will see what a mighty Crag is he. So with courage and faith in our God, we spread the fame Of Jehovah, our Source of escape, and praise his name.",
-		"footer" : "(See also Ps. 18:1, 2; 144:1, 2.)"	
+		"chorus" : "Mi Roca de salvación es Jehová Dios.<br />El mundo verá Su poder y majestad.<br />Mi garganta y mi corazón quieren cantar<br />y Su nombre a los cuatro vientos proclamar.",
+		"footer" : "(Véanse también Sal. 18:1, 2; 144:1, 2.)"	
 	},
 	{
 		"number" : "132",
-		"title" : "A Victory Song",
-		"scripture" : "(Exodus 15:1)",
+		"title" : "Canción de victoria",
+		"scripture" : "(Éxodo 15:1)",
 		"verse" : [			
-				"1. Sing to Jehovah. His great name is highly exalted. His proud Egyptian foes, He has cast into the sea. Praise Jah Almighty; Besides him there can be no other. Jehovah is his name; He has gained the victory.",
+				"1. ¡Canten tu gloria! ¡Tu nombre sublime celebren!<br />Hundiste a Faraón y a sus tropas en el mar.<br />Dios invencible, ninguno a ti se compara.<br />Tu pueblo anunciará tu grandeza y majestad.",
 
-				"2. See now all nations Opposing the Sov'reign, Jehovah. Though mightier than Pharaoh, They too will suffer shame. Doom now awaits them; They will not survive Armageddon. Soon ev'ryone will know That Jehovah is God's name."
+				"2. Todos los pueblos se oponen a ti, Rey Supremo;<br />mas como Faraón, su final encontrarán.<br />Cuando los venzas el día de tu gran batalla,<br />tendrán que conocer que tu nombre es Jehová."
 		],
-		"chorus" : "Jehovah God, Most High over all, The one from time indefinite the same, You soon will cause your enemies to fall And sanctify your holy name.",
-		"footer" : "(See also Ps. 2:2, 9; 92:8; Mal. 3:6; Rev. 16:16.)"	
+		"chorus" : "Jehová, mi Dios, no cambias jamás;<br />el mismo siempre, por la eternidad.<br />Al enemigo lo avergonzarás,<br />tu nombre santificarás.",
+		"footer" : "(Véanse también Sal. 2:2, 9; 92:8; Mal. 3:6; Rev. 16:16.)"	
 	},
 	{
 		"number" : "133",
-		"title" : "Seek God for Your Deliverance",
-		"scripture" : "(Zephaniah 2:3)",
+		"title" : "Busca al Dios de tu salvación",
+		"scripture" : "(Sofonías 2:3)",
 		"verse" : [			
-				"1. Nations align as one, Opposing Jehovah's Son. Their time of human rulership By God's decree now is done. Rulers have had their day; God's Kingdom is here to stay. Soon Christ will crush earthly enemies. No more will there be delay.",
+				"1. Los pueblos marchan hoy<br />unidos en rebelión;<br />en vano intentan combatir<br />al Rey que Dios eligió.<br />Van rumbo a su final,<br />su día agoniza ya.<br />Jesús será el gran vencedor,<br />su cetro los quebrará.",
 
-				"2. People on earth now choose, Responding to this good news. We offer to all men the choice To hear or proudly refuse. Trials, although severe, Need not fill our hearts with fear. Jehovah cares for his loyal ones; Our cries for help he will hear."
+				"2. Es hora de elegir<br />a quién le vas a servir.<br />Si buscas a Jehová, tu Dios,<br />tendrás un gran porvenir.<br />No dejes que el temor<br />se aloje en tu corazón.<br />Camina siempre con rectitud,<br />y Dios oirá tu clamor."
 		],
-		"chorus" : "Seek God for your deliverance, Yes, look to him with confidence. Seek his righteousness, Show your faithfulness, For his sov'reignty, take your stand. Then see our God deliver you By his mighty hand.",
-		"footer" : "(See also 1 Sam. 2:9; Ps. 2:2, 3, 9; Prov. 2:8; Matt. 6:33.)"	
+		"chorus" : "Oh, busca a Dios, tu Salvador,<br />acude a él por protección;<br />lo que es justo haz,<br />muéstrate leal,<br />a su Reino da tu adhesión.<br />Oculto él te mantendrá<br />de la destrucción.",
+		"footer" : "(Véanse también 1 Sam. 2:9; Sal. 2:2, 3, 9; Pro. 2:8; Mat. 6:33.)"	
 	},
 	{
 		"number" : "134",
-		"title" : "See Yourself When All Is New",
-		"scripture" : "(Revelation 21:1-5)",
+		"title" : "¿Te ves en el nuevo mundo?",
+		"scripture" : "(Revelación 21:1-5)",
 		"verse" : [			
-				"1. Just see yourself, just see me too; Just see us all in a world that is new. Think how you'll feel, how it will be, To live in peace, to be truly free. No evil one will then prevail; Rule by our God cannot ever fail. The time will have come for a new earthly start, The song of our praises will pour out from our heart:",
+				"1. Me veo allí, te veo a ti.<br />Un mundo nuevo empieza a latir.<br />¡Qué gran placer vivir en paz<br />y disfrutar de la libertad!<br />No más dolor, no más crueldad,<br />tal como lo prometió Jehová.<br />No cabe en mi pecho la felicidad,<br />y como un torrente, mi voz te alabará:",
 
-				"2. Now see yourself, and see me too; And look ahead to a world that is new. No sight we see, no sound we hear Will cause alarm or give rise to fear. All has come true, just as he said; Now over mankind, his tent is spread. He now shall awaken those sleeping in death; Their voices will join us with ev'ry grateful breath:"
+				"2. Me veo allí, te veo a ti.<br />Un mundo nuevo contemplo feliz.<br />Se fue el pesar, se fue el temor,<br />el mundo viejo por fin pasó.<br />No es ilusión, es muy real,<br />ya mora Dios con la humanidad.<br />Muy pronto, los muertos van a despertar<br />y junto a nosotros gozosos cantarán:"
 		],
-		"chorus" : "\"Jehovah our God, how well you have done! All things are new by the rule of your Son. The fullness of our heart overflows in our song; All glory and honor and praise to you belong.\"",
-		"footer" : "(See also Ps. 37:10, 11; Isa. 65:17; John 5:28; 2 Pet. 3:13.)"	
+		"chorus" : "\"Por ti, oh Jehová, mediante Jesús,<br />un mundo nuevo ha visto la luz.<br />La gloria y el honor siempre tuyos serán.<br />Jamás dejaré de exaltar tu majestad\".",
+		"footer" : "(Véanse también Sal. 37:10, 11; Isa. 65:17; Juan 5:28; 2 Ped. 3:13.)"	
 	},
 	{
 		"number" : "135",
-		"title" : "Enduring to the End",
-		"scripture" : "(Matthew 24:13)",
+		"title" : "Aguantemos hasta el fin",
+		"scripture" : "(Mateo 24:13)",
 		"verse" : [			
-				"1. God's Word and all it promises Give reason to endure. The things you've learned and come to love Are all well-founded and sure. Be stabilized in holy faith, Keeping God's day close in mind. Stand firm in your integrity; By tests you will be refined.",
-
-				"2. Maintain the love you had at first, Which somehow could be lost. Despite the trials you will meet, Endure no matter the cost. Whatever test may come your way, Never yield to doubt or fear. Jehovah will provide escape, Our God ever will be near.",
-
-				"3. All those enduring to the end Are those who will be saved. The book of life will list their names, A record clearly engraved. So let endurance be your aim; Let it have its work complete. Jehovah's favor you will know; With joy you will be replete."
+				"1. El fin ya pronto llegará;<br />hay que perseverar.<br />En las promesas de Jehová<br />debemos siempre confiar.<br />A diario hay que recordar<br />que el gran día cerca está.<br />Al mantener integridad,<br />la fe se refinará.",
+				
+				"2. En la batalla de la fe<br />tenemos que vencer.<br />El celo por servir al Rey<br />jamás queremos perder.<br />Librémonos con decisión<br />de las dudas y el temor.<br />Nos fortalecerá el Señor;<br />él es nuestro Salvador.",
+				
+				"3. Dios en su libro anotará<br />el nombre del leal.<br />La vida eterna le dará<br />si aguanta hasta el final.<br />Si vigilamos con tesón<br />nuestra mente y corazón,<br />Jehová nos colmará de amor,<br />tendremos su bendición."
 		],
 		
-		"footer" : "(See also Heb. 6:19; Jas. 1:4; 2 Pet. 3:12; Rev. 2:4.)"	
+		"footer" : "(Véanse también Heb. 6:19; Sant. 1:4; 2 Ped. 3:12; Rev. 2:4.)"	
 	}
 ];
