@@ -1,59 +1,44 @@
 var list = new List();
 list.build();
 
-//var song = new Song(125);
-var song = new Song(125);
-song.build();
-
 function List() {
-
 	this.build = function() {
 		var toc = document.getElementById("toc");
 		var tocButton = "";
 		var innerHTML = "";
 		toc.innerHTML = "";
 		var max = 135;
-		var songNumber = "";
+		songNum = 1; //global
 
-		for(var i = 1; i <= max; i++){						
+		for (var i = 1; i <= max; i++){						
 			tocButton = "<li id='toc" + i + "'>" + i + "</li>";				
-			innerHTML += tocButton;	
-			//button = 'toc' + i;
-			
-			//console.log(button);
-			
+			innerHTML += tocButton;				
 		}		
 		
-		toc.innerHTML = innerHTML;		
-		
-		//click event
-		var buttonList = document.getElementById('toc');
-		var buttons = buttonList.getElementsByTagName('li');
-		var buttonNumber = "";
-		for (var i = 0; i < buttons.length; i++) {
-			var button = buttons[i];			
-			button.onclick = clickButton(i + 1); //call clickButton				  
-		}		 
-		
-		function clickButton(n) {			
-			return function(songNumber) {
-				//console.log(n);	
-				var songNumber = n;
-				console.log(songNumber);
-				document.getElementById("toc").style.display = "none";				
-			}		
+		toc.innerHTML = innerHTML;					
 			
-		}	
-		
+		var buttonList = document.getElementById('toc');
+		var buttons = buttonList.getElementsByTagName('li');		
+				
+		for (var i = 0; i < max; i++) {
+			var button = buttons[i];			
+			button.onclick = clickButton(i); //call clickButton	
+		}		 		
+				
+		function clickButton(n) {			
+			return function() {					
+				songNum = n;								
+				document.getElementById("toc").style.display = "none";	
+				var song = new Song(songNum); 				
+				song.build();
+				scrollTo(0,0);
+			}				
+		}		
 	}
-	
-
 }
 
-
-
-function Song(songNumber) {	
-	this.number = songNumber;
+function Song(songNumber) {		
+	this.number = songNumber + 1;
 	this.title = songdata[songNumber].title;
 	this.verse1 = songdata[songNumber].verse[0];
 	this.verse2 = songdata[songNumber].verse[1];
@@ -65,15 +50,14 @@ function Song(songNumber) {
 	this.build = function() {
 		var songContent = '<div id="song' + this.number + '" class="song">\n';
 		songContent += '<h1><span class="song-number">' + this.number + '</span> ' + this.title + '</h1>\n';
-		songContent += '<p class="verse">' + this.verse1 + '</p>\n';
+		if (this.verse1) {
+			songContent += '<p class="verse">' + this.verse1 + '</p>\n';
+		}
 		
 		if (this.chorus) {
 			songContent += '<p class="chorus">CHORUS:<br />' + this.chorus + '</p>\n';
 		}
-
-		if (this.verse1) {
-			songContent += '<p class="verse">' + this.verse1 + '</p>\n';
-		}
+		
 		if (this.verse2) {
 			songContent += '<p class="verse">' + this.verse2 + '</p>\n';
 		}
@@ -86,26 +70,6 @@ function Song(songNumber) {
 		
 		document.getElementById("result").innerHTML += songContent;
 	}
-		/*
-		console.log(song.number); 
-		console.log(song.title); 
-		console.log(song.verse1);
-
-		if (song.chorus !== undefined) { 
-			console.log(song.chorus); 
-		}
-		if (song.verse2 !== undefined) {
-			console.log(song.verse2); 
-		}
-
-		if (song.verse3 !== undefined) {
-			console.log(song.verse3); 
-		}
-		
-		console.log(song.scripture); 
-		console.log(song.footer); 
-		}
-		*/
 		
 }
 
