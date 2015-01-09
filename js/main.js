@@ -7,7 +7,7 @@ function List() {
 		var tocButton = "";
 		var innerHTML = "";
 		toc.innerHTML = "";
-		var max = 135;
+		var max = 138;
 		songNum = 1; //global
 
 		for (var i = 1; i <= max; i++){						
@@ -46,6 +46,7 @@ function Song(songNumber) {
 	this.chorus = songdata[songNumber].chorus;
 	this.scripture = songdata[songNumber].scripture;
 	this.footer = songdata[songNumber].footer;
+	this.musicPiano = songdata[songNumber].musicPiano;
 	
 	this.build = function() {
 		var songContent = '<div id="song' + this.number + '" class="song">\n';
@@ -66,6 +67,15 @@ function Song(songNumber) {
 		}					
 
 		songContent += '<p class="song-footer">Taken from: ' + this.scripture + ' ' + this.footer + '</p>';
+		
+		if (this.musicPiano) {
+			songContent += '<audio class="audio-player" controls>\n';
+				songContent += '<source src="' + this.musicPiano + '" type="audio/mpeg">\n';
+			songContent += '</audio>\n';		
+		}
+		
+	
+		
 		songContent += '</div>';
 		
 		document.getElementById("result").innerHTML += songContent;
