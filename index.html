@@ -11,24 +11,25 @@
 
 <nav>
     <ul class="wrap">
-		<!--<li>&laquo;</li>-->
+<!--<li>&laquo;</li>-->
         <li style="text-align:center"><a href="index.html" style="display:block" onclick="homeButton();">Table of Contents</a></li>
-		<!--<li>&raquo;</li>-->
+<!--<li>&raquo;</li>-->
     </ul>
 </nav>
 <div class="wrap">
-	
+
     <ul id="toc"></ul>
     <div id="result"></div>
-	<!--
-	<form method="POST" onsubmit="songSearch();">
-		<input type="number" min="1" max="135" name="song-search" id="song-search" placeholder="Enter a song number" pattern="\d*" />
-		<button>Search</button>	
-	</form>
-	-->
+<!--
+<form method="POST" onsubmit="songSearch();">
+<input type="number" min="1" max="135" name="song-search" id="song-search" placeholder="Enter a song number" pattern="\d*" />
+<button>Search</button>
+</form>
+-->
 </div>
 
 <script src="js/songdata.js"></script>
+<script src="js/songmusic.js"></script>
 <script src="js/main.js"></script>
 
 <script>
@@ -41,8 +42,8 @@ console.log(songNumber);
 var toc = document.getElementById("toc");
 toc.style.display = "none";
 
-//buildSong(songNumber);								
-//window.scrollTo(0, 0);	
+//buildSong(songNumber);
+//window.scrollTo(0, 0);
 
 }
 
