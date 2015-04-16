@@ -7,7 +7,7 @@ function List() {
 		var tocButton = "";
 		var innerHTML = "";
 		toc.innerHTML = "";
-		var max = 138;
+		var max = 139;
 		songNum = 1; //global
 
 		for (var i = 1; i <= max; i++){
@@ -46,6 +46,8 @@ function List() {
 		} else if (swipeDirection == hammerType + "left") {
 			var song = new Song(songNum++); 
 		}
+		//document.removeChild(document.documentElement); //clear DOM so song can be built again		
+		document.removeChild(document.querySelector('.song')); //clear DOM so song can be built again		
 		console.log('songNum: ' + songNum);
 		song.build();
 		scrollTo(0,0);			
