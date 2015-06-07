@@ -1833,6 +1833,44 @@ var songdata = [
 		],
 		"chorus" : "Escucha nuestra oración<br>en nombre del Señor Jesús:<br>a todos dales protección, tu bendición<br>y fuerzas en su corazón.",
 		"footer" : "(Vea también Luc. 6:48; Hech. 5:42; Filip. 4:1.)"
+	},
+	{
+		"number" : "140",
+		"title" : "La vida del precursor",
+		"scripture" : "(Eclesiastés 11:6)",
+		"verse" : [
+				"1. Con el amanecer, te oramos, Jehová;<br>muy temprano buscamos<br>la fuerza que viene de ti.<br>Este día, también, nos verán sonreír;<br>aunque pocos oirán,<br>no pensamos rendirnos jamás.",
+
+				"2. Con la puesta del sol, al volver al hogar,<br>nos sentimos alegres,<br>radiantes de satisfacción.<br>No hay nada mejor que hacerte feliz,<br>cada día sentir<br>que contamos con tu bendición."
+		],
+		"chorus" : "Qué honor es, Jehová,<br>trabajar para ti,<br>alabarte con felicidad.<br>Venga lluvia o sol,<br>nada nos detendrá,<br>lo que pidas queremos hacer, por amor.",
+		"footer" : "(Vea también Jos. 24:15; Sal. 92:2; Rom. 14:8.)"
+	},
+	{
+		"number" : "141",
+		"title" : "Buscamos a quienes aman la paz",
+		"scripture" : "(Lucas 10:6)",
+		"verse" : [
+				"1. Cristo llevó la luz de la verdad,<br>y no dejó de enseñar<br>la fiel Palabra de Jehová.<br>Con gran amor a todos les habló;<br>de sol a sol,<br>recorría una gran región.<br>Así también deseo ser,<br>a todos quiero proclamar<br>que ya se ve llegar un mundo mejor.",
+
+				"2. El tiempo pasa, poco queda ya;<br>aún hay muchos que salvar,<br>es muy urgente predicar.<br>Es el amor lo que me moverá<br>a ofrecer el alivio<br>que Dios puede dar.<br>En pueblos y en la ciudad,<br>¿habrá quien quiera escuchar?<br>Encontraré a quienes aman la paz."
+		],
+		"chorus" : "Quiero buscar<br>a las personas que desean<br>la salvación,<br>los corazones que anhelan<br>la paz de Dios,<br>su amistad.",
+		"footer" : "(Vea también Is. 52:7; Mat. 28:19, 20; Luc. 8:1; Rom. 10:10.)"
+	},
+	{
+		"number" : "142",
+		"title" : "Predicamos a toda clase de personas",
+		"scripture" : "(1 Timoteo 2:4)",
+		"verse" : [
+				"1. Felices imitamos a Jehová,<br>que no distingue raza ni color.<br>Con alegría él aceptará<br>a quienes buscan su aprobación.",
+
+				"2. Ni posición ni nacionalidad<br>son importantes para nuestro Dios.<br>Jehová prefiere ver el corazón,<br>la intención y la sinceridad.",
+				
+				"3. Recibiremos a quien quiera hoy<br>dejar atrás el mundo y su mal.<br>Al predicar a todos por igual,<br>imitaremos al Creador Jehová."
+		],
+		"chorus" : "Siempre es el corazón<br>lo que cuenta para Dios;<br>a todos les ofrece la verdad.<br>Él creó la variedad,<br>todos pueden aspirar<br>a ser amigos del gran Dios Jehová.",
+		"footer" : "(Vea también Juan 12:32; Hech. 10:34; 1 Tim. 4:10; Tito 2:11.)"
 	}
 ];
 
