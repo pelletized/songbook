@@ -1786,12 +1786,14 @@ var songdata = [
 	},
 	{
 		"number" : "136",
-		"title" : "The Kingdom Is in Place &mdash; Let It Come!",
+		"title" : "The Kingdom Is in Place &mdash;Let It Come!",
 		"scripture" : "(Revelation 11:15; 12:10)",
 		"verse" : [
-				"1. Jehovah, you always have been,<br>And always you will be.<br>You've given the throne to your Son;<br>He rules by your decree.<br>The Kingdom has been brought to birth;<br>His rulership will fill the earth.",
+				"1.  Jehovah, you always have been,<br>And always you will be.<br>You’ve given the throne to your Son;<br>He rules by your decree.<br>The Kingdom has been brought to birth;<br>His rulership will fill the earth.",
 
-				"2. The time for the Devil is short;<br>We know what this will mean.<br>Though living in times of distress,<br>We see the things unseen.<br>The Kingdom has been brought to birth;<br>His rulership will fill the earth."
+				"2. The time for the Devil is short;<br>We know what this will mean.<br>Though living in times of distress,<br>We see the things unseen.<br>The Kingdom has been brought to birth;<br>His rulership will fill the earth.",
+				
+				"3.  The angels in heaven rejoice<br>And sing with joyful cries.<br>The heavens above are relieved<br>Of Satan and his lies.<br>The Kingdom has been brought to birth;<br>His rulership will fill the earth."
 		],
 		"chorus" : "For now have come to pass<br>Salvation and kingdom and might.<br>The Kingdom is in place.<br>We pray: \"Let it come, Let it come!\"",
 		"footer" : "(See also Dan. 2:34, 35; 2 Cor. 4:18.)"
