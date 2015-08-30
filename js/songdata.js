@@ -1717,7 +1717,8 @@ var songdata = [
 
 				"2. Others may give up, Lose their will to try, Echoing the wife of Job: \"Curse God and die.\" We are not that way. Praise to God we give, Thanking him for ev'ry precious moment we live."
 		],
-		"chorus" : "So, what are we to do with a gift so rare But to love the One who gave it and show him we care. No matter what we do, We never can earn it. This gift is still a gift&mdash;The miracle of life. ",
+		"chorus" : "So, what are we to do with a gift so rare But to love the One who gave it and show him we care. No matter what we do, We never can earn it. This gift is still a gift&mdash;The miracle of life.",
+		"chorus2" : "So, what are we to do with a gift so rare But to love the ones around us and show them we care. No matter what we do, We never can earn it. This gift is still a gift&mdash;The miracle of life.",
 		"footer" : "(See also Job 2:9; Ps. 34:12; Eccl. 8:15; Matt. 22:37-40; Rom. 6:23.)"
 	},
 	{
@@ -1792,7 +1793,7 @@ var songdata = [
 				"1.  Jehovah, you always have been,<br>And always you will be.<br>You’ve given the throne to your Son;<br>He rules by your decree.<br>The Kingdom has been brought to birth;<br>His rulership will fill the earth.",
 
 				"2. The time for the Devil is short;<br>We know what this will mean.<br>Though living in times of distress,<br>We see the things unseen.<br>The Kingdom has been brought to birth;<br>His rulership will fill the earth.",
-				
+
 				"3.  The angels in heaven rejoice<br>And sing with joyful cries.<br>The heavens above are relieved<br>Of Satan and his lies.<br>The Kingdom has been brought to birth;<br>His rulership will fill the earth."
 		],
 		"chorus" : "For now have come to pass<br>Salvation and kingdom and might.<br>The Kingdom is in place.<br>We pray: \"Let it come, Let it come!\"",

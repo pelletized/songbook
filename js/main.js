@@ -61,6 +61,7 @@ function Song(songNumber) {
 	this.verse2 = songdata[songNumber].verse[1];
 	this.verse3 = songdata[songNumber].verse[2];
 	this.chorus = songdata[songNumber].chorus;
+	this.chorus2 = songdata[songNumber].chorus2;
 	this.scripture = songdata[songNumber].scripture;
 	this.footer = songdata[songNumber].footer;
 	//this.musicPiano = songmusic[songNumber].musicPiano;
@@ -76,11 +77,16 @@ function Song(songNumber) {
 
 		if (this.chorus) {
 			songContent += '<p class="chorus">CHORUS:<br />' + this.chorus + '</p>\n';
-		}
-
+		} 
+		
 		if (this.verse2) {
 			songContent += '<p class="verse">' + this.verse2 + '</p>\n';
 		}
+		
+		if (this.chorus2) {
+			songContent += '<p class="chorus">CHORUS:<br />' + this.chorus2 + '</p>\n';
+		}
+		
 		if (this.verse3) {
 			songContent += '<p class="verse">' + this.verse3 + '</p>\n';
 		}

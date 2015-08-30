@@ -730,7 +730,7 @@ var songdata = [
 		"title" : "La fe que necesitamos",
 		"scripture" : "(Hebreos 10:38, 39)",
 		"verse" : [
-				"1. En la antigüedad, Jehová utilizóc<br>profetas que hablaron por él.<br>Hoy habla por Cristo, nuestro Señor,<br>quien perfecciona la fe.",
+				"1. En la antigüedad, Jehová utilizó<br>profetas que hablaron por él.<br>Hoy habla por Cristo, nuestro Señor,<br>quien perfecciona la fe.",
 
 				"2. Jesús nos mandó ir a predicar<br>las nuevas a toda nación.<br>Con intrepidez, sin desfallecer,<br>cumplimos nuestra misión.",
 
@@ -1717,7 +1717,8 @@ var songdata = [
 
 				"2. En la vida habrá quien se cansará,<br>quien dirá: \"Maldice a Dios y muere ya\".<br>Como Job seré; no me rendiré<br>y las gracias por la vida siempre daré."
 		],
-		"chorus" : "Y ¿cómo pagaré la bondad de Dios?<br>Amaré al semejante con el corazón.<br>Vivir es un placer, es un privilegio,<br>regalo del Señor, milagro de Jehová.",
+		"chorus" : "Y ¿cómo pagaré la bondad de Dios?<br>Le daré mi obediencia y mi corazón.<br>Vivir es un placer, es un privilegio,<br>regalo del Señor, milagro de Jehová.",
+		"chorus2" : "Y ¿cómo pagaré la bondad de Dios?<br>Amaré al semejante con el corazón.<br>Vivir es un placer, es un privilegio,<br>regalo del Señor, milagro de Jehová.",
 		"footer" : "(Véanse también Job 2:9; Sal. 34:12; Ecl. 8:15; Mat. 22:37-40; Rom. 6:23.)"
 	},
 	{
@@ -1783,7 +1784,7 @@ var songdata = [
 		],
 
 		"footer" : "(Véanse también Heb. 6:19; Sant. 1:4; 2 Ped. 3:12; Rev. 2:4.)"
-	},	
+	},
 	{
 		"number" : "136",
 		"title" : "¡Que venga el Reino establecido por Dios!",
@@ -1792,12 +1793,12 @@ var songdata = [
 				"1. Jehová para siempre será<br>el Rey universal.<br>A Cristo le quiso entregar<br>un trono celestial.<br>Jesús ocupa su lugar;<br>la Tierra entera regirá.",
 
 				"2. El Diablo jamás triunfará;<br>su tiempo terminó.<br>Sabemos que pronto vendrá<br>el fin de la aflicción.<br>Jesús ocupa su lugar;<br>la Tierra entera regirá.",
-				
-				"3. Los ángeles quieren cantar<br>alegres su canción.<br>El cielo ya libre quedó<br>del Diablo y su mal.<br>Jesús ocupa su lugar;<br>la Tierra entera regirá."	
+
+				"3. Los ángeles quieren cantar<br>alegres su canción.<br>El cielo ya libre quedó<br>del Diablo y su mal.<br>Jesús ocupa su lugar;<br>la Tierra entera regirá."
 		],
 		"chorus" : "¡El Reino ya nació!<br>Tendremos por fin salvación.<br>Rogamos con gran fe:<br>“¡Que venga el Reino de Dios!”.",
 		"footer" : "(Vea también Dan. 2:34, 35; 2 Cor. 4:18.)"
-	},	
+	},
 	{
 		"number" : "137",
 		"title" : "Danos fuerzas y valor",
@@ -1809,7 +1810,7 @@ var songdata = [
 		],
 		"chorus" : "Oh Jehová, te suplicamos,<br>danos fuerzas y valor.<br>Haz que nada nos detenga,<br>eres nuestro Salvador.<br>En el día de tu furor,<br>el leal saldrá vencedor.<br>Oh Jehová, te suplicamos,<br>escúchanos.",
 		"footer" : "(Vea también 1 Tes. 2:2; Heb. 10:35.)"
-	},	
+	},
 	{
 		"number" : "138",
 		"title" : "El gran nombre de Jehová",
@@ -1830,7 +1831,7 @@ var songdata = [
 				"1. Oh, Jehová, tú eres el Pastor,<br>y los mansos van a ti.<br>Nos alegra verlos progresar<br>y buscar tu amistad.",
 
 				"2. Con amor les dimos atención,<br>y lograron tu favor.<br>No dejábamos de suplicar:<br>“Dales fuerzas y valor”.",
-				
+
 				"3. Deseamos que su fe en ti<br>sea firme y total.<br>Si tu ley observan sin dudar,<br>la carrera ganarán."
 		],
 		"chorus" : "Escucha nuestra oración<br>en nombre del Señor Jesús:<br>a todos dales protección, tu bendición<br>y fuerzas en su corazón.",
@@ -1868,36 +1869,10 @@ var songdata = [
 				"1. Felices imitamos a Jehová,<br>que no distingue raza ni color.<br>Con alegría él aceptará<br>a quienes buscan su aprobación.",
 
 				"2. Ni posición ni nacionalidad<br>son importantes para nuestro Dios.<br>Jehová prefiere ver el corazón,<br>la intención y la sinceridad.",
-				
+
 				"3. Recibiremos a quien quiera hoy<br>dejar atrás el mundo y su mal.<br>Al predicar a todos por igual,<br>imitaremos al Creador Jehová."
 		],
 		"chorus" : "Siempre es el corazón<br>lo que cuenta para Dios;<br>a todos les ofrece la verdad.<br>Él creó la variedad,<br>todos pueden aspirar<br>a ser amigos del gran Dios Jehová.",
 		"footer" : "(Vea también Juan 12:32; Hech. 10:34; 1 Tim. 4:10; Tito 2:11.)"
 	}
 ];
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
