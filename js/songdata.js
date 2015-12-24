@@ -39,7 +39,7 @@ var songdata = [
 				"3. Never let resentment lead you; May it never take your hand. Look to God, and he will guide you; He will teach you these commands: Love of God and love of neighbor, Ev'rything that love should be. May we always show to others Godlike love, yes, tenderly."
 		],
 
-		"footer" : "(See also Mark 12:30, 31; 1 Cor. 12:31–13:8; 1 John 3:23.)"
+		"footer" : "(See also Mark 12:30, 31; 1 Cor. 12:31â€“13:8; 1 John 3:23.)"
 	},
 	{
 		"number" : "4",
@@ -1679,7 +1679,7 @@ var songdata = [
 		"verse" : [
 				"1. How great is the honor, Jehovah, To build you a place for your name! We offer it now with rejoicing To add to your glory and fame. Whatever the things we may give you, They rightly were yours from the start. Our labor, our skill, our possessions, We joyfully give from the heart.",
 
-				"2. And By May Of now may we honor you, Father, filling this place with your praise. glory ascend with the increase those who are learning your ways. Committing this place to your worship, We give it our generous care. And long may it stand as a witness, Supporting the message we bear."
+				"2. And now may we honor you, Father, By filling this place with your praise. May glory ascend with the increase Of those who are learning your ways. Committing this place to your worship, We give it our generous care. And long may it stand as a witness, Supporting the message we bear."
 		],
 		"chorus" : "May we present this place to you, And here may your name be known. We dedicate this place to you; Please accept it as your own. ",
 		"footer" : "(See also 1 Ki. 8:18, 27; 1 Chron. 29:11-14; Acts 20:24.)"
@@ -1790,7 +1790,7 @@ var songdata = [
 		"title" : "The Kingdom Is in Place &mdash;Let It Come!",
 		"scripture" : "(Revelation 11:15; 12:10)",
 		"verse" : [
-				"1.  Jehovah, you always have been,<br>And always you will be.<br>You’ve given the throne to your Son;<br>He rules by your decree.<br>The Kingdom has been brought to birth;<br>His rulership will fill the earth.",
+				"1.  Jehovah, you always have been,<br>And always you will be.<br>Youâ€™ve given the throne to your Son;<br>He rules by your decree.<br>The Kingdom has been brought to birth;<br>His rulership will fill the earth.",
 
 				"2. The time for the Devil is short;<br>We know what this will mean.<br>Though living in times of distress,<br>We see the things unseen.<br>The Kingdom has been brought to birth;<br>His rulership will fill the earth.",
 
@@ -1826,11 +1826,11 @@ var songdata = [
 		"title" : "Teach Them to Stand Firm",
 		"scripture" : "(Matthew 28:19, 20)",
 		"verse" : [
-			"1. What a joy to teach Jehovah's sheep<br>And to see how they have grown.<br>We have seen how he has guided them<br>As they’ve made the truth their own.",
-			"2. Ev’ry day we said a prayer for them,<br>As their faith was under test.<br>We made time to teach and care for them;<br>They’ve grown strong, and they’ve been blessed.",
+			"1. What a joy to teach Jehovah's sheep<br>And to see how they have grown.<br>We have seen how he has guided them<br>As theyâ€™ve made the truth their own.",
+			"2. Evâ€™ry day we said a prayer for them,<br>As their faith was under test.<br>We made time to teach and care for them;<br>Theyâ€™ve grown strong, and theyâ€™ve been blessed.",
 			"3. May they all maintain their confidence,<br>Trust in God and in his Son.<br>Through endurance and obedience,<br>May their race for life be won."
 		],
-		"chorus" : "Jehovah, may you hear our prayer<br>And keep them in your watchful care.<br>In Jesus’ name, for them we plead: May they succeed;<br>May ev’ry one of them stand firm.",
+		"chorus" : "Jehovah, may you hear our prayer<br>And keep them in your watchful care.<br>In Jesusâ€™ name, for them we plead: May they succeed;<br>May evâ€™ry one of them stand firm.",
 		"footer" : "(See also Luke 6:48; Acts 5:42; Phil. 4:1.)"
 	},
 	{
@@ -1873,9 +1873,9 @@ var songdata = [
 		"scripture" : "(2 Corinthians 4:6)",
 		"verse" : [
 			"1. In these days, dark and lawless days,<br>Shines a light we can see.<br>Like the dawn of another day<br>That will soon come to be.",
-			"2. Those who sleep need awakening<br>As the time ebbs away.<br>We give hope and encouragement.<br>For their future we’ll pray."
+			"2. Those who sleep need awakening<br>As the time ebbs away.<br>We give hope and encouragement.<br>For their future weâ€™ll pray."
 		],
-		"chorus" : "Shining through the darkness,<br>Ours is a message so bright.<br>It offers hope and light—<br>Sparkling like the daylight,<br>Bringing tomorrow in sight—<br>So ends the night.",
+		"chorus" : "Shining through the darkness,<br>Ours is a message so bright.<br>It offers hope and lightâ€”<br>Sparkling like the daylight,<br>Bringing tomorrow in sightâ€”<br>So ends the night.",
 		"footer" : "(See also John 3:19; 8:12; Rom. 13:11, 12; 1 Pet. 2:9.)"
 	},
 	{
@@ -1884,8 +1884,8 @@ var songdata = [
 		"scripture" : "(Ezekiel 3:17-19)",
 		"verse" : [
 			"1. In this year of goodwill<br>by our God, all need to hear<br>That the day of his anger<br>will come, and it is near.<br>",
-			"2. There’s a message to preach,<br>so we spread it all abroad.<br>We invite all to come and<br>be reconciled to God.",
-			"(BRIDGE)<br>It’s urgent, it’s important,<br>That people listen, learn, and live.<br>We tell them, and we teach them;<br>Life-giving truth we freely give."
+			"2. Thereâ€™s a message to preach,<br>so we spread it all abroad.<br>We invite all to come and<br>be reconciled to God.",
+			"(BRIDGE)<br>Itâ€™s urgent, itâ€™s important,<br>That people listen, learn, and live.<br>We tell them, and we teach them;<br>Life-giving truth we freely give."
 		],
 		"chorus" : "It means their life, but not just theirs;<br>It means our own life as well.<br>It means their life if they obey,<br>So all the nations we must tell;<br>We must tell.",
 		"footer" : "(See also 2 Chron. 36:15; Isa. 61:2; Ezek. 33:6; 2 Thess. 1:8.)"
@@ -1895,55 +1895,10 @@ var songdata = [
 		"title" : "Preparing to Preach",
 		"scripture" : "(Jeremiah 1:17)",
 		"verse" : [
-			"1. Morning comes.<br>Soon we will be<br>On our way to preach good news.<br>But it’s dark outside,<br>And the rain starts to fall.<br>It would be easy to stay inside,<br>sleepy-eyed.",
-			"2. Soon we’ll see<br>Joy come our way<br>If these things we keep in mind.<br>And Jehovah sees<br>Ev’ry effort we make,<br>And he remembers the love we show;<br>this we know."
+			"1. Morning comes.<br>Soon we will be<br>On our way to preach good news.<br>But itâ€™s dark outside,<br>And the rain starts to fall.<br>It would be easy to stay inside,<br>sleepy-eyed.",
+			"2. Soon weâ€™ll see<br>Joy come our way<br>If these things we keep in mind.<br>And Jehovah sees<br>Evâ€™ry effort we make,<br>And he remembers the love we show;<br>this we know."
 		],
-		"chorus" : "Positive thoughts and preparation,<br>Praying that we’ll succeed;<br>This can provide the inspiration,<br>We’ll surely need.<br>We’re not alone; the angels guide us.<br>Jesus commands them all.<br>And with a loyal friend beside us,<br>We’ll never fall.",
+		"chorus" : "Positive thoughts and preparation,<br>Praying that weâ€™ll succeed;<br>This can provide the inspiration,<br>Weâ€™ll surely need.<br>Weâ€™re not alone; the angels guide us.<br>Jesus commands them all.<br>And with a loyal friend beside us,<br>Weâ€™ll never fall.",
 		"footer" : "(See also Eccl. 11:4; Matt. 10:5, 7; Luke 10:1; Titus 2:14.)"
 	}
 ];
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

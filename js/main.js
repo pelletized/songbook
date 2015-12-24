@@ -23,34 +23,49 @@ function List() {
 		for (var i = 0; i < max; i++) {
 			var button = buttons[i];
 			button.onclick = clickButton(i); //call clickButton
-		} 
+		}
 
 		function clickButton(n) {
 			return function() {
 				songNum = n;
-				document.getElementById("toc").style.display = "none";				
-				var song = new Song(songNum); 
+				document.getElementById("toc").style.display = "none";
+				var song = new Song(songNum);
 				song.build();
 				scrollTo(0,0);
 			}
-		}		
+		}
 	}
-	
-	this.swipe = function(swipeDirection) {		
+
+	this.swipe = function(swipeDirection) {
 		var hammerType = "swipe";
 		document.getElementById("toc").style.display = "none";
-		var songLayout = document.querySelector(".song").style.display = "none";
-		
+		//var songLayout = document.querySelector(".song").style.display = "none";
+		//document.querySelector("#result").style.display = "none";
+
+		var result = document.querySelector("#result");
+		var wrap = document.querySelector(".wrap");
+		var songClass = document.querySelector(".song");
+
+		var songID = document.querySelector("#song" + songNum);
+
+		//result.parentNode.removeChild(result);
+
 		if (swipeDirection == hammerType + "right") {
-			var song = new Song(songNum--); 
+			var song = new Song(songNum--);
 		} else if (swipeDirection == hammerType + "left") {
-			var song = new Song(songNum++); 
+			var song = new Song(songNum++);
 		}
-		//document.removeChild(document.documentElement); //clear DOM so song can be built again		
-		document.removeChild(document.querySelector('.song')); //clear DOM so song can be built again		
+
+		//document.parentNode.removeChild(document.querySelector('.song')); //clear DOM so song can be built again
+		//document.removeChild(document.querySelector('#result')); //clear DOM so song can be built again
+
+		//document.parentNode.replaceChild(songNum, songClass);		
+		console.log(songID);
 		console.log('songNum: ' + songNum);
+		console.log(document.querySelector('.song'));
 		song.build();
-		scrollTo(0,0);			
+		//document.querySelector("#result").style.display = "block";
+		scrollTo(0,0);
 	}
 }
 
@@ -64,9 +79,6 @@ function Song(songNumber) {
 	this.chorus2 = songdata[songNumber].chorus2;
 	this.scripture = songdata[songNumber].scripture;
 	this.footer = songdata[songNumber].footer;
-	//this.musicPiano = songmusic[songNumber].musicPiano;
-	this.musicPiano = songmusic[songNumber]; //in it's own array to share between translations
-	console.log(this.musicPiano);
 
 	this.build = function() {
 		var songContent = '<div id="song' + this.number + '" class="song">\n';
@@ -77,27 +89,21 @@ function Song(songNumber) {
 
 		if (this.chorus) {
 			songContent += '<p class="chorus">CHORUS:<br />' + this.chorus + '</p>\n';
-		} 
-		
+		}
+
 		if (this.verse2) {
 			songContent += '<p class="verse">' + this.verse2 + '</p>\n';
 		}
-		
+
 		if (this.chorus2) {
 			songContent += '<p class="chorus">CHORUS:<br />' + this.chorus2 + '</p>\n';
 		}
-		
+
 		if (this.verse3) {
 			songContent += '<p class="verse">' + this.verse3 + '</p>\n';
 		}
 
 		songContent += '<p class="song-footer">Taken from: ' + this.scripture + ' ' + this.footer + '</p>';
-
-		if (this.musicPiano) {
-			songContent += '<audio class="audio-player" controls>\n';
-			songContent += '<source src="' + this.musicPiano + '" type="audio/mpeg">\n';
-			songContent += '</audio>\n';
-		}
 
 		songContent += '</div>';
 
