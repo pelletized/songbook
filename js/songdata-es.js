@@ -123,16 +123,16 @@ var songdata = [
 	},
 	{
 		"number" : "10",
-		"title" : "\"¡Aquí estoy yo! Envíame a mí\"",
+		"title" : "“¡Aquí estoy yo! Envíame a mí”",
 		"scripture" : "(Isaías 6:8)",
 		"verse" : [
-				"1. Deshonra hoy la humanidad el santo nombre de Jehová; lo pintan como un Dios muy cruel o en él se niegan a creer. \"¿En mi defensa, quién saldrá y mi justicia exaltará?\" \"¡Aquí estoy yo! Envíame. Tu nombre yo defenderé..",
+				"1. Deshonra hoy la humanidad<br>el santo nombre de Jehová;<br>lo pintan como un Dios muy cruel<br>o en él se niegan a creer.<br>“¿En mi defensa, quién saldrá<br>y mi justicia exaltará?”<br>“¡Aquí estoy yo! Envíame.<br>Tu nombre yo defenderé.",
 
-				"2. Los necios dicen del Señor que es lento, que no tiene amor; adoran vanos ídolos o al César dan lo que es de Dios. \"¿Al malo, quién advertirá del juicio que se acerca ya?\" \"¡Aquí stoy yo! Envíame. Sin miedo yo le advertiré.",
+				"2. Los necios dicen del Señor<br>que es lento, que no tiene amor;<br>adoran vanos ídolos o al César dan lo que es de Dios.<br>“¿Al malo, quién advertirá<br>del juicio que se acerca ya?”<br>“¡Aquí estoy yo! Envíame.<br>Sin miedo yo le advertiré.",
 
-				"3. Los mansos gimen de dolor y al cielo elevan su clamor; ansiosos buscan la verdad que les dará la libertad. \"¿Al manso, quién enseñará las buenas nuevas de la paz?\" \"¡Aquí estoy yo! Envíame. Paciente yo le enseñaré."
+				"3. Los mansos gimen de dolor<br>y al cielo elevan su clamor;<br>ansiosos buscan la verdad que les dará la libertad.<br>“¿Al manso, quién enseñará<br>las buenas nuevas de la paz?”<br>“¡Aquí estoy yo! Envíame.<br>Paciente yo le enseñaré."
 		],
-		"chorus" : "\"Mayor honor no puede haber, no. Yo iré, envíame.\" ",
+		"chorus" : "”Mayor honor no puede haber, no.<br>Yo iré, envíame.”",
 		"footer" : "(Véanse también Sal. 10:4; Eze. 9:4.)"
 	},
 	{
@@ -1913,5 +1913,61 @@ var songdata = [
 		],
 		"chorus" : "Con pensamientos positivos,<br>pido valor a Dios.<br>Con entusiasmo me preparo,<br>es lo mejor.<br>Cuando predico, no voy solo,<br>miedo no sentiré.<br>Voy de la mano de Jehová Dios,<br>no temeré.",
 		"footer" : "(Vea también Ecl. 11:4; Mat. 10:5, 7; Luc. 10:1; Tito 2:14)."
-	}
+	},
+	{
+		"number" : "146",
+		"title" : "Hay vidas en juego",
+		"scripture" : "(Ezequiel 3:17-19)",
+		"verse" : [
+				"1. Dios desea que hoy<br>todos puedan escuchar<br>que su día de juicio<br>muy pronto llegará.",
+
+				"2. Invitamos a todos<br>a conocer a Dios.<br>Su mensaje de paz<br>proclamamos sin cesar.",
+
+				"(TRANSICIÓN)<br>Jehová nos pide cuentas,<br>es importante predicar.<br>Aquellos que respondan<br>tendrán la vida que Dios da."
+		],
+		"chorus" : "Sus vidas son de gran valor<br>y nuestra vida también.<br>Al escuchar a nuestro Dios,<br>podremos juntos obtener<br>salvación.",
+		"footer" : "(Vea también 2 Crón. 36:15; Is. 61:2; Ezeq. 33:6; 2 Tes. 1:8)."
+	},
+	{
+		"number" : "147",
+		"title" : "Hay vidas en juego",
+		"scripture" : "(Ezequiel 3:17-19)",
+		"verse" : [
+				"1. Dios desea que hoy<br>todos puedan escuchar<br>que su día de juicio<br>muy pronto llegará.",
+
+				"2. Invitamos a todos<br>a conocer a Dios.<br>Su mensaje de paz<br>proclamamos sin cesar.",
+
+				"(TRANSICIÓN)<br>Jehová nos pide cuentas,<br>es importante predicar.<br>Aquellos que respondan<br>tendrán la vida que Dios da."
+		],
+		"chorus" : "Sus vidas son de gran valor<br>y nuestra vida también.<br>Al escuchar a nuestro Dios,<br>podremos juntos obtener<br>salvación.",
+		"footer" : "(Vea también 2 Crón. 36:15; Is. 61:2; Ezeq. 33:6; 2 Tes. 1:8)."
+	},
+	{
+		"number" : "148",
+		"title" : "Hay vidas en juego",
+		"scripture" : "(Ezequiel 3:17-19)",
+		"verse" : [
+				"1. Dios desea que hoy<br>todos puedan escuchar<br>que su día de juicio<br>muy pronto llegará.",
+
+				"2. Invitamos a todos<br>a conocer a Dios.<br>Su mensaje de paz<br>proclamamos sin cesar.",
+
+				"(TRANSICIÓN)<br>Jehová nos pide cuentas,<br>es importante predicar.<br>Aquellos que respondan<br>tendrán la vida que Dios da."
+		],
+		"chorus" : "Sus vidas son de gran valor<br>y nuestra vida también.<br>Al escuchar a nuestro Dios,<br>podremos juntos obtener<br>salvación.",
+		"footer" : "(Vea también 2 Crón. 36:15; Is. 61:2; Ezeq. 33:6; 2 Tes. 1:8)."
+	},
+	{
+		"number" : "149",
+		"title" : "Hay vidas en juego",
+		"scripture" : "(Ezequiel 3:17-19)",
+		"verse" : [
+				"1. Dios desea que hoy<br>todos puedan escuchar<br>que su día de juicio<br>muy pronto llegará.",
+
+				"2. Invitamos a todos<br>a conocer a Dios.<br>Su mensaje de paz<br>proclamamos sin cesar.",
+
+				"(TRANSICIÓN)<br>Jehová nos pide cuentas,<br>es importante predicar.<br>Aquellos que respondan<br>tendrán la vida que Dios da."
+		],
+		"chorus" : "Sus vidas son de gran valor<br>y nuestra vida también.<br>Al escuchar a nuestro Dios,<br>podremos juntos obtener<br>salvación.",
+		"footer" : "(Vea también 2 Crón. 36:15; Is. 61:2; Ezeq. 33:6; 2 Tes. 1:8)."
+	},
 ];

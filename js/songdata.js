@@ -463,7 +463,7 @@ var songdata = [
 		"verse" : [
 				"1. Glorious Jehovah, almighty, eternal, Perfect in justice, in power, in love. Source of all truth and of infinite wisdom, You rule as Sov'reign in heaven above. We as your people delight in your service; Your Kingdom truth we delight to proclaim.",
 
-				"2. Working together in your sacred service Binds us as brothers in love and in peace. Teaching the truth and re?ecting your glory Fill us with joy as your praises increase. Known by your name, O Jehovah, our Father, We have the honor to add to your fame."
+				"2. Working together in your sacred service Binds us as brothers in love and in peace. Teaching the truth and reflecting your glory Fill us with joy as your praises increase. Known by your name, O Jehovah, our Father, We have the honor to add to your fame."
 		],
 		"chorus" : "Being your Witnesses, great is our priv'lege. Oh, may we ever live up to our name!",
 		"footer" : "(See also Deut. 32:4; Ps. 43:3; Dan. 2:20, 21.)"
@@ -512,7 +512,7 @@ var songdata = [
 		"verse" : [
 				"1. Please give ear, O Lord, Jehovah, Let yourself be found by me. Hear my prayer, and may you answer; Help me unafraid to be.",
 
-				"2. Had I wings just as a dove has, Far from danger I would ?y, Safe from those who seek to hurt me, Sheltered from their hateful cry.",
+				"2. Had I wings just as a dove has, Far from danger I would fly, Safe from those who seek to hurt me, Sheltered from their hateful cry.",
 
 				"3. I will call upon Jehovah, His protection I will seek. He gives peace midst opposition; Strength he gives to all the meek."
 		],
@@ -1900,5 +1900,64 @@ var songdata = [
 		],
 		"chorus" : "Positive thoughts and preparation,<br>Praying that we’ll succeed;<br>This can provide the inspiration,<br>We’ll surely need.<br>We’re not alone; the angels guide us.<br>Jesus commands them all.<br>And with a loyal friend beside us,<br>We’ll never fall.",
 		"footer" : "(See also Eccl. 11:4; Matt. 10:5, 7; Luke 10:1; Titus 2:14.)"
-	}
+	},
+	{
+		"number" : "146",
+		"title" : "You Did It for Me",
+		"scripture" : "(Matthew 25:34-40)",
+		"verse" : [
+			"1.  Other sheep Jesus has, and they serve alongside<br>those anointed to be Christ’s heavenly bride.<br>All the things that are done<br>for their comfort and aid<br>are things he considers that must be repaid.",
+			"2. “Yes, you comforted me in my hunger and thirst,<br>and whatever my need, you came to me first.”<br>“Tell us, when did we do this?”<br>these ones will reply.<br>The King will then answer them, telling them why:",
+			"3. “You’ve been loyal to me, doing works that are fine,<br>as you preach alongside these brothers of mine.”<br>So the King will then say<br>to the sheep on his right:<br>“Inherit the earth and perfection of life.”"
+		],
+		"chorus" : "“If you comforted them, you comforted me.<br>If you did it for them, you did it for me.<br>Your labors for them were your labors for me.<br>You did it for them; you did it for me.<br>If you did it for them, you did it for me.”",
+		"footer" : "(See also Prov. 19:17; Matt. 10:40-42; 2 Tim. 1:16, 17.)"
+	},
+	{
+		"number" : "147",
+		"title" : "A Special Possession",
+		"scripture" : "(1 Peter 2:9)",
+		"verse" : [
+			"1. God has a new creation,<br>His spirit-anointed sons.<br>He has bought them from mankind;<br>His approval they’ve won.",
+			"2. They are a holy nation,<br>Who handle the truth aright.<br>God has called them from darkness<br>To his wonderful light.",
+			"3. Faithful to their commission,<br>They gather the other sheep.<br>To the Lamb they are loyal.<br>His commandments they keep."
+		],
+		"chorus" : "A special possession,<br>They’re a people for your name.<br>They love you. They praise you.<br>As one they declare abroad your fame.",
+		"footer" : "(See also Isa. 43:20b, 21; Mal. 3:17; Col. 1:13.)"
+	},
+	{
+		"number" : "148",
+		"title" : "You Gave Your Only-Begotten Son",
+		"scripture" : "(John 15:13)",
+		"verse" : [
+			"1. Jehovah, dear Father,<br>There seemed no hope for us.<br>The ransom has given<br>Hope to ev’ryone!<br>We give our lives to you,<br>Our best in all we do.<br>And we’ll tell others too,<br>That your will might be done.",
+			"2. There’s a message to preach,<br>so we spread it all abroad.<br>We invite all to come and<br>be reconciled to God.",
+			"(Ending)<br>Jehovah, dear Father, we pray in gratitude.<br>We offer our thanks, for giving us your only Son."
+		],
+		"chorus" : "You gave your only Son,<br>And now we sing as one,<br>A song we’ll sing forever,<br>for giving us your only Son.",
+		"footer" : "(See also John 3:16; 1 John 4:9.)"
+	},
+	{
+		"number" : "149",
+		"title" : "Grateful for the Ransom",
+		"scripture" : "(Luke 22:20)",
+		"verse" : [
+			"1. Today, Jehovah God,<br>we stand before your throne,<br>For you showed the greatest love<br>that could ever be shown.<br>You gave the gift of your dear Son,<br>that we might live.<br>No greater sacrifice than this<br>could you ever give.",
+			"2. It was a willing sacrifice<br>that Jesus made.<br>Out of love, his perfect life<br>was the price that he paid.<br>We had no hope until he came<br>to save mankind.<br>But now our hope is finding life,<br>leaving death behind."
+		],
+		"chorus" : "He gave his life to set us free.<br>His precious blood provides the key.<br>With all our hearts,<br>we’ll go on thanking you eternally.",
+		"footer" : "(See also Heb. 9:13, 14; 1 Pet. 1:18, 19.)"
+	},
+	{
+		"number" : "150",
+		"title" : "Reaching Out",
+		"scripture" : "(Matthew 9:37, 38)",
+		"verse" : [
+			"1. Jehovah knows just what we need<br>To bring us joy and to succeed.<br>So he provides so many ways<br>In which to serve and spend our days.",
+			"2. There’s work to do in ev’ry land.<br>Where there’s a need, we lend a hand.<br>By reaching out, we show we care.<br>We want to help and want to share.",
+			"3. And here at home, in towns nearby,<br>We plan, we build, new skills we try.<br>We learn to speak a foreign tongue<br>And bring good news to ev’ryone."
+		],
+		"chorus" : "Reaching out, giving all,<br>for our God above.<br>And where the need is great, there we’ll be,<br>reaching out in love.",
+		"footer" : "(See also John 4:35; Acts 2:8; Rom. 10:14.)"
+	},
 ];
