@@ -1916,58 +1916,58 @@ var songdata = [
 	},
 	{
 		"number" : "146",
-		"title" : "Hay vidas en juego",
-		"scripture" : "(Ezequiel 3:17-19)",
+		"title" : "Próximamente",
+		"scripture" : "",
 		"verse" : [
-				"1. Dios desea que hoy<br>todos puedan escuchar<br>que su día de juicio<br>muy pronto llegará.",
-
-				"2. Invitamos a todos<br>a conocer a Dios.<br>Su mensaje de paz<br>proclamamos sin cesar.",
-
-				"(TRANSICIÓN)<br>Jehová nos pide cuentas,<br>es importante predicar.<br>Aquellos que respondan<br>tendrán la vida que Dios da."
+				""
 		],
-		"chorus" : "Sus vidas son de gran valor<br>y nuestra vida también.<br>Al escuchar a nuestro Dios,<br>podremos juntos obtener<br>salvación.",
-		"footer" : "(Vea también 2 Crón. 36:15; Is. 61:2; Ezeq. 33:6; 2 Tes. 1:8)."
+		"chorus" : "",
+		"footer" : ""
 	},
 	{
 		"number" : "147",
-		"title" : "Hay vidas en juego",
-		"scripture" : "(Ezequiel 3:17-19)",
+		"title" : "Una posesión especial",
+		"scripture" : "(1 Pedro 2:9)",
 		"verse" : [
-				"1. Dios desea que hoy<br>todos puedan escuchar<br>que su día de juicio<br>muy pronto llegará.",
+				"1. ¡Miren el nuevo pueblo<br>que Dios con amor creó!<br>Lo compró de la Tierra,<br>le dará salvación.",
 
-				"2. Invitamos a todos<br>a conocer a Dios.<br>Su mensaje de paz<br>proclamamos sin cesar.",
+				"2. Son los ungidos santos,<br>nación que fundó Jehová.<br>No están en tinieblas,<br>pues la luz Dios les da.",
 
-				"(TRANSICIÓN)<br>Jehová nos pide cuentas,<br>es importante predicar.<br>Aquellos que respondan<br>tendrán la vida que Dios da."
+				"3. Son fieles al Cordero,<br>le sirven con lealtad.<br>A las otras ovejas<br>con bondad cuidarán."
 		],
-		"chorus" : "Sus vidas son de gran valor<br>y nuestra vida también.<br>Al escuchar a nuestro Dios,<br>podremos juntos obtener<br>salvación.",
-		"footer" : "(Vea también 2 Crón. 36:15; Is. 61:2; Ezeq. 33:6; 2 Tes. 1:8)."
+		"chorus" : "Jehová, son tus hijos,<br>tu tesoro especial.<br>Te quieren, te honran,<br>proclaman unidos tu verdad.",
+		"footer" : "(Vea también Is. 43:20b, 21; Mal. 3:17; Col. 1:13)."
 	},
 	{
 		"number" : "148",
-		"title" : "Hay vidas en juego",
-		"scripture" : "(Ezequiel 3:17-19)",
+		"title" : "Próximamente",
+		"scripture" : "",
 		"verse" : [
-				"1. Dios desea que hoy<br>todos puedan escuchar<br>que su día de juicio<br>muy pronto llegará.",
-
-				"2. Invitamos a todos<br>a conocer a Dios.<br>Su mensaje de paz<br>proclamamos sin cesar.",
-
-				"(TRANSICIÓN)<br>Jehová nos pide cuentas,<br>es importante predicar.<br>Aquellos que respondan<br>tendrán la vida que Dios da."
+				""
 		],
-		"chorus" : "Sus vidas son de gran valor<br>y nuestra vida también.<br>Al escuchar a nuestro Dios,<br>podremos juntos obtener<br>salvación.",
-		"footer" : "(Vea también 2 Crón. 36:15; Is. 61:2; Ezeq. 33:6; 2 Tes. 1:8)."
+		"chorus" : "",
+		"footer" : ""
 	},
 	{
 		"number" : "149",
-		"title" : "Hay vidas en juego",
-		"scripture" : "(Ezequiel 3:17-19)",
+		"title" : "Gracias por el rescate",
+		"scripture" : "(Lucas 22:20)",
 		"verse" : [
-				"1. Dios desea que hoy<br>todos puedan escuchar<br>que su día de juicio<br>muy pronto llegará.",
+				"1. Jehová, con gratitud<br>queremos hoy cantar.<br>Tu amor eterno,<br>nadie podrá superar.<br>Tu Hijo tan amado diste<br>por bondad;<br>el sacrificio de Jesús<br>nos da libertad.",
 
-				"2. Invitamos a todos<br>a conocer a Dios.<br>Su mensaje de paz<br>proclamamos sin cesar.",
-
-				"(TRANSICIÓN)<br>Jehová nos pide cuentas,<br>es importante predicar.<br>Aquellos que respondan<br>tendrán la vida que Dios da."
+				"2. No fue con oro<br>que Jesús nos rescató.<br>Su preciosa vida<br>quiso ceder por amor.<br>Ya no vivimos tristes<br>en oscuridad;<br>tenemos esperanza<br>de no morir jamás."
 		],
-		"chorus" : "Sus vidas son de gran valor<br>y nuestra vida también.<br>Al escuchar a nuestro Dios,<br>podremos juntos obtener<br>salvación.",
-		"footer" : "(Vea también 2 Crón. 36:15; Is. 61:2; Ezeq. 33:6; 2 Tes. 1:8)."
+		"chorus" : "Su sangre fue de gran valor,<br>nos regaló la salvación.<br>De corazón queremos<br>siempre darte gracias, Dios.",
+		"footer" : "(Vea también Heb. 9:13, 14; 1 Ped. 1:18, 19)."
 	},
+	{
+		"number" : "150",
+		"title" : "Próximamente",
+		"scripture" : "",
+		"verse" : [
+				""
+		],
+		"chorus" : "",
+		"footer" : ""
+	}
 ];
