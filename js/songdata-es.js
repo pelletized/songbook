@@ -1875,7 +1875,7 @@ var songdata = [
 		"chorus" : "Siempre es el corazón<br>lo que cuenta para Dios;<br>a todos les ofrece la verdad.<br>Él creó la variedad,<br>todos pueden aspirar<br>a ser amigos del gran Dios Jehová.",
 		"footer" : "(Vea también Juan 12:32; Hech. 10:34; 1 Tim. 4:10; Tito 2:11.)"
 	},
-	
+
 	{
 		"number" : "143",
 		"title" : "Luz en un mundo oscuro",
@@ -1887,7 +1887,7 @@ var songdata = [
 		],
 		"chorus" : "Triunfa, muy gloriosa,<br>la fiel Palabra de Dios<br>y brilla la verdad.<br>Qué bello mensaje:<br>ya no veremos dolor<br>ni más maldad.",
 		"footer" : "(Vea también Juan 3:19; 8:12; Rom. 13:11, 12; 1 Ped. 2:9)"
-	},	
+	},
 	{
 		"number" : "144",
 		"title" : "Hay vidas en juego",
@@ -1901,7 +1901,7 @@ var songdata = [
 		],
 		"chorus" : "Sus vidas son de gran valor<br>y nuestra vida también.<br>Al escuchar a nuestro Dios,<br>podremos juntos obtener<br>salvación.",
 		"footer" : "(Vea también 2 Crón. 36:15; Is. 61:2; Ezeq. 33:6; 2 Tes. 1:8)."
-	},	
+	},
 	{
 		"number" : "145",
 		"title" : "Hoy voy a predicar",
@@ -1916,13 +1916,15 @@ var songdata = [
 	},
 	{
 		"number" : "146",
-		"title" : "Próximamente",
-		"scripture" : "",
+		"title" : "“Lo hiciste por mí”",
+		"scripture" : "(Mateo 25:34-40)",
 		"verse" : [
-				""
+				"1.  Jesucristo, el Rey, quiere recompensar<br>a las otras ovejas por su lealtad.<br>A sus siervos ungidos<br>cariño les dan,<br>les brindan ayuda con fidelidad.",
+				"2. “Tú calmaste mi sed, me brindaste tu pan,<br>pues mi necesidad fue tu prioridad”.<br>“Dime, ¿cuándo lo hice?<br>Quisiera saber”.<br>Entonces escucho al Rey responder:",
+				"3.  “Siempre haces el bien en la predicación;<br>junto con mis hermanos muestras lealtad”.<br>A su diestra, el Rey<br>me pondrá y dirá:<br>“Hereda la Tierra y la perfección”."
 		],
-		"chorus" : "",
-		"footer" : ""
+		"chorus" : "“Si me fuiste leal, con obras de fe,<br>si tendiste tu mano sin interés,<br>si por mis hermanos mostraste bondad,<br>recuerda que fue también para mí.<br>Tu trabajo por ellos fue para mí”.",
+		"footer" : "(Vea también Prov. 19:17; Mat. 10:40-42; 2 Tim. 1:16, 17)."
 	},
 	{
 		"number" : "147",
@@ -1940,13 +1942,15 @@ var songdata = [
 	},
 	{
 		"number" : "148",
-		"title" : "Próximamente",
-		"scripture" : "",
+		"title" : "Entregaste a tu amado Hijo",
+		"scripture" : "(Juan 15:13)",
 		"verse" : [
-				""
+				"1. Ninguna salida<br>veíamos, Jehová.<br>Mas tú nos ofreces<br>luz y salvación.<br>Te damos lo mejor<br>de todo corazón;<br>queremos proclamar<br>a todos tu verdad.",
+				"2. Nos muestras cariño,<br>bondad y compasión.<br>Tu nombre merece<br>nuestra devoción.<br>Y diste algo más:<br>tu Hijo celestial;<br>la muerte de Jesús<br>da vida sin final.",
+				"(CONCLUSIÓN) Oh, Padre amado, oramos hoy a ti;<br>nos faltan palabras para darte gracias, Dios."
 		],
-		"chorus" : "",
-		"footer" : ""
+		"chorus" : "Tu Hijo entregó<br>su vida con amor.<br>Las gracias te daremos<br>por siempre, Padre, con canción.",
+		"footer" : "(Vea también Juan 3:16; 1 Juan 4:9)."
 	},
 	{
 		"number" : "149",
